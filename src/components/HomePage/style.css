@@ -1,0 +1,46 @@
+table{
+    width: 100%;
+}
+
+.main_table thead th{
+    padding: 6px;
+    background-color: #17252a;
+    color: white;
+}
+
+/* table th, td
+{
+    border: 1px solid black;
+} */
+
+.table-cont td{
+    border-bottom: 1px solid black;
+    border-left:  1px solid black;
+}
+
+.table-cont td{
+    border-bottom: 1px solid black;
+    border-left:  1px solid black;
+}
+
+.main_table tbody{
+    overflow-y: auto;
+    width: 100%;
+}
+
+/* .main_table thead, tbody, tr, td, th {
+    display: block;
+} */
+
+.main_table td{
+    padding: 6px;
+}
+
+
+/* .main_table tbody td{
+    float: left;
+} */
+
+.table-cont .col-id{
+    text-align: center;
+} 
