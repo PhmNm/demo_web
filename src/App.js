@@ -7,7 +7,7 @@ import HomePage from './components/HomePage/HomePage';
 function App() {
   return (
     <div className="App">
-      <HomePage />
+      <HomePage itemsPerPage={5} />
     </div>
 
   );
