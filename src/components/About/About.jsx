@@ -17,8 +17,6 @@ function About(props) {
                     <h1>ABOUT THIS WEBSITE</h1>
                     <p>This website is created for mining English-VietNam parallel corpus</p>
                 </div>
-                <h2 style={{ textAlign: 'center' }}>Two features</h2>
-                {/* SAVE ONE COLUMN FOR FUTURE FEATURE */}
                 <div className="column">
                     <div className="card">
                         <div className="container">
