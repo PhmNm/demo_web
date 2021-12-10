@@ -14,7 +14,7 @@ function App() {
     <div className="App">
       <div>
         <header className="header">
-          <h2>English-VietNam Parallel Corpus</h2>
+          <h2>English-VietNamese Parallel Corpus</h2>
         </header>
         <div className="nav-menu">
           <Link to="/about">ABOUT </Link>
