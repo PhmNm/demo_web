@@ -1,15 +1,34 @@
 // import logo from './logo.svg';
 import './App.css';
 import HomePage from './components/HomePage/HomePage';
-
-
-
+import About from './components/About/About';
+// import { Link } from 'react-router-dom';
+// import { Redirect, Route, Switch } from 'react-router';
+import {
+  Switch,
+  Route,
+  Link
+} from "react-router-dom";
 function App() {
   return (
     <div className="App">
-      <HomePage itemsPerPage={10} />
+      <div>
+        <header className="header">
+          <h2>English-VietNam Parallel Corpus</h2>
+        </header>
+        <div className="nav-menu">
+          <Link to="/about">ABOUT </Link>
+          <Link to='/search'>SEARCH</Link>
+          {/* <a href="statistic.html">STATISTICS</a> */}
+          <Link to="/home">HOME </Link>
+        </div>
+      </div>
+      <Switch>
+        <Route path="/" component={HomePage} exact />
+        <Route path="/home" component={HomePage} />
+        <Route path="/about" component={About} />
+      </Switch>
     </div>
-
   );
 }
 

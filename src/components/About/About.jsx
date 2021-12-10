@@ -1,8 +1,10 @@
 import React from 'react';
+import './style.css';
+import { Link } from 'react-router-dom';
 
-About.propTypes = {
+// About.propTypes = {
 
-};
+// };
 
 function About(props) {
     return (
@@ -11,7 +13,6 @@ function About(props) {
                 <meta charSet="UTF-8" />
                 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
                 <title>About</title>
-                <link rel="stylesheet" href="about.css" />
                 <div className="about">
                     <h1>ABOUT THIS WEBSITE</h1>
                     <p>This website is created for mining English-VietNam parallel corpus</p>
@@ -21,9 +22,9 @@ function About(props) {
                 <div className="column">
                     <div className="card">
                         <div className="container">
-                            <h2>Show parralel corpus</h2>
-                            <p>This is the home page default, you can see some of our parallel corpus here</p>
-                            <a href="index.html" className="button">Go to homepage</a>
+                            <h2>Parralel corpus</h2>
+                            <p>See some of our parallel corpus here</p>
+                            <Link to="/" className="button">Go to homepage</Link>
                         </div>
                     </div>
                 </div>
@@ -36,7 +37,7 @@ function About(props) {
                         </div>
                     </div>
                 </div>
-                <div className="column">
+                {/* <div className="column">
                     <div className="card">
                         <div className="container">
                             <h2>Statistics</h2>
@@ -44,7 +45,7 @@ function About(props) {
                             <a href="statictics.html" className="button">Go to seach page</a>
                         </div>
                     </div>
-                </div>
+                </div> */}
             </div>
         </>
     );

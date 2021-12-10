@@ -19,7 +19,6 @@
     border-bottom: 1px solid black;
     border-left:  1px solid black;
     border-right:  1px solid black;
-
 }
 
 
@@ -38,9 +37,9 @@
 
 .table-cont .col-id{
     text-align: center;
-    /* border-bottom: 1px solid black; */
 }
 .table-cont .col-sentence{
     text-align: left;
-    border-bottom: 2px solid black;
+    border-bottom: 1px solid black;
 }
+

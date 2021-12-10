@@ -5,23 +5,8 @@ import React, {
 import ReactPaginate from 'react-paginate';
 import './style.css';
 import fTest from './dat_short.json';
-const data = fTest.collection
-const getdata = fTest.collection.map((data) => {
-    return (
-        <>
-            <tr>
-                <td rowSpan="2" className="col-id">{data.id}</td>
-                <td className="col-sentence">{data.eng}</td>
-            </tr>
 
-            <tr>
-                <td className="col-sentence">{data.vie}</td>
-            </tr>
-        </>
-    )
-
-})
-console.log(getdata);
+const data = fTest.collection;
 
 
 function Items({ currentItems }) {
@@ -92,12 +77,9 @@ function Items({ currentItems }) {
 //     );
 // }
 
-// Add a <div id="container"> to your HTML to see the componend rendered.
-// ReactDOM.render(
-//   <PaginatedItems itemsPerPage={4} />,
-//   document.getElementById("container")
-// );
-function HomePage({ itemsPerPage }) {
+
+function HomePage() {
+    const itemsPerPage = 10;
     const [currentItems, setCurrentItems] = useState(null);
     const [pageCount, setPageCount] = useState(0);
     // Here we use item offsets; we could also use page offsets
@@ -119,56 +101,44 @@ function HomePage({ itemsPerPage }) {
 
     return (
         <>
-            <div>
-                <header className="header">
-                    <h2>English-VietNam Parallel Corpus</h2>
-                </header>
-                {/* <TestNe /> */}
-                <div className="nav-menu">
-                    <a href="about.html">ABOUT </a>
-                    <a href="search.html">SEARCH</a>
-                    <a href="statistic.html">STATISTICS</a>
-                    <a href="index.html">HOME</a>
-                </div>
-                <div className="main_table">
-                    <div id="root" /><table className="table">
-                        <thead>
-                            <tr>
-                                <th className="col-id">ID</th>
-                                <th className="col-sentence">Sentence</th>
-                            </tr>
-                        </thead>
-                        <tbody className="table-cont">
+            <div className="main_table">
+                <div id="root" /><table className="table">
+                    <thead>
+                        <tr>
+                            <th className="col-id">ID</th>
+                            <th className="col-sentence">Sentence</th>
+                        </tr>
+                    </thead>
+                    <tbody className="table-cont">
 
-                            <Items currentItems={currentItems} />
-                            {/* <tr>
+                        <Items currentItems={currentItems} />
+                        {/* <tr>
                                 <td rowSpan="2" className="col-id">1</td>
                                 <td className="col-sentence">Lorem ipsum dolor sit amet, consectetur.</td>
                             </tr> */}
 
-                        </tbody>
-                        <ReactPaginate
-                            nextLabel=">>"
-                            onPageChange={handlePageClick}
-                            pageRangeDisplayed={0}
-                            marginPagesDisplayed={0}
-                            pageCount={pageCount}
-                            previousLabel="<<"
-                            pageClassName="page-item"
-                            pageLinkClassName="page-link"
-                            previousClassName="page-item"
-                            previousLinkClassName="page-link"
-                            nextClassName="page-item"
-                            nextLinkClassName="page-link"
-                            breakLabel=""
-                            // breakClassName="page-item"
-                            // breakLinkClassName="page-link"
-                            containerClassName="pagination"
-                            activeClassName="active"
-                            renderOnZeroPageCount={null}
-                        />
-                    </table>
-                </div>
+                    </tbody>
+                    <ReactPaginate
+                        nextLabel=">>"
+                        onPageChange={handlePageClick}
+                        pageRangeDisplayed={0}
+                        marginPagesDisplayed={0}
+                        pageCount={pageCount}
+                        previousLabel="<<"
+                        pageClassName="page-item"
+                        pageLinkClassName="page-link"
+                        previousClassName="page-item"
+                        previousLinkClassName="page-link"
+                        nextClassName="page-item"
+                        nextLinkClassName="page-link"
+                        breakLabel=""
+                        // breakClassName="page-item"
+                        // breakLinkClassName="page-link"
+                        containerClassName="pagination"
+                        activeClassName="active"
+                        renderOnZeroPageCount={null}
+                    />
+                </table>
             </div>
         </>
     );
