@@ -2,6 +2,7 @@
 import './App.css';
 import HomePage from './components/HomePage/HomePage';
 import About from './components/About/About';
+import Search from './components/Search/Search';
 // import { Link } from 'react-router-dom';
 // import { Redirect, Route, Switch } from 'react-router';
 import {
@@ -20,13 +21,13 @@ function App() {
           <Link to="/about">ABOUT </Link>
           <Link to='/search'>SEARCH</Link>
           {/* <a href="statistic.html">STATISTICS</a> */}
-          <Link to="/home">HOME </Link>
+          <Link to="/">HOME </Link>
         </div>
       </div>
       <Switch>
         <Route path="/" component={HomePage} exact />
-        <Route path="/home" component={HomePage} />
         <Route path="/about" component={About} />
+        <Route path="/search" component={Search} />
       </Switch>
     </div>
   );

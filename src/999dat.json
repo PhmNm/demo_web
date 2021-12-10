@@ -1,0 +1,4999 @@
+{
+    "collection": [
+        {
+            "id": "00001",
+            "eng": " ' It ’ ll be cheap at the price if it keeps the family happy !",
+            "vie": " ' Nếu điều đó giữ được hạnh_phúc gia_đình thì vẫn còn hời đấy !"
+        },
+        {
+            "id": "00002",
+            "eng": " ' Renmin 'means ' people ' and ' bi 'means ' currency ' or 'money ' .",
+            "vie": " ' Renbim ' có nghĩa là ' nhân_dân ' và ' bi ' có nghĩa là ' tiền_tệ ' hoặc ' tiền ' ."
+        },
+        {
+            "id": "00003",
+            "eng": " Thank you for showing us your collection of painting,  \" It ’ s my privilege \" .",
+            "vie": " Xin cám_ơn ông đã cho chúng_tôi xem bộ sưu_tập hoạ_phẩm của ông , \" Đó là đặc_ân của tôi \" ."
+        },
+        {
+            "id": "00004",
+            "eng": " \" Chorus Line \" is at the Hartford Theater , it says here .",
+            "vie": " Ở đây người_ta nói ban hợp_xướng \" Chorus_Line \" đang biểu_diễn ở rạp Hartford ."
+        },
+        {
+            "id": "00005",
+            "eng": " £ 10 will cover our petrol for the journey .",
+            "vie": " 10 bảng Anh là đủ tiền xăng cho cuộc hành_trình của chúng_tôi ."
+        },
+        {
+            "id": "00006",
+            "eng": " £ 2 shares are now worth £ 2.75 .",
+            "vie": " Những cổ_phần 2 bảng Anh bây_giờ đáng_giá 2.75 bảng ."
+        },
+        {
+            "id": "00007",
+            "eng": " £ 20 means a lot to a poor person .",
+            "vie": " 20 bảng Anh là một món tiền lớn đối_với một người nghèo ."
+        },
+        {
+            "id": "00008",
+            "eng": " £ 20.000 is a very respectable salary .",
+            "vie": " 20.000 bảng Anh là một số tiền_lương rất đáng_kể ."
+        },
+        {
+            "id": "00009",
+            "eng": " £ 3 is very cheap for a hardback book .",
+            "vie": " 3 bảng Anh là quá rẻ đối_với một quyển sách bìa cứng ."
+        },
+        {
+            "id": "00010",
+            "eng": " £ 30 a month goes towards a pension fund .",
+            "vie": " 30 bảng Anh một tháng đóng_góp vào tiền hưu_trí ."
+        },
+        {
+            "id": "00011",
+            "eng": " £ 5 will be ample for my needs .",
+            "vie": " 5 bảng thôi là quá đủ cho nhu_cầu của tôi ."
+        },
+        {
+            "id": "00012",
+            "eng": " £ 50 should be enough to be going on with .",
+            "vie": " Phải là 50 bảng Anh mới vừa đủ ."
+        },
+        {
+            "id": "00013",
+            "eng": " £ 57.50 including postage and packing .",
+            "vie": " 57.50 bảng Anh tính cả cước_phí và phí đóng_gói ."
+        },
+        {
+            "id": "00014",
+            "eng": " 1 , 3 , 5 and 7 are odd numbers .",
+            "vie": " Số 1 , 3 , 5 , 7 là những số_lẻ ."
+        },
+        {
+            "id": "00015",
+            "eng": " 1 / 2 , 3 / 4 , 19 / 20 are proper fractions .",
+            "vie": " 1 / 2 , 3 / 4 , 19 / 20 là những phân_số thực_sự ."
+        },
+        {
+            "id": "00016",
+            "eng": " 1 December has been nominated as the day of the election .",
+            "vie": " Ngày 1 tháng_chạp dương_lịch đã được chính_thức chọn là ngày bầu_cử ."
+        },
+        {
+            "id": "00017",
+            "eng": " 1,000, 100 and 10 are the antilogarithms of 3, 2 and 1.",
+            "vie": " 1.000 , 100 và 10 là những số_đối loga của 3 , 2 và 1 ."
+        },
+        {
+            "id": "00018",
+            "eng": " 10 Downing Street is the British Prime Minister ' s official residence .",
+            "vie": " Số 10 đường Downing là dinh chính_thức của Ngài Thủ_Tướng Anh ."
+        },
+        {
+            "id": "00019",
+            "eng": " 10 will cover our petrol for the journey .",
+            "vie": " 10 bảng Anh là đủ tiền xăng cho cuộc hành_trình của chúng_tôi ."
+        },
+        {
+            "id": "00020",
+            "eng": " 10p off if you use this coupon .",
+            "vie": " Giảm 10 xu nếu ông dùng phiếu này ."
+        },
+        {
+            "id": "00021",
+            "eng": " 12 is the least common multiple of 2, 3, 4, and 6.",
+            "vie": " 12 là bội_số chung nhỏ nhất của 2 , 3 , 4 và 6 ."
+        },
+        {
+            "id": "00022",
+            "eng": " 14 , 21 , and 28 are multiples of 7 .",
+            "vie": " 14 , 21 và 28 là những bội_số của 7 ."
+        },
+        {
+            "id": "00023",
+            "eng": " 1949 was the bicentenary of Goethe ' s birth .",
+            "vie": " Năm 1949 là năm kỷ_niệm lần thứ hai trăm ngày_sinh của Goethe ."
+        },
+        {
+            "id": "00024",
+            "eng": " 2 , 3 , 4 and 6 are factors of 12 .",
+            "vie": " 2 , 3 , 4 và 6 là thừa_số của 12 ."
+        },
+        {
+            "id": "00025",
+            "eng": " 20 delegates voted for the motion .",
+            "vie": " 20 đại_biểu bỏ_phiếu thuận đối_với kiến_nghị đó ."
+        },
+        {
+            "id": "00026",
+            "eng": " 20 độ C means twenty degrees centigrade .",
+            "vie": " 20 độ C nghĩa_là 20 độ bách_phân ."
+        },
+        {
+            "id": "00027",
+            "eng": " 20 goes nowhere when you ' re feeding a family these days .",
+            "vie": " Thời_buổi này 20 bảng Anh chẳng nghĩa_lý gì khi bạn phải nuôi một gia_đình ."
+        },
+        {
+            "id": "00028",
+            "eng": " 20 kilos of heroin were seized yesterday at Heathrow .",
+            "vie": " Hôm_qua ở sân_bay Heathrow người_ta đã tịch_thu được 20 kilô hêrôin ."
+        },
+        {
+            "id": "00029",
+            "eng": " 20 years ago this area was visited by a terrible disease .",
+            "vie": " 20 năm trước vùng này đã bị một căn_bệnh khủng_khiếp hoành_hành ."
+        },
+        {
+            "id": "00030",
+            "eng": " 200 men have been sacked at the factory .",
+            "vie": " 200 người ở xí_nghiệp đó đã bị sa_thải ."
+        },
+        {
+            "id": "00031",
+            "eng": " 200 pounds is a lot of money to part with for that chair .",
+            "vie": " 200 bảng bỏ ra để mua cái ghế đó thì nhiều đấy ."
+        },
+        {
+            "id": "00032",
+            "eng": " 20p is the minimum fare on buses .",
+            "vie": " 20 xu là tiền vé xe_buýt thấp nhất ."
+        },
+        {
+            "id": "00033",
+            "eng": " 250 grams or an equivalent amount in ounces .",
+            "vie": " 250 g hoặc một lượng tương_đương tính bằng aoxơ ."
+        },
+        {
+            "id": "00034",
+            "eng": " 3,000 students each year would be an approximation .",
+            "vie": " Con_số ước_lượng có_lẽ là khoảng 3.000 học_sinh mỗi năm ."
+        },
+        {
+            "id": "00035",
+            "eng": " 30 a month goes towards a pension fund .",
+            "vie": " 30 bảng Anh một tháng đóng_góp vào tiền hưu_trí ."
+        },
+        {
+            "id": "00036",
+            "eng": " 30 is a common multiple of 2 , 3 , 5 , 6 , 10 and 15 .",
+            "vie": " 30 là bội_số chung của 2 , 3 , 5 , 6 , 10 và 15 ."
+        },
+        {
+            "id": "00037",
+            "eng": " 300 only approximation of the right number .",
+            "vie": " 300 chỉ là con_số xấp_xỉ so với con_số chính_xác ."
+        },
+        {
+            "id": "00038",
+            "eng": " 4 is the square root of 16 , the cube root of 64 and the fourth root of 256 .",
+            "vie": " 4 là căn bậc hai của 16 , căn bậc ba của 64 , căn bậc bốn của 256 ."
+        },
+        {
+            "id": "00039",
+            "eng": " 4 is to 8 as 6 is to 12 is a statement of proportion .",
+            "vie": " 4 so với 8 bằng 6 so với 12 là một điều nêu lên tỷ_lệ_thức ."
+        },
+        {
+            "id": "00040",
+            "eng": " 5 years in prison had not chastened him .",
+            "vie": " Năm năm trong tù chẳng cải_tạo được gì nó ."
+        },
+        {
+            "id": "00041",
+            "eng": " 5,000 has been appropriated for a new training scheme .",
+            "vie": " 5.000 bảng Anh đã được dành riêng cho một kế_hoạch huấn_luyện mới ."
+        },
+        {
+            "id": "00042",
+            "eng": " 50 should be enough to be going on with .",
+            "vie": " Phải là 50 bảng Anh mới vừa đủ ."
+        },
+        {
+            "id": "00043",
+            "eng": " 50p isn't worth quibbling about .",
+            "vie": " 50 xu thì không đáng để đôi_co với nhau ."
+        },
+        {
+            "id": "00044",
+            "eng": " 6 - point is small and 18 - point is large .",
+            "vie": " Cỡ chữ 6 chấm là loại bé và cỡ chữ 18 chấm là loại lớn ."
+        },
+        {
+            "id": "00045",
+            "eng": " 60 watts will be better when I put on my make - up .",
+            "vie": " Khi tôi trang_điểm thì 60 oát sẽ thích_hợp hơn ."
+        },
+        {
+            "id": "00046",
+            "eng": " 8 is divisible by 2 and 4 , but not by 3 .",
+            "vie": " 8 có_thể chia chẵn cho 2 và 4 , nhưng không chia chẵn cho 3 ."
+        },
+        {
+            "id": "00047",
+            "eng": " 9 is a member of the set of all numbers greater than .",
+            "vie": " 9 là một phần_tử của tập_hợp các số_lớn hơn ."
+        },
+        {
+            "id": "00048",
+            "eng": " A . D . i was not actually the year when Christ was born .",
+            "vie": " Năm thứ nhất sau công_nguyên thật_sự không phải là năm Chúa được sinh ra ."
+        },
+        {
+            "id": "00049",
+            "eng": " A £ 1,000 reward has been offered for the return of the stolen painting .",
+            "vie": " Một số tiền thưởng 1.000 bảng Anh dành cho việc trả lại bức tranh bị mất_cắp ."
+        },
+        {
+            "id": "00050",
+            "eng": " A 5 % discount is the best we can offer you because of a rise in the labor cost .",
+            "vie": " Mức chiết_khấu 5 % là mức cao nhất mà chúng_tôi có_thể dành cho các ông bởi_vì chi_phí nhân_công đang gia_tăng ."
+        },
+        {
+            "id": "00051",
+            "eng": " A 7 % discount is the best we can offer you .",
+            "vie": " Mức chiết_khấu 7 % là mức cao nhất mà chúng_tôi có_thể dành cho các ông ."
+        },
+        {
+            "id": "00052",
+            "eng": " A baby crawls around before it can walk .",
+            "vie": " Trẻ_con biết bò trước khi biết đi ."
+        },
+        {
+            "id": "00053",
+            "eng": " A baby has no knowledge of good and evil .",
+            "vie": " Một đứa bé không hiểu_biết về thiện và ác ."
+        },
+        {
+            "id": "00054",
+            "eng": " A baby stifled by a pillow .",
+            "vie": " Một đứa bé bị cái gối làm ngộp thở ."
+        },
+        {
+            "id": "00055",
+            "eng": " A bad driver was responsible for their deaths .",
+            "vie": " Một người lái_xe ẩu đã phải chịu trách_nhiệm về cái chết của họ ."
+        },
+        {
+            "id": "00056",
+            "eng": " A balcony that juts out over the garden .",
+            "vie": " Một cái ban_công nhô ra trên khu vườn ."
+        },
+        {
+            "id": "00057",
+            "eng": " A balcony that projects over the street .",
+            "vie": " Một bao_lơn nhô ra bên trên đường_phố ."
+        },
+        {
+            "id": "00058",
+            "eng": " A ballet tells a story without any words to help .",
+            "vie": " Một vở ba - lê_thường kể lại một câu_chuyện mà không một lời_nói nào ."
+        },
+        {
+            "id": "00059",
+            "eng": " A balloon floated across the sky .",
+            "vie": " Một khí_cầu bay lơ_lửng trên trời ."
+        },
+        {
+            "id": "00060",
+            "eng": " A band of low pressure is moving across the country .",
+            "vie": " Một luồng khí_áp_thấp đang di_chuyển qua đất_nước ."
+        },
+        {
+            "id": "00061",
+            "eng": " A band of true believers bonded together against those who did not agree with them .",
+            "vie": " Một nhóm người tận_tụy đoàn_kết với nhau chống lại những người không đồng_ý với họ ."
+        },
+        {
+            "id": "00062",
+            "eng": " A band of wandering dancers came to the town .",
+            "vie": " Đoàn diễn_viên múa đi lưu_diễn đã đến tỉnh ."
+        },
+        {
+            "id": "00063",
+            "eng": " A band which goes over big pop fans .",
+            "vie": " Ban nhạc đạt được sự cổ_vũ nhiệt_liệt của dân mê nhạc trẻ ."
+        },
+        {
+            "id": "00064",
+            "eng": " A bank guard was hurt when the bank was help up .",
+            "vie": " Người bảo_vệ đã bị_thương khi ngân_hàng bị cướp ."
+        },
+        {
+            "id": "00065",
+            "eng": " A bank robber wearing a stocking mask .",
+            "vie": " Một tên cướp ngân_hàng mang một chiếc mặt_nạ trùm đầu ."
+        },
+        {
+            "id": "00066",
+            "eng": " A bar that is off - limits to troops .",
+            "vie": " Một quán_rượu cấm_quân_nhân vào ."
+        },
+        {
+            "id": "00067",
+            "eng": " A barman asks a new guest what he would like to drink .",
+            "vie": " Một nhân_viên quán_rượu hỏi một người khác mới vào muốn uống gì ."
+        },
+        {
+            "id": "00068",
+            "eng": " A barman gets wine for guests .",
+            "vie": " Một nhân_viên quán_rượu lấy rượu cho khách ."
+        },
+        {
+            "id": "00069",
+            "eng": " A bee stung me on the cheek .",
+            "vie": " Một con ong đốt vào má tôi ."
+        },
+        {
+            "id": "00070",
+            "eng": " A beggar dressed in filthy rags .",
+            "vie": " Một kẻ ăn_xin mà mặc đồ rách_rưới dơ_bẩn ."
+        },
+        {
+            "id": "00071",
+            "eng": " A beginner ' s painting can ' t be compared to that of an expert .",
+            "vie": " Bức họa của người mới vào nghề không_thể so_sánh với bức họa của người chuyên_nghiệp ."
+        },
+        {
+            "id": "00072",
+            "eng": " A bellman will show you to your room .",
+            "vie": " Một nhân_viên khuân_vác hành_lý sẽ đưa ông đến phòng ."
+        },
+        {
+            "id": "00073",
+            "eng": " A berth is good enough for me .",
+            "vie": " Vé giường nằm đủ cho tôi rồi ."
+        },
+        {
+            "id": "00074",
+            "eng": " A bicycle ' s often far more convenient than a car in busy cities .",
+            "vie": " Xe_đạp di_chuyển thường tiện hơn xe ô_tô rất nhiều trong những thành_phố tấp_nập ."
+        },
+        {
+            "id": "00075",
+            "eng": " A bicycle is cheap to run .",
+            "vie": " Muốn có một chiếc xe_đạp thì rẻ thôi ."
+        },
+        {
+            "id": "00076",
+            "eng": " A big airplane standing on the runway is a wonderful machine .",
+            "vie": " Một chiếc máy_bay lớn đậu trên đường_băng là một bộ_máy tuyệt_diệu ."
+        },
+        {
+            "id": "00077",
+            "eng": " A big bridge has to be planned very carefully .",
+            "vie": " Một chiếc cầu lớn phải được thiết_kế rất cẩn_thận ."
+        },
+        {
+            "id": "00078",
+            "eng": " A bill of lading has already been issued today .",
+            "vie": " Một vận_đơn đã được phát_hành hôm_nay ."
+        },
+        {
+            "id": "00079",
+            "eng": " A bill that would sidetrack food irradiation in this country .",
+            "vie": " Một dự_luật có_lẽ sẽ làm trì_hoãn việc xử_lý thức_ăn bằng phóng_xạ trong nước này ."
+        },
+        {
+            "id": "00080",
+            "eng": " A bit of embrocation will soothe your bruised knee .",
+            "vie": " Một_chút nước chườm sẽ làm cho đầu_gối thâm_tím của bạn bớt đau ."
+        },
+        {
+            "id": "00081",
+            "eng": " A bit of oil and some paint could give that old bike a new lease of life .",
+            "vie": " Một ít dầu và tí sơn có_thể làm cho chiếc xe_đạp cũ ấy khá hơn ."
+        },
+        {
+            "id": "00082",
+            "eng": " A bit of weeding wouldn ' t hurt this garden .",
+            "vie": " Một_ít cỏ dại thì cũng chẳng hại gì cho khu vườn này ."
+        },
+        {
+            "id": "00083",
+            "eng": " A bite had been taken out of my sandwich .",
+            "vie": " Một miếng xăn - uých của tôi đã bị cắn ."
+        },
+        {
+            "id": "00084",
+            "eng": " A bitter dispute which left an inheritance of ill feeling .",
+            "vie": " Sự tranh_chấp quyết_liệt đã để lại một di_sản oán_hận ."
+        },
+        {
+            "id": "00085",
+            "eng": " A bitter envy that has corroded their friendship .",
+            "vie": " Lòng đố_kỵ gay_gắt đã làm giảm dần tình bạn của họ ."
+        },
+        {
+            "id": "00086",
+            "eng": " A blade that tapers off to a fine point .",
+            "vie": " Một lưỡi dao thuôn dần thành mũi_nhọn ."
+        },
+        {
+            "id": "00087",
+            "eng": " A blind person reads Braille by running his fingers over lines of dots .",
+            "vie": " Người mù đọc chữ bằng cách đưa ngón tay sờ lên những dòng chấm nhỏ ."
+        },
+        {
+            "id": "00088",
+            "eng": " A blouse made of white organdie .",
+            "vie": " Một chiếc áo_cánh được may bằng vải_phin_nõn trắng ."
+        },
+        {
+            "id": "00089",
+            "eng": " A boiler that is a good fuel - saver .",
+            "vie": " Nồi_hơi là một loại thiết_bị tiết_kiệm nhiên_liệu tốt ."
+        },
+        {
+            "id": "00090",
+            "eng": " A book that indicts modern values .",
+            "vie": " Một cuốn sách kết_tội những giá_trị hiện_đại ."
+        },
+        {
+            "id": "00091",
+            "eng": " A book that is comprehensible only to specialists .",
+            "vie": " Một quyển sách chỉ có các chuyên_gia mới hiểu được ."
+        },
+        {
+            "id": "00092",
+            "eng": " A book that is often mentioned in the media .",
+            "vie": " Một quyển sách được đề_cập tới qua những phương_tiện_thông_tin_đại_chúng ."
+        },
+        {
+            "id": "00093",
+            "eng": " A book that only glances at a topic .",
+            "vie": " Một quyển sách chỉ đề_cập sơ_lược đến một đề_tài ."
+        },
+        {
+            "id": "00094",
+            "eng": " A book that reanimates the Mayan civilization .",
+            "vie": " Một cuốn sách làm sống lại nền văn_minh của dân_tộc Maya ."
+        },
+        {
+            "id": "00095",
+            "eng": " A book that requires great concentration .",
+            "vie": " Cuốn sách đòi_hỏi có sự tập_trung cao_độ ."
+        },
+        {
+            "id": "00096",
+            "eng": " A book the length of War and Peace .",
+            "vie": " Một quyển sách dài như quyển Chiến_tranh và Hòa bình ."
+        },
+        {
+            "id": "00097",
+            "eng": " A book was kept closed with strings or straps .",
+            "vie": " Sách được buộc bằng một sợi dây hay băng vải ."
+        },
+        {
+            "id": "00098",
+            "eng": " A book which glorifies the horrors of war .",
+            "vie": " Một quyển sách đề_cao sự khủng_khiếp của chiến_tranh ."
+        },
+        {
+            "id": "00099",
+            "eng": " A book which may fairly claim to be the last word on the subject .",
+            "vie": " Một cuốn sách rất có_thể cho là có tiếng_nói quyết_định về đề_tài đó ."
+        },
+        {
+            "id": "00100",
+            "eng": " A book which tell you all you need to know about personal taxation .",
+            "vie": " Một quyển sách sẽ cho anh biết tất_cả những gì anh cần biết về thuế cá_nhân ."
+        },
+        {
+            "id": "00101",
+            "eng": " A book which traces the decline of the Roman empire .",
+            "vie": " Một cuốn sách mô_tả quá_trình suy_thoái của đế_quốc La_Mã ."
+        },
+        {
+            "id": "00102",
+            "eng": " A bookcase screens off part of the room .",
+            "vie": " Một tủ_sách che một phần căn phòng ."
+        },
+        {
+            "id": "00103",
+            "eng": " A boomerang is simply a curved club .",
+            "vie": " Bu - mê - răng đơn_giản là cây gậy cong ."
+        },
+        {
+            "id": "00104",
+            "eng": " A border dispute that could easily become a war .",
+            "vie": " Một cuộc tranh_chấp biên_giới có_thể dễ biến thành một cuộc chiến_tranh ."
+        },
+        {
+            "id": "00105",
+            "eng": " A boss must know how to delegate .",
+            "vie": " Ông chủ phải biết phân_công ."
+        },
+        {
+            "id": "00106",
+            "eng": " A boss who taxed everyone 's patience .",
+            "vie": " Một ông chủ đòi_hỏi quá nhiều sự kiên_nhẫn của mọi người ."
+        },
+        {
+            "id": "00107",
+            "eng": " A bouquet of cotton blossoms would be pretty .",
+            "vie": " Một bó hoa bông vải nở_rộ hẳn là đẹp_mắt ."
+        },
+        {
+            "id": "00108",
+            "eng": " A box recovered from an accident with its contents intact .",
+            "vie": " Một chiếc hộp thu được trong vụ tai_nạn với các thứ bên trong của nó còn nguyên_vẹn ."
+        },
+        {
+            "id": "00109",
+            "eng": " A boxer who has a work - out in the gym every day .",
+            "vie": " Một võ_sĩ quyền_Anh luyện_tập căng_thẳng ở phòng tập hằng ngày ."
+        },
+        {
+            "id": "00110",
+            "eng": " A boy or girl who has been going to school for a few years knows the multiplication table and the alphabet .",
+            "vie": " Một cậu bé hay một cô bé đã đến trường_học vài năm đều biết bảng cửu_chương và hệ_thống chữ_cái ."
+        },
+        {
+            "id": "00111",
+            "eng": " A boy who is remarkable for his stupidity .",
+            "vie": " Một cậu bé được chú_ý vì sự đần_độn của cậu ta ."
+        },
+        {
+            "id": "00112",
+            "eng": " A bunch of radishes or a bit of chocolate was a real treat .",
+            "vie": " Một chùm củ_cải hoặc một miếng sô - cô - la đối_với bà thực_sự là một bữa ăn sang_trọng ."
+        },
+        {
+            "id": "00113",
+            "eng": " A business cannot thrive without investment .",
+            "vie": " Một công_việc làm_ăn không_thể_nào phát_đạt nếu không có đầu_tư ."
+        },
+        {
+            "id": "00114",
+            "eng": " A businessman must avoid leaving his customers unaccommodated .",
+            "vie": " Nhà_kinh_doanh phải tránh để các khách_hàng của anh ta bất_mãn ."
+        },
+        {
+            "id": "00115",
+            "eng": " A busy manager needs a completely unflappable secretary .",
+            "vie": " Một giám_đốc bận_rộn cần một thư_ký thật điềm_tĩnh ."
+        },
+        {
+            "id": "00116",
+            "eng": " A busy trading port , where people of all races intermingle with each other .",
+            "vie": " Một hải_cảng buôn_bán sầm_uất , nơi mà đủ loại chủng_tộc đều_hoà_đồng với nhau ."
+        },
+        {
+            "id": "00117",
+            "eng": " A butterfly has slender feelers with a thicker part , or club , at the end .",
+            "vie": " Một con bướm thường có râu thon với đầu dày hoặc có dạng gậy_tày ."
+        },
+        {
+            "id": "00118",
+            "eng": " A butterfly pupa is often called a chrysalis .",
+            "vie": " Một con nhộng bướm thường gọi là nhộng ."
+        },
+        {
+            "id": "00119",
+            "eng": " A cadre of sergeants and corporals who train recruits .",
+            "vie": " Một lực_lượng nòng_cốt trung_sĩ và hạ_sĩ huấn_luyện tân_binh ."
+        },
+        {
+            "id": "00120",
+            "eng": " A calendar looks very simple .",
+            "vie": " Một tấm lịch trông thì rất đơn_giản ."
+        },
+        {
+            "id": "00121",
+            "eng": " A calf was offered up as a sacrifice to the goddess .",
+            "vie": " Một con bê được dâng để tế nữ_thần ."
+        },
+        {
+            "id": "00122",
+            "eng": " A camel can begin to carry heavy loads when it is 4 years old .",
+            "vie": " Một con lạc_đà có_thể bắt_đầu mang hàng_hóa nặng khi nó được bốn tuổi ."
+        },
+        {
+            "id": "00123",
+            "eng": " A camera is a light - tight box .",
+            "vie": " Một cái máy_ảnh là một hộp sáng kín ."
+        },
+        {
+            "id": "00124",
+            "eng": " A camera may cost only a few dollars or it may cost hundreds of dollars .",
+            "vie": " Một máy_ảnh có_thể trị_giá vài đô - la ."
+        },
+        {
+            "id": "00125",
+            "eng": " A canal connects it to the Rhine River .",
+            "vie": " Nó nối với sông Rhine bằng một con kênh_đào ."
+        },
+        {
+            "id": "00126",
+            "eng": " A captain in the Navy ranks above a captain in the Army .",
+            "vie": " Đại_úy Hải_quân xếp cao hơn Đại_úy bộ_binh ."
+        },
+        {
+            "id": "00127",
+            "eng": " A captain is inferior to a major .",
+            "vie": " Đại_uý thấp hơn thiếu_tá ."
+        },
+        {
+            "id": "00128",
+            "eng": " A car is useless without petrol .",
+            "vie": " Không có xăng thì chiếc ô_tô vô_dụng ."
+        },
+        {
+            "id": "00129",
+            "eng": " A car passed me at 90 mph on the motorway .",
+            "vie": " Một chiếc xe ôtô vượt qua mặt tôi với tốc_độ 90 dặm Anh một giờ trên đường_cao_tốc ."
+        },
+        {
+            "id": "00130",
+            "eng": " A car suddenly pulled out in front of me .",
+            "vie": " Chiếc xe ôtô thình_lình đâm ngang trước mặt tôi ."
+        },
+        {
+            "id": "00131",
+            "eng": " A car swung sharply round the corner .",
+            "vie": " Chiếc ôtô rẽ gắt quanh góc_phố ."
+        },
+        {
+            "id": "00132",
+            "eng": " A car that steers well on corners .",
+            "vie": " Một chiếc ôtô rẽ tốt ở các góc đường ."
+        },
+        {
+            "id": "00133",
+            "eng": " A car with a trailer hitch on to it at the back .",
+            "vie": " Một chiếc xe ô_tô có một chiếc xe rờ moóc móc ở phía sau ."
+        },
+        {
+            "id": "00134",
+            "eng": " A career blighted by ill - health .",
+            "vie": " Sự_nghiệp tiêu_tan do sức_khỏe yếu ."
+        },
+        {
+            "id": "00135",
+            "eng": " A career ruined by political skullduggery .",
+            "vie": " Một sự_nghiệp bị tiêu_tan vì trò ma_mãnh chính_trị ."
+        },
+        {
+            "id": "00136",
+            "eng": " A career that took off like gangbusters .",
+            "vie": " Một sự_nghiệp lên như diều ."
+        },
+        {
+            "id": "00137",
+            "eng": " A career tragically cut short by illness .",
+            "vie": " Một sự_nghiệp đã sớm kết_thúc bi_thảm do bệnh_hoạn ."
+        },
+        {
+            "id": "00138",
+            "eng": " A career without parallel in modern times .",
+            "vie": " Một nghề độc_nhất vô nhị ngày_nay ."
+        },
+        {
+            "id": "00139",
+            "eng": " A careful examination of the facts .",
+            "vie": " Việc xem_xét tỉ_mỉ các sự_kiện ."
+        },
+        {
+            "id": "00140",
+            "eng": " A carpet in tones of brown and orange .",
+            "vie": " Một tấm thảm có những sắc nâu và cam ."
+        },
+        {
+            "id": "00141",
+            "eng": " A carpet six metres square has an area of 36 square metres .",
+            "vie": " Một tấm thảm hình_vuông mỗi cạnh 6 mét có diện_tích 36 mét_vuông ."
+        },
+        {
+            "id": "00142",
+            "eng": " A case with separate compartments for shoes , jewellery , etc .",
+            "vie": " Một cái vali có những ngăn riêng_biệt đựng giày , đồ trang_sức ."
+        },
+        {
+            "id": "00143",
+            "eng": " A case with separate compartments for shoes , jewelry , etc .",
+            "vie": " Một cái vali có những ngăn riêng_biệt đựng giày , đồ trang_sức ."
+        },
+        {
+            "id": "00144",
+            "eng": " A cashier ran away with the day ' s takings .",
+            "vie": " Một thủ_quỹ đã bỏ trốn ôm theo số tiền thu trong ngày ."
+        },
+        {
+            "id": "00145",
+            "eng": " A casserole made with soya beans .",
+            "vie": " Một món thịt hầm nấu với đỗ_tương ."
+        },
+        {
+            "id": "00146",
+            "eng": " A castle perched above the river .",
+            "vie": " Một tòa lâu_đài nằm cheo_leo phía trên sông ."
+        },
+        {
+            "id": "00147",
+            "eng": " A casual saunter around the shops .",
+            "vie": " Một vòng tản_bộ thảnh_thơi quanh các cửa_hiệu ."
+        },
+        {
+            "id": "00148",
+            "eng": " A cat brushed against her leg in the darkness .",
+            "vie": " Một con mèo cọ nhẹ vào chân của cô ta trong bóng_tối ."
+        },
+        {
+            "id": "00149",
+            "eng": " A cat is luxuriating in the warm sunshine .",
+            "vie": " Con mèo đang tận_hưởng ánh nắng ấm_áp ."
+        },
+        {
+            "id": "00150",
+            "eng": " A cat 's claws are retractile .",
+            "vie": " Các móng_vuốt của mèo có_thể co vào ."
+        },
+        {
+            "id": "00151",
+            "eng": " A cat 's eyes gleaming in the dark .",
+            "vie": " Đôi mắt con mèo long_lanh trong đêm_tối ."
+        },
+        {
+            "id": "00152",
+            "eng": " A cat slinking through the grass toward its pray .",
+            "vie": " Một con mèo đi rón_rén qua đám cỏ về phía con mồi của nó ."
+        },
+        {
+            "id": "00153",
+            "eng": " A caterpillar ' s new skin may be quite different in color from the old skin it just crawled out of .",
+            "vie": " Da mới của sâu bướm có_thể hơi khác với màu của da cũ lúc nó vừa_mới bò ra ."
+        },
+        {
+            "id": "00154",
+            "eng": " A caterpillar is the larva of a butterfly .",
+            "vie": " Sâu là ấu_trùng của con bướm ."
+        },
+        {
+            "id": "00155",
+            "eng": " A catfight between farmers and the government over subsidies .",
+            "vie": " Một cuộc tranh_cãi gay_gắt giữa các trại_chủ với chính_phủ về những khoản tài_trợ ."
+        },
+        {
+            "id": "00156",
+            "eng": " A cave man would certainly be surprised if he could see them .",
+            "vie": " Một người hang_động sẽ ngạc_nhiên nếu anh ta thấy chúng ."
+        },
+        {
+            "id": "00157",
+            "eng": " A cave that smells of terror .",
+            "vie": " Một cái hang có_vẻ ghê_sợ ."
+        },
+        {
+            "id": "00158",
+            "eng": " A central heating , boiler that burns oil .",
+            "vie": " Một lò_sưởi trung_tâm , nồi súp_de đốt bằng dầu ."
+        },
+        {
+            "id": "00159",
+            "eng": " A centre of the steel trade .",
+            "vie": " Một trung_tâm kinh_doanh thép ."
+        },
+        {
+            "id": "00160",
+            "eng": " A ceremony dignified by the presence of the ambassador .",
+            "vie": " Một buổi lễ trở_nên trang_nghiêm do sự hiện_diện của vị đại_sứ ."
+        },
+        {
+            "id": "00161",
+            "eng": " A ceremony in honour of those killed in battle .",
+            "vie": " Một buổi lễ để tỏ lòng thành_kính với những người đã hy_sinh trong trận chiến_đấu ."
+        },
+        {
+            "id": "00162",
+            "eng": " A ceremony which is a survival from pre - Christian times .",
+            "vie": " Một nghi_lễ còn sót lại từ thời tiền Thiên_Chúa_giáo ."
+        },
+        {
+            "id": "00163",
+            "eng": " A certain a mount of needle has crept into this game .",
+            "vie": " Một_số hành_động mang tính_chất thù_nghịch đã dần_dần xuất_hiện trong trận đấu ."
+        },
+        {
+            "id": "00164",
+            "eng": " A certain frostiness in her greeting .",
+            "vie": " Sự hơi lạnh_nhạt trong lời chào_hỏi của nàng ."
+        },
+        {
+            "id": "00165",
+            "eng": " A certain Mr . Brown telephoned while you were out .",
+            "vie": " Một ông Brown nào đó đã gọi điện lúc anh đi vắng ."
+        },
+        {
+            "id": "00166",
+            "eng": " A certain percentage of your salary is kept back by your employer as an insurance .",
+            "vie": " Một_số phần_trăm tiền_lương của bạn được ông chủ của bạn giữ lại để trả bảo_hiểm ."
+        },
+        {
+            "id": "00167",
+            "eng": " A certain person told me everything .",
+            "vie": " Có người đã nói cho tôi biết mọi chuyện ."
+        },
+        {
+            "id": "00168",
+            "eng": " A chair sold as an oddment at the end of the sale .",
+            "vie": " Một chiếc ghế được bán như một món còn sót cuối đợt bán xôn ."
+        },
+        {
+            "id": "00169",
+            "eng": " A chair that collapses for easy storage .",
+            "vie": " Một chiếc ghế được xếp lại để dễ cất ."
+        },
+        {
+            "id": "00170",
+            "eng": " A chair will not stand on two legs .",
+            "vie": " Một cái ghế không đứng được trên hai chân ."
+        },
+        {
+            "id": "00171",
+            "eng": " A chance meeting decided my career .",
+            "vie": " Một cuộc gặp_gỡ tình_cờ đã quyết_định sự_nghiệp của tôi ."
+        },
+        {
+            "id": "00172",
+            "eng": " A change in the law would be to everyone 's benefit .",
+            "vie": " Một thay_đổi trong luật_pháp sẽ lợi_ích cho mọi người ."
+        },
+        {
+            "id": "00173",
+            "eng": " A change of air will do you good .",
+            "vie": " Một sự thay_đổi không_khí sẽ tốt cho bạn đấy ."
+        },
+        {
+            "id": "00174",
+            "eng": " A chapter in which she dilates on the benefits of vegetarianism .",
+            "vie": " Một chương trong đó cô ấy bàn dài dòng về những lợi_ích của việc ăn_chay ."
+        },
+        {
+            "id": "00175",
+            "eng": " A character formed by strict discipline .",
+            "vie": " Một cá_tính được uốn_nắn , rèn_luyện bằng kỷ_luật nghiêm_khắc ."
+        },
+        {
+            "id": "00176",
+            "eng": " A character marked by frankness and simplicity .",
+            "vie": " Một cá_tính nổi_bật nét chân_thật và hồn_nhiên ."
+        },
+        {
+            "id": "00177",
+            "eng": " A character that figures in many of her novels .",
+            "vie": " Một nhân_vật xuất_hiện trong nhiều cuốn tiểu_thuyết của bà ta ."
+        },
+        {
+            "id": "00178",
+            "eng": " A charge of 1.90 will rounded up to 2 , and one of 3.10 rounded down to 3 .",
+            "vie": " Một khoản chi_phí 1 , 90 bảng Anh sẽ được tính tròn lên thành 2 bảng Anh , và một khoản chi_phí 3 , 10 bảng Anh tính tròn xuống thành 3 bảng Anh ."
+        },
+        {
+            "id": "00179",
+            "eng": " A cheap hotel in a seedy part of town .",
+            "vie": " Một khách_sạn rẻ_tiền ở một khu tồi_tàn của thành_phố ."
+        },
+        {
+            "id": "00180",
+            "eng": " A check - list of things to take on holiday .",
+            "vie": " Một bản liệt_kê những thứ mang theo khi đi_nghỉ ."
+        },
+        {
+            "id": "00181",
+            "eng": " A cheque card is not a valid proof of identity .",
+            "vie": " Thẻ séc không phải là một bằng_chứng căn_cước có giá_trị ."
+        },
+        {
+            "id": "00182",
+            "eng": " A cheque countersigned on the back .",
+            "vie": " Một tấm séc được tiếp ký ở mặt sau ."
+        },
+        {
+            "id": "00183",
+            "eng": " A Chihuahua , for instance , would not be very helpful a pulling loads .",
+            "vie": " Một con Chihuahua , chẳng_hạn , không_thể giúp_ích nhiều trong việc kéo xe được ."
+        },
+        {
+            "id": "00184",
+            "eng": " A child belongs with its mother .",
+            "vie": " Trẻ_em cần phải sống với mẹ của nó ."
+        },
+        {
+            "id": "00185",
+            "eng": " A child came wobbling along the pavement on a bicycle .",
+            "vie": " Một đứa trẻ đi xe_đạp lảo_đảo dọc theo vỉa_hè ."
+        },
+        {
+            "id": "00186",
+            "eng": " A child fell from the seventh floor of a block of flats .",
+            "vie": " Một đứa bé ngã từ tầng bảy của một chung_cư ."
+        },
+        {
+            "id": "00187",
+            "eng": " A child in a bed nearly began to whimper .",
+            "vie": " Một đứa trẻ nằm trên giường gần như bắt_đầu khóc thút_thít ."
+        },
+        {
+            "id": "00188",
+            "eng": " A child of pre - school age .",
+            "vie": " Một đứa trẻ chưa đủ tuổi đến trường ."
+        },
+        {
+            "id": "00189",
+            "eng": " A child receives its early education at home .",
+            "vie": " Một đứa trẻ hấp_thụ nền giáo_dục ban_đầu ở gia_đình của nó ."
+        },
+        {
+            "id": "00190",
+            "eng": " A child scribbling all over a book .",
+            "vie": " Một đứa bé vẽ bậy lung_tung khắp quyển sách ."
+        },
+        {
+            "id": "00191",
+            "eng": " A child snuffling with a bad cold .",
+            "vie": " Đứa bé thở khò_khè vì bị cảm_lạnh ."
+        },
+        {
+            "id": "00192",
+            "eng": " A child that sucks its thumb .",
+            "vie": " Một đứa bé mút ngón_cái của nó ."
+        },
+        {
+            "id": "00193",
+            "eng": " A child who evinces great intelligence .",
+            "vie": " Một đứa trẻ tỏ ra có trí thông_minh tuyệt_vời ."
+        },
+        {
+            "id": "00194",
+            "eng": " A child who has been cushioned from unpleasant experiences .",
+            "vie": " Một đứa bé được nâng_niu bảo_vệ để khỏi bị khổ_sở ."
+        },
+        {
+            "id": "00195",
+            "eng": " A child who is well - schooled in good manners .",
+            "vie": " Một đứa trẻ được dạy_dỗ đàng_hoàng về lễ_phép ."
+        },
+        {
+            "id": "00196",
+            "eng": " A child with a rebellious temperament .",
+            "vie": " Đứa trẻ có tính ngỗ_nghịch ."
+        },
+        {
+            "id": "00197",
+            "eng": " A childhood romance with the sea .",
+            "vie": " Sự say_mê nhất_thời biển_cả trong tuổi thơ_ấu ."
+        },
+        {
+            "id": "00198",
+            "eng": " A children 's charity that is non - profit - making .",
+            "vie": " Một hội từ_thiện giúp trẻ_con không nhằm mục_đích kiếm lãi ."
+        },
+        {
+            "id": "00199",
+            "eng": " A chimney blocked by an accretion of soot .",
+            "vie": " Ống_khói bị tắc do lớp bồ_hóng ngày_càng đóng dầy thêm ."
+        },
+        {
+            "id": "00200",
+            "eng": " A china statuette of a shepherdess stood on the table .",
+            "vie": " Một bức tượng nhỏ bằng sứ hình cô gái chăn cừu đứng ở trên bàn ."
+        },
+        {
+            "id": "00201",
+            "eng": " A Chinese tourist enters a duty - free shop .",
+            "vie": " Một du_khách người Trung_Quốc bước vào một cửa_hàng miễn_thuế ."
+        },
+        {
+            "id": "00202",
+            "eng": " A chocolate egg with a plastic novelty inside .",
+            "vie": " Một quả trứng sôcôla có một đồ_chơi bằng nhựa nhỏ ở bên trong ."
+        },
+        {
+            "id": "00203",
+            "eng": " A chord of C major with E in the bass is in the 1st inversion .",
+            "vie": " Một hợp_âm C đô_trưởng với nốt mi E thấp là sự đảo_ngược hợp_âm lần thứ nhất ."
+        },
+        {
+            "id": "00204",
+            "eng": " A Christmas tree ornamented with tinsel .",
+            "vie": " Một cây Giáng_Sinh được trang_hoàng bằng dây kim_tuyến ."
+        },
+        {
+            "id": "00205",
+            "eng": " A chronological list of Shakespeare 's plays .",
+            "vie": " Một danh_sách xếp theo thứ_tự thời_gian các kịch_tác của Shakespeare ."
+        },
+        {
+            "id": "00206",
+            "eng": " A church service to remember the war dead .",
+            "vie": " Một buổi lễ ở nhà_thờ để cầu_nguyện cho những người đã chết trong chiến_tranh ."
+        },
+        {
+            "id": "00207",
+            "eng": " A church situated on a small rise .",
+            "vie": " Một nhà_thờ ở trên một ngọn đồi nhỏ ."
+        },
+        {
+            "id": "00208",
+            "eng": " A cigar after dinner is my only indulgence .",
+            "vie": " Cái thú duy_nhất của tôi là sau mỗi bữa ăn hút một điếu xì_gà ."
+        },
+        {
+            "id": "00209",
+            "eng": " A cigarette glowed in the dark .",
+            "vie": " Điếu_thuốc rực sáng trong đêm_tối ."
+        },
+        {
+            "id": "00210",
+            "eng": " A cigarette set the dry grass alight .",
+            "vie": " Điếu_thuốc làm bãi cỏ khô bốc cháy ."
+        },
+        {
+            "id": "00211",
+            "eng": " A cigarette smoldering in the ashtray .",
+            "vie": " Một điếu thuốc_lá cháy âm_ỉ trong cái gạt_tàn thuốc ."
+        },
+        {
+            "id": "00212",
+            "eng": " A circus sometimes ends with a chariot race .",
+            "vie": " Một gánh xiếc đôi_khi biểu_diễn kết_thúc bằng một màn đua xe_ngựa ."
+        },
+        {
+            "id": "00213",
+            "eng": " A city desolated by civil strife .",
+            "vie": " Một thành_phố bị tàn_phá do nội_loạn ."
+        },
+        {
+            "id": "00214",
+            "eng": " A city endowed with numerous small parks .",
+            "vie": " Một thành_phố có nhiều công_viên nhỏ ."
+        },
+        {
+            "id": "00215",
+            "eng": " A city in love with its own past .",
+            "vie": " Một thành_phố say_mê với quá_khứ của nó ."
+        },
+        {
+            "id": "00216",
+            "eng": " A city reduced to a state of ruin by war .",
+            "vie": " Một thành_phố bị rơi vào tình_trạng đổ_nát do chiến_tranh ."
+        },
+        {
+            "id": "00217",
+            "eng": " A city trying to shuck a sooty image .",
+            "vie": " Một thành_phố đang cố_gắng trút_bỏ hình_ảnh đen_đủi ."
+        },
+        {
+            "id": "00218",
+            "eng": " A city with a population of over 10 million .",
+            "vie": " Một thành_phố có một dân_số trên 10 triệu ."
+        },
+        {
+            "id": "00219",
+            "eng": " A clash between the Prime Minister and the leader of the Opposition on defense spending .",
+            "vie": " Sự bất_đồng sâu_sắc giữa ngài thủ_tướng và lãnh_tụ phe đối_lập về chi_phí quốc_phòng ."
+        },
+        {
+            "id": "00220",
+            "eng": " A clause in the agreement provides that the tenant shall pay for repairs to the building .",
+            "vie": " Một điều_khoản trong hợp_đồng này quy_định rằng bên thuê sẽ trả tiền sửa_chữa tòa nhà ."
+        },
+        {
+            "id": "00221",
+            "eng": " A clear demonstration of their intentions .",
+            "vie": " Một sự biểu_hiện rõ_ràng các ý_định của họ ."
+        },
+        {
+            "id": "00222",
+            "eng": " A clear understanding of the problems .",
+            "vie": " Một sự hiểu_thấu_đáo những vấn_đề ."
+        },
+        {
+            "id": "00223",
+            "eng": " A clerk comes to clean the room and the guest doesn ' t want her to clean it now .",
+            "vie": " Một nhân_viên khách_sạn đến dọn_dẹp phòng , người khách trọ không muốn cô ấy dọn_dẹp phòng vào lúc này ."
+        },
+        {
+            "id": "00224",
+            "eng": " A clerk comes to clean the room and the guest wants to borrow an iron and an ironing board .",
+            "vie": " Một nhân_viên khách_sạn đến dọn_dẹp phòng , người khách trọ muốn mượn cái bàn_ủi và cái bàn để ủi quần_áo ."
+        },
+        {
+            "id": "00225",
+            "eng": " A clerk is cleaning Bob 's room .",
+            "vie": " Một nhân_viên khách_sạn đang dọn_dẹp phòng của Bob ."
+        },
+        {
+            "id": "00226",
+            "eng": " A clerk meets Tom and Mary who have just returned from their vacation .",
+            "vie": " Một nhân_viên khách_sạn gặp Tom và Mary , họ vừa_mới đi nghỉ trở_về ."
+        },
+        {
+            "id": "00227",
+            "eng": " A clerk shows the guest to his room and answers the guest ' s questions .",
+            "vie": " Một nhân_viên khách_sạn dẫn khách đến phòng và trả_lời những câu hỏi của khách ."
+        },
+        {
+            "id": "00228",
+            "eng": " A clerk shows the guest to his room and gives him a brief introduction of the hotel .",
+            "vie": " Một nhân_viên khách_sạn dẫn khách đến phòng và giới_thiệu ngắn_gọn với ông ấy về khách_sạn ."
+        },
+        {
+            "id": "00229",
+            "eng": " A clerk shows the guest to his room and talks about the room facilities .",
+            "vie": " Một nhân_viên khách_sạn dẫn khách đến phòng và giới_thiệu về những tiện_nghi trong phòng ."
+        },
+        {
+            "id": "00230",
+            "eng": " A clerk shows the guest to his room and the guest wants to learn how to say Thank you and Good - bye in Chinese .",
+            "vie": " Một nhân_viên khách_sạn dẫn khách đến phòng , người khách đó muốn biết cách nói “ Cám_ơn ” và “ Tạm_biệt ” bằng tiếng Trung_Quốc ."
+        },
+        {
+            "id": "00231",
+            "eng": " A clerk shows the guests to their room and they want to know their room ' s telephone number .",
+            "vie": " Một nhân_viên khách_sạn dẫn khách đến phòng của họ , họ muốn biết số điện_thoại của phòng trọ ."
+        },
+        {
+            "id": "00232",
+            "eng": " A clever politician who knows how to manipulate public opinion .",
+            "vie": " Một nhà chính_trị khôn_ngoan biết cách chi_phối công_luận ."
+        },
+        {
+            "id": "00233",
+            "eng": " A cliff that rises sheer from the beach .",
+            "vie": " Một vách đá nhô lên thẳng_đứng từ bãi_biển ."
+        },
+        {
+            "id": "00234",
+            "eng": " A climate without extremes of temperature .",
+            "vie": " Một khí_hậu không khắc_nghiệt ."
+        },
+        {
+            "id": "00235",
+            "eng": " A clock and two vases stood on the mantelpiece .",
+            "vie": " Một cái đồng_hồ và hai cái bình nằm trên mặt lò_sưởi ."
+        },
+        {
+            "id": "00236",
+            "eng": " A clock guaranteed for one year against mechanical failure or faulty workmanship .",
+            "vie": " Một cái đồng_hồ được bảo_hành một năm về trục_trặc máy_móc hoặc sai_sót kỹ_thuật ."
+        },
+        {
+            "id": "00237",
+            "eng": " A clock standing on the sideboard .",
+            "vie": " Một cái đồng_hồ ở trên tủ búp - phê đó ."
+        },
+        {
+            "id": "00238",
+            "eng": " A clock struck slowly in the house with a measured , solemn chime .",
+            "vie": " Tiếng chuông đồng_hồ trong căn nhà đó điểm nhịp_nhàng , trang_trọng ."
+        },
+        {
+            "id": "00239",
+            "eng": " A close correspondence between the two accounts .",
+            "vie": " Sự rất ít tương_ứng giữa hai bản quảng_cáo ."
+        },
+        {
+            "id": "00240",
+            "eng": " A clouds may disappear because the water or ice in it has fallen to the ground as rain or snow .",
+            "vie": " Một cụm mây có_thể biến mất vì nước hoặc nước_đá trong nó đã rơi xuống đất dưới dạng mưa hoặc tuyết ."
+        },
+        {
+            "id": "00241",
+            "eng": " A colour scheme in which red predominates .",
+            "vie": " Một_cách phối_hợp màu_sắc có màu đỏ nổi_bật ."
+        },
+        {
+            "id": "00242",
+            "eng": " A colour that shades from blue into green .",
+            "vie": " Một màu chuyển dần từ xanh_dương sang xanh_lá cây ."
+        },
+        {
+            "id": "00243",
+            "eng": " A column for the tens and a column for the units .",
+            "vie": " Một cột cho hàng chục và một cột cho hàng đơn_vị ."
+        },
+        {
+            "id": "00244",
+            "eng": " A combination of factors led to her decision to resign .",
+            "vie": " Sự kết_hợp của các yếu_tố đã dẫn đến quyết_định từ_chức của cô ta ."
+        },
+        {
+            "id": "00245",
+            "eng": " A combination of radiation and convection .",
+            "vie": " Một sự kết_hợp giữa phát_quang và đối_lưu nhiệt ."
+        },
+        {
+            "id": "00246",
+            "eng": " A comet ' s tail always streams out way from the sun .",
+            "vie": " Đuôi sao_chổi luôn_luôn chảy ra như dòng suối xuất_phát từ phía mặt_trời ."
+        },
+        {
+            "id": "00247",
+            "eng": " A comet looks like a star that has shining hair streaming out from it .",
+            "vie": " Sao_chổi trông giống như một ngôi_sao có mái_tóc tỏa sáng chảy dài như dòng suối ."
+        },
+        {
+            "id": "00248",
+            "eng": " A comic - opera style of uniform .",
+            "vie": " Một kiểu đồng_phục lố_lăng ."
+        },
+        {
+            "id": "00249",
+            "eng": " A coming report on arms limitation .",
+            "vie": " Một bản báo_cáo kế_tiếp về việc giới_hạn vũ_khí ."
+        },
+        {
+            "id": "00250",
+            "eng": " A commitment to pay £ 100 to charity .",
+            "vie": " Một sự cam_kết cho hội từ_thiện 100 bảng Anh ."
+        },
+        {
+            "id": "00251",
+            "eng": " A committee comprising people of widely differing view .",
+            "vie": " Một ủy_ban bao_gồm những người có quan_điểm rất khác nhau ."
+        },
+        {
+            "id": "00252",
+            "eng": " A committee of influential union leaders .",
+            "vie": " Một ủy_ban gồm những người lãnh_đạo công_đoàn có thế_lực ."
+        },
+        {
+            "id": "00253",
+            "eng": " A committee to police the new regulations .",
+            "vie": " Một ủy_ban giám_sát việc thi_hành các điều_lệ mới ."
+        },
+        {
+            "id": "00254",
+            "eng": " A community that incarnates its founders ' ideals .",
+            "vie": " Một cộng_đồng thể_hiện những lý_tưởng của các vị sáng_lập của nó ."
+        },
+        {
+            "id": "00255",
+            "eng": " A compact dictionary for everyday use .",
+            "vie": " Một cuốn tự_điển rút_gọn để sử_dụng hằng ngày ."
+        },
+        {
+            "id": "00256",
+            "eng": " A company incorporated in the USA .",
+            "vie": " Một công_ty được thành_lập ở Mỹ ."
+        },
+        {
+            "id": "00257",
+            "eng": " A company of guardsmen swung past .",
+            "vie": " Một đại_đội phòng_vệ nhịp_nhàng đi qua ."
+        },
+        {
+            "id": "00258",
+            "eng": " A company on the leading edge of machine - tool technology .",
+            "vie": " Một công_ty ở vị_trí hàng_đầu về công_nghệ máy công_cụ ."
+        },
+        {
+            "id": "00259",
+            "eng": " A company squeezed by reduced sales .",
+            "vie": " Một công_ty bị kiệt_quệ do doanh_số bán giảm_sút ."
+        },
+        {
+            "id": "00260",
+            "eng": " A company that never expected to be challenged on its home ground of software development .",
+            "vie": " Một công_ty không bao_giờ mong_đợi là có_thể bị thách_thức về sở_trường của nó trong việc phát_triển phần_mềm vi_tính ."
+        },
+        {
+            "id": "00261",
+            "eng": " A company that started on a shoestring .",
+            "vie": " Một công_ty khởi_đầu bằng một_số vốn nhỏ ."
+        },
+        {
+            "id": "00262",
+            "eng": " A company that was a latecomer to the video - game market .",
+            "vie": " Một công_ty mới nhảy vào thị_trường trò_chơi điện_tử video ."
+        },
+        {
+            "id": "00263",
+            "eng": " A company vulnerable to takeover bids .",
+            "vie": " Một công_ty dễ bị đưa ra đấu_giá để chuyển_nhượng ."
+        },
+        {
+            "id": "00264",
+            "eng": " A company which has ceased trading .",
+            "vie": " Một công_ty đã ngưng kinh_doanh ."
+        },
+        {
+            "id": "00265",
+            "eng": " A company which makes high profits must pay excess profits duty to the government .",
+            "vie": " Một công_ty có mức lợi_nhuận cao phải đóng thêm khoản thuế lợi_tức vượt mức cho chính_phủ ."
+        },
+        {
+            "id": "00266",
+            "eng": " A company with a poor track record .",
+            "vie": " Một công_ty có thành_tích kém ."
+        },
+        {
+            "id": "00267",
+            "eng": " A comparative study of the social systems of two countries .",
+            "vie": " Một cuộc nghiên_cứu so_sánh về hệ_thống xã_hội của hai nước ."
+        },
+        {
+            "id": "00268",
+            "eng": " A compass made of a magnet - a magnetic compass - tells direction because the earth acts as a great magnet .",
+            "vie": " Một la_bàn cấu_tạo bởi một thanh nam_châm gọi là la_bàn từ - nó có_thể cho biết phương_hướng vì quả_đất hoạt_động như một thanh nam_châm vĩ_đại ."
+        },
+        {
+            "id": "00269",
+            "eng": " A compass needle points to the north .",
+            "vie": " Cây kim la_bàn chỉ về hướng Bắc ."
+        },
+        {
+            "id": "00270",
+            "eng": " A complete change of climate which transformed the area from a desert into a swamp .",
+            "vie": " Sự thay_đổi khí_hậu hoàn_toàn đã biến vùng này từ sa_mạc thành đầm lầy ."
+        },
+        {
+            "id": "00271",
+            "eng": " A complete restoration of the damaged vase .",
+            "vie": " Một sự phục_chế lại hoàn_toàn chiếc bình đã bị hư_hại ."
+        },
+        {
+            "id": "00272",
+            "eng": " A complex construction of wood and glass .",
+            "vie": " Một kiến_trúc phức_tạp bằng gỗ và kính ."
+        },
+        {
+            "id": "00273",
+            "eng": " A complex jigsaw of interlocking social and economic factors .",
+            "vie": " Sự kết_hợp phức_tạp những yếu_tố xã_hội và chính_trị đan vào nhau ."
+        },
+        {
+            "id": "00274",
+            "eng": " A complex network of interrelated parts .",
+            "vie": " Một mạng_lưới phức_tạp gồm những phần có liên_hệ chặt_chẽ với nhau ."
+        },
+        {
+            "id": "00275",
+            "eng": " A complicated new gadget for opening tins .",
+            "vie": " Một dụng_cụ mới , phức_tạp để mở các loại đồ_hộp ."
+        },
+        {
+            "id": "00276",
+            "eng": " A composition used as flooring material .",
+            "vie": " Một chất tổng_hợp được sử_dụng làm chất_liệu lót sàn ."
+        },
+        {
+            "id": "00277",
+            "eng": " A comprehensive survey of modern music .",
+            "vie": " Một cuộc nghiên_cứu bao_quát nền âm_nhạc hiện_đại ."
+        },
+        {
+            "id": "00278",
+            "eng": " A computer simulation of the nuclear reaction .",
+            "vie": " Một cuộc giả_tạo phản_ứng hạt_nhân bằng máy_vi_tính ."
+        },
+        {
+            "id": "00279",
+            "eng": " A computer system of maximum utility .",
+            "vie": " Một hệ_thống vi_tính hữu_dụng tối_đa ."
+        },
+        {
+            "id": "00280",
+            "eng": " A concert conducted by Sir Colin David .",
+            "vie": " Một buổi hòa_nhạc do ông Colin_David điều_khiển ."
+        },
+        {
+            "id": "00281",
+            "eng": " A concert relayed live from the Royal Albert Hall .",
+            "vie": " Một buổi hòa_nhạc được tiếp_âm trực_tiếp từ phòng hòa_nhạc Royal_Albert ."
+        },
+        {
+            "id": "00282",
+            "eng": " A conciliation service helps to settle disputes between employers and workers .",
+            "vie": " Ban hòa giải giúp dàn_xếp mối bất_hòa giữa giới chủ và công_nhân ."
+        },
+        {
+            "id": "00283",
+            "eng": " A confidence trickster preying on rich windows .",
+            "vie": " Những kẻ lừa_đảo biến những góa phụ giàu_có thành nạn_nhân của họ ."
+        },
+        {
+            "id": "00284",
+            "eng": " A confrontation between the Government and the unions .",
+            "vie": " Một cuộc đối_đầu giữa chính_quyền và các công_đoàn ."
+        },
+        {
+            "id": "00285",
+            "eng": " A confused account of what happened .",
+            "vie": " Một bản báo_cáo lộn_xộn về những gì đã xảy ra ."
+        },
+        {
+            "id": "00286",
+            "eng": " A confusing intermixture of fact and fiction .",
+            "vie": " Một vụ hư_hư_thực thực ."
+        },
+        {
+            "id": "00287",
+            "eng": " A conglomeration of rusty old machinery .",
+            "vie": " Một đống máy_móc cũ_kỹ gỉ sét ."
+        },
+        {
+            "id": "00288",
+            "eng": " A considerable outlay on basic research .",
+            "vie": " Một khoản kinh_phí đáng_kể cho công_cuộc nghiên_cứu cơ_bản ."
+        },
+        {
+            "id": "00289",
+            "eng": " A consignment of wheat bound for Europe .",
+            "vie": " Một chuyến hàng lúa_mì được gởi đến Châu_Âu ."
+        },
+        {
+            "id": "00290",
+            "eng": " A consortium of construction companies will build the power - station .",
+            "vie": " Liên_hợp các công_ty xây_dựng sẽ xây nhà_máy phát_điện ."
+        },
+        {
+            "id": "00291",
+            "eng": " A constellation visible in the western sky just after sunset will have set by midnight , and other constellations will have risen in the east .",
+            "vie": " Một chòm_sao có_thể nhìn thấy được ở phía tây của bầu_trời , ngay sau khi mặt_trời lặn , sẽ lặn vào lúc nửa_đêm và các chòm_sao khác sẽ mọc lên ở hướng đông ."
+        },
+        {
+            "id": "00292",
+            "eng": " A constitutional inability to tell the truth .",
+            "vie": " Bản_chất không_thể nói sự_thật ."
+        },
+        {
+            "id": "00293",
+            "eng": " A construction schedule plagued by bad weather .",
+            "vie": " Một kế_hoạch xây_dựng bị trở_ngại do thời_tiết xấu ."
+        },
+        {
+            "id": "00294",
+            "eng": " A contentious clause in a treaty .",
+            "vie": " Một điều_khoản gây bất_hòa trong hiệp_ước ."
+        },
+        {
+            "id": "00295",
+            "eng": " A contest for the top job in the union .",
+            "vie": " Một cuộc tranh_giành chức cao nhất trong công_đoàn ."
+        },
+        {
+            "id": "00296",
+            "eng": " A continuous belt feeds components into the machine .",
+            "vie": " Một băng_tải liên_tục cung_cấp những bộ_phận cho máy ."
+        },
+        {
+            "id": "00297",
+            "eng": " A contract for the supply of office stationery .",
+            "vie": " Một hợp_đồng cung_cấp văn_phòng_phẩm ."
+        },
+        {
+            "id": "00298",
+            "eng": " A contract terminable at a month 's notice .",
+            "vie": " Một hợp_đồng có_thể kết_thúc trong vòng một tháng từ ngày thông_báo ."
+        },
+        {
+            "id": "00299",
+            "eng": " A contrivance for cutting curved shapes .",
+            "vie": " Dụng_cụ để cắt những hình cong ."
+        },
+        {
+            "id": "00300",
+            "eng": " A contrived incident intended to mislead the newspapers .",
+            "vie": " Một sự_cố được xếp đặt để cố_ý đánh lạc_hướng báo_chí ."
+        },
+        {
+            "id": "00301",
+            "eng": " A convenient landing - place in a nearby sheltered cove .",
+            "vie": " Một bến đậu tiện_lợi trong một cái vịnh khuất gần đây ."
+        },
+        {
+            "id": "00302",
+            "eng": " A cooling drink is welcome on a hot day .",
+            "vie": " Một thức_uống lạnh vào ngày nóng thường được vui_vẻ đón_nhận ."
+        },
+        {
+            "id": "00303",
+            "eng": " A copious writer of detective stories .",
+            "vie": " Một nhà_văn viết nhiều về truyện trinh_thám ."
+        },
+        {
+            "id": "00304",
+            "eng": " A copper tray plated with silver .",
+            "vie": " Một cái khay đồng mạ bạc ."
+        },
+        {
+            "id": "00305",
+            "eng": " A copy of it reached him on the day he died .",
+            "vie": " Ông nhận được một bản in vào ngày ông mất ."
+        },
+        {
+            "id": "00306",
+            "eng": " A copyright protects the author and the publisher of a book .",
+            "vie": " Bản_quyền có chức_năng bảo_vệ tác_giả và nhà xuất_bản của một quyển sách ."
+        },
+        {
+            "id": "00307",
+            "eng": " A corridor jammed full of people and luggage .",
+            "vie": " Hành_lang chật_ních những người và hành_lý ."
+        },
+        {
+            "id": "00308",
+            "eng": " A costly musical extravaganza on television .",
+            "vie": " Một cảnh trình_diễn âm nhạc công_phu rất tốn_kém trên truyền_hình ."
+        },
+        {
+            "id": "00309",
+            "eng": " A cottage with old - world charm .",
+            "vie": " Một nhà nghỉ_mát có_vẻ đẹp theo kiểu xưa ."
+        },
+        {
+            "id": "00310",
+            "eng": " A coughing fit racked her whole body .",
+            "vie": " Một cơn ho đã làm toàn_thân của cô ta đau_đớn ."
+        },
+        {
+            "id": "00311",
+            "eng": " A council of elders governs the tribe .",
+            "vie": " Một hội_đồng bô_lão cai_quản bộ_lạc ."
+        },
+        {
+            "id": "00312",
+            "eng": " A councilor appointment made by the governor .",
+            "vie": " Một vụ bổ_nhiệm hội_đồng do thống_đốc thực_hiện ."
+        },
+        {
+            "id": "00313",
+            "eng": " A counter forming an island in the kitchen .",
+            "vie": " Một cái quầy nằm trơ_trọi giữa nhà_bếp ."
+        },
+        {
+            "id": "00314",
+            "eng": " A country admired as a buttress of democracy .",
+            "vie": " Một quốc_gia được mọi người ca_ngợi như_là một nước bảo_trợ nền dân_chủ ."
+        },
+        {
+            "id": "00315",
+            "eng": " A country drained of its manpower .",
+            "vie": " Một quốc_gia cạn hết nguồn nhân_lực của nó ."
+        },
+        {
+            "id": "00316",
+            "eng": " A country formerly under French rule .",
+            "vie": " Một quốc_gia trước đây dưới_quyền cai_trị của Pháp ."
+        },
+        {
+            "id": "00317",
+            "eng": " A country hovering on the brink of war .",
+            "vie": " Một đất_nước đang ở bên bờ chiến_tranh ."
+        },
+        {
+            "id": "00318",
+            "eng": " A country in Asia visited by few westerners .",
+            "vie": " Một nước ở Á_Châu ít người phương Tây tới thăm ."
+        },
+        {
+            "id": "00319",
+            "eng": " A country in the throes of economic collapse .",
+            "vie": " Một nước điêu_đứng về sự sụp_đổ kinh_tế ."
+        },
+        {
+            "id": "00320",
+            "eng": " A country living under the constant threat of famine .",
+            "vie": " Một đất_nước sống trong mối hiểm_họa triền_miên của nạn đói ."
+        },
+        {
+            "id": "00321",
+            "eng": " A country overrun by enemy troops .",
+            "vie": " Một quốc_gia bị quân_địch tràn_ngập ."
+        },
+        {
+            "id": "00322",
+            "eng": " A country paralysed by political rivalries .",
+            "vie": " Một quốc_gia bị tê_liệt do các cuộc cạnh_tranh chính_trị ."
+        },
+        {
+            "id": "00323",
+            "eng": " A country rent in two by civil war .",
+            "vie": " Một quốc_gia bị chia hai vì nội_chiến ."
+        },
+        {
+            "id": "00324",
+            "eng": " A country 's sinews are its roads and railways .",
+            "vie": " Sức_mạnh của một đất_nước là đường_sá và đường_sắt của nó ."
+        },
+        {
+            "id": "00325",
+            "eng": " A country self - sufficient in coal .",
+            "vie": " Một quốc_gia tự cung_cấp đủ về than ."
+        },
+        {
+            "id": "00326",
+            "eng": " A country that doesn't value its brainpower .",
+            "vie": " Một nước không coi_trọng những người thông_minh của nó ."
+        },
+        {
+            "id": "00327",
+            "eng": " A country under the suzerainty of its powerful neighbour .",
+            "vie": " Một nước dưới_quyền bá_chủ của một nước láng_giềng hùng_mạnh của nó ."
+        },
+        {
+            "id": "00328",
+            "eng": " A country watered by numerous rivers .",
+            "vie": " Một xứ_sở có nhiều sông chảy qua ."
+        },
+        {
+            "id": "00329",
+            "eng": " A couple of people are getting together for some drinks .",
+            "vie": " Vài người đang họp_mặt để uống vài cốc rượu ."
+        },
+        {
+            "id": "00330",
+            "eng": " A couple screwing in the back of a car .",
+            "vie": " Một cặp làm tình ở băng sau xe ôtô ."
+        },
+        {
+            "id": "00331",
+            "eng": " A couple who were snooted by the head waiter .",
+            "vie": " Một cặp vợ_chồng bị tay trưởng bồi_bàn khinh_thường ."
+        },
+        {
+            "id": "00332",
+            "eng": " A couple with two children enter the bar .",
+            "vie": " Một cặp vợ_chồng dẫn hai đứa con đi vào quán_rượu ."
+        },
+        {
+            "id": "00333",
+            "eng": " A courier delivered the parcels to our office .",
+            "vie": " Một người đưa thư giao những gói hàng đến văn_phòng của chúng_tôi ."
+        },
+        {
+            "id": "00334",
+            "eng": " A course of lectures on Greek philosophy .",
+            "vie": " Một khóa học gồm các bài thuyết_trình về triết_học Hy_Lạp ."
+        },
+        {
+            "id": "00335",
+            "eng": " A course of studies spread over three years .",
+            "vie": " Một khóa học kéo_dài ba năm ."
+        },
+        {
+            "id": "00336",
+            "eng": " A court ruling that legitimized the position taken by the protectors .",
+            "vie": " Một quyết_định của tòa_án hợp_pháp_hóa lập_trường của các người phản_đối ."
+        },
+        {
+            "id": "00337",
+            "eng": " A cover charge tacked onto the bill .",
+            "vie": " Một phiếu tính tiền phụ_trội ở nhà_hàng được đính kèm theo hóa_đơn ."
+        },
+        {
+            "id": "00338",
+            "eng": " A cowardly act that dishonours his memory .",
+            "vie": " Hành_động hèn_nhát làm hoen_ố ký_ức của anh ta ."
+        },
+        {
+            "id": "00339",
+            "eng": " A crab nipped my toe while I was paddling .",
+            "vie": " Một con cua kẹp ngón_chân của tôi khi tôi đang lội nước ."
+        },
+        {
+            "id": "00340",
+            "eng": " A cracking shot which hits the goal - post .",
+            "vie": " Cú sút bóng cực mạnh dội ngay vào trụ khung_thành ."
+        },
+        {
+            "id": "00341",
+            "eng": " A crash course in computer programming .",
+            "vie": " Một khoá học cấp_tốc về lập_trình điện_toán ."
+        },
+        {
+            "id": "00342",
+            "eng": " A crash in which two cars collided .",
+            "vie": " Một tai_nạn hai xe ôtô đâm nhau ."
+        },
+        {
+            "id": "00343",
+            "eng": " A craze for collecting beer - mats .",
+            "vie": " Sự ham_mê sưu_tập các miếng lót cốc bia ."
+        },
+        {
+            "id": "00344",
+            "eng": " A creature that is atypical of its species .",
+            "vie": " Một sinh_vật không tiêu_biểu cho loài của nó ."
+        },
+        {
+            "id": "00345",
+            "eng": " A crew that mutinies against bad living conditions .",
+            "vie": " Một thủy_thủ đoàn nổi_loạn chống lại điều_kiện sinh_hoạt tồi_tệ ."
+        },
+        {
+            "id": "00346",
+            "eng": " A crew that mutinies against its captain .",
+            "vie": " Một thủy_thủ đoàn nổi_loạn chống lại thuyền_trưởng của nó ."
+        },
+        {
+            "id": "00347",
+            "eng": " A crime carried out with the connivance in connivance with the police .",
+            "vie": " Một tội_ác được thực_hiện với sự thông_đồng của cảnh_sát ."
+        },
+        {
+            "id": "00348",
+            "eng": " A crime carried out with the connivance of connivance with the police .",
+            "vie": " Một tội_ác được thực_hiện với sự thông_đồng của cảnh_sát ."
+        },
+        {
+            "id": "00349",
+            "eng": " A crime lying heavy on one 's conscience .",
+            "vie": " Một tội_ác đè nặng lương_tâm của ai ."
+        },
+        {
+            "id": "00350",
+            "eng": " A crime punishable by the gallows .",
+            "vie": " Một tội_ác có_thể bị trừng_phạt bằng việc treo_cổ ."
+        },
+        {
+            "id": "00351",
+            "eng": " A crime that is an unsolved mystery .",
+            "vie": " Một tội_ác vẫn còn là một điều bí_ẩn chưa được giải_quyết ."
+        },
+        {
+            "id": "00352",
+            "eng": " A criminal utterly devoid of conscience .",
+            "vie": " Một tên tội_phạm hết_sức vô_lương_tâm ."
+        },
+        {
+            "id": "00353",
+            "eng": " A criminal waste of public money .",
+            "vie": " Sự phung_phí vô_lương_tâm tiền của công ."
+        },
+        {
+            "id": "00354",
+            "eng": " A crippling disease which sentenced him to a life time in a wheel - chair .",
+            "vie": " Một cơn bệnh tê_liệt đã cột chặt cả cuộc_đời ông ta trên một chiếc xe_lăn ."
+        },
+        {
+            "id": "00355",
+            "eng": " A crisis which threatens to topple the government from power .",
+            "vie": " Một cuộc khủng_hoảng đe_dọa lật_đổ chính_phủ khỏi vị_trí cầm_quyền ."
+        },
+        {
+            "id": "00356",
+            "eng": " A cross - current of opinion against the prevailing view .",
+            "vie": " Một ý_kiến thiểu_số chống lại quan_điểm đang thịnh_hành ."
+        },
+        {
+            "id": "00357",
+            "eng": " A crowd had already collected outside the embassy gates .",
+            "vie": " Một đám đông đã tụ_tập bên ngoài cổng tòa đại_sứ ."
+        },
+        {
+            "id": "00358",
+            "eng": " A crowd of football - mad little boys .",
+            "vie": " Một đám thiếu_niên say_mê bóng_đá ."
+        },
+        {
+            "id": "00359",
+            "eng": " A crowd pushing and shoving to get in .",
+            "vie": " Một đám đông xô_đẩy và chen_lấn nhau để vào ."
+        },
+        {
+            "id": "00360",
+            "eng": " A crowd quickly congregated round the speaker .",
+            "vie": " Đám_đông nhanh_chóng tụ_tập lại xung_quanh diễn_giả ."
+        },
+        {
+            "id": "00361",
+            "eng": " A crowd soon collected at the scene of the accident .",
+            "vie": " Đám_đông nhanh_chóng tụ_tập tại địa_điểm xảy ra tai_nạn ."
+        },
+        {
+            "id": "00362",
+            "eng": " A crude performance of the symphony , quite without polish .",
+            "vie": " Một buổi trình_diễn nhạc giao_hưởng thô_thiển , không có chút tinh_tế nào ."
+        },
+        {
+            "id": "00363",
+            "eng": " A cruising speed of 50 miles per hour .",
+            "vie": " Vận_tốc vừa phải 50 dặm một giờ ."
+        },
+        {
+            "id": "00364",
+            "eng": " A crummy little street in the worst part of town .",
+            "vie": " Một con đường nhỏ xấu trong khu_vực tồi_tàn nhất tỉnh ."
+        },
+        {
+            "id": "00365",
+            "eng": " A cubic foot of water weighs about 62 1 / 2 pounds .",
+            "vie": " Một bộ khối nước_nặng 62 pao rưỡi ."
+        },
+        {
+            "id": "00366",
+            "eng": " A cunning device for cracking nuts .",
+            "vie": " Một dụng_cụ tinh_xảo dùng để tách hạt ."
+        },
+        {
+            "id": "00367",
+            "eng": " A cup of tea would be most acceptable .",
+            "vie": " Một tách trà chắc là ai cũng thích ."
+        },
+        {
+            "id": "00368",
+            "eng": " A curl of smoke rising from a cigarette .",
+            "vie": " Một làn khói cuộn lên từ một điếu thuốc ."
+        },
+        {
+            "id": "00369",
+            "eng": " A curtain of rain swept over the valley .",
+            "vie": " Màn mưa bao_phủ thung_lũng ."
+        },
+        {
+            "id": "00370",
+            "eng": " A cut diamond has many faces .",
+            "vie": " Một viên kim_cương cắt có nhiều mặt ."
+        },
+        {
+            "id": "00371",
+            "eng": " A cut in expenditure , prices , production .",
+            "vie": " Sự giảm bớt kinh_phí , giá_cả , sản_xuất ."
+        },
+        {
+            "id": "00372",
+            "eng": " A cutesy boutique for children 's fashions .",
+            "vie": " Một cửa_hàng hấp_dẫn bán quần_áo thời_trang trẻ_con ."
+        },
+        {
+            "id": "00373",
+            "eng": " A cynical disregard for others 'safety .",
+            "vie": " Sự thờ_ơ đối_với sự an_toàn của người khác ."
+        },
+        {
+            "id": "00374",
+            "eng": " A dab hand at rolling cigarettes .",
+            "vie": " Một người cuốn thuốc_lá cừ_khôi ."
+        },
+        {
+            "id": "00375",
+            "eng": " A dam is a wall across a stream .",
+            "vie": " Đập nước là một bức tường chắn_ngang qua một dòng sông ."
+        },
+        {
+            "id": "00376",
+            "eng": " A dam to hold back a river has to be very strong .",
+            "vie": " Một cái đập chặn dòng nước của một con sông phải kiên_cố ."
+        },
+        {
+            "id": "00377",
+            "eng": " A dark clouds may not disappear after rain or snow has fallen from it .",
+            "vie": " Một cụm mây đen có_thể không biến mất sau cơn hoặc cơn tuyết ."
+        },
+        {
+            "id": "00378",
+            "eng": " A dark forest wherein dangers lurk .",
+            "vie": " Một khu rừng tối_tăm mà ở trong đó nhiều nguy_hiểm đang rình_rập ."
+        },
+        {
+            "id": "00379",
+            "eng": " A dark suit doesn't show the dirt so much .",
+            "vie": " Một bộ quần_áo sậm không để lộ ra bụi bẩn ."
+        },
+        {
+            "id": "00380",
+            "eng": " A dash of water in his face will revive him .",
+            "vie": " Một_ít nước tạt vào mặt của anh ta sẽ làm anh ta tỉnh lại ."
+        },
+        {
+            "id": "00381",
+            "eng": " A day of hit - and - run disturbances by bands of dissident students .",
+            "vie": " Một ngày náo_động chớp_nhoáng do những nhóm sinh_viên chống_đối gây ra ."
+        },
+        {
+            "id": "00382",
+            "eng": " A day of sunshine interspersed with occasional showers .",
+            "vie": " Một ngày nắng đôi lúc có mưa_rào rải_rác ."
+        },
+        {
+            "id": "00383",
+            "eng": " A day on our calendar is daytime and night time together .",
+            "vie": " Một ngày trong lịch của chúng_ta là thời_gian ban_ngày và thời_gian ban_đêm cộng lại ."
+        },
+        {
+            "id": "00384",
+            "eng": " A dazzling display of sporting skill .",
+            "vie": " Một cuộc biểu_diễn các kỹ_năng thể_thao ngoạn_mục ."
+        },
+        {
+            "id": "00385",
+            "eng": " A dear little old lady helped me find my way .",
+            "vie": " Một bà cụ nhỏ_bé đáng yêu đã chỉ đường giúp tôi ."
+        },
+        {
+            "id": "00386",
+            "eng": " A debate that will go down as a turning point in the campaign .",
+            "vie": " Một cuộc bàn_cãi mà đời sau còn ghi_nhớ là một bước_ngoặt trong chiến_dịch đó ."
+        },
+        {
+            "id": "00387",
+            "eng": " A decade long national research effort .",
+            "vie": " Một nỗ_lực nghiên_cứu trên qui_mô cả nước kéo_dài suốt một thập_kỷ ."
+        },
+        {
+            "id": "00388",
+            "eng": " A deceitful cook who skimps on ingredients and short changes guests .",
+            "vie": " Một đầu_bếp dối_trá ăn_bớt thực_phẩm và lừa_gạt khách ."
+        },
+        {
+            "id": "00389",
+            "eng": " A decided effort to improve sales .",
+            "vie": " Một quyết_tâm nâng doanh_số bán ."
+        },
+        {
+            "id": "00390",
+            "eng": " A decision beyond one 's control .",
+            "vie": " Một quyết_định ngoài ý_muốn của ai ."
+        },
+        {
+            "id": "00391",
+            "eng": " A decision not precedented in English law .",
+            "vie": " Một quyết_định không có tiền_lệ trong luật_Anh ."
+        },
+        {
+            "id": "00392",
+            "eng": " A decision on this matter is pending .",
+            "vie": " Sắp có một quyết_định về vấn_đề này ."
+        },
+        {
+            "id": "00393",
+            "eng": " A decision taken at ministerial level .",
+            "vie": " Một quyết_định được ban_hành ở cấp bộ_trưởng ."
+        },
+        {
+            "id": "00394",
+            "eng": " A decline in the purchasing power of the dollar .",
+            "vie": " Sự giảm_sút mãi_lực của đồng đô_la ."
+        },
+        {
+            "id": "00395",
+            "eng": " A deep - seated resentment over the way one has been treated .",
+            "vie": " Sự phẫn_uất ăn sâu trong lòng về cách mình bị đối_xử ."
+        },
+        {
+            "id": "00396",
+            "eng": " A deep cleavage within the ruling party .",
+            "vie": " Sự chia_rẽ sâu_sắc trong nội_bộ đảng cầm_quyền ."
+        },
+        {
+            "id": "00397",
+            "eng": " A deep faith underlies her work among refugees .",
+            "vie": " Một đức_tin sâu_sắc làm nền_tảng cho công_việc của cô ta giữa đám dân tị_nạn ."
+        },
+        {
+            "id": "00398",
+            "eng": " A deep gorge separates the two halves of the city .",
+            "vie": " Một hẻm núi sâu ngăn đôi thành_phố đó ."
+        },
+        {
+            "id": "00399",
+            "eng": " A deep thrust into the opponent 's territory .",
+            "vie": " Một cuộc tấn_công dữ_dội sâu vào lãnh_thổ của đối_phương ."
+        },
+        {
+            "id": "00400",
+            "eng": " A deeply - felt malaise among the working classes .",
+            "vie": " Một cảm_giác uể_oải lan_tràn trong các tầng_lớp lao_động ."
+        },
+        {
+            "id": "00401",
+            "eng": " A defeat that was disastrous to the country .",
+            "vie": " Một thất_bại gây thảm_họa cho đất_nước ."
+        },
+        {
+            "id": "00402",
+            "eng": " A defector revealed the disposition of the enemy fleet .",
+            "vie": " Một tên đào_ngũ đã tiết_lộ sự bố_trí đội_hình của hạm_đội địch ."
+        },
+        {
+            "id": "00403",
+            "eng": " A defensive weapon system to destroy missiles approaching the country .",
+            "vie": " Hệ_thống vũ_khí phòng_thủ để phá_hủy các tên lửa tới gần đất_nước ."
+        },
+        {
+            "id": "00404",
+            "eng": " A degree in history and geography .",
+            "vie": " Một bằng_cấp về môn lịch_sử và địa_lý ."
+        },
+        {
+            "id": "00405",
+            "eng": " A degree is prerequisite for employment at this level .",
+            "vie": " Văn_bằng là cần trước_hết cho công_việc ở trình_độ này ."
+        },
+        {
+            "id": "00406",
+            "eng": " A deliberate attempt to stonewall the debate .",
+            "vie": " Một nỗ_lực chủ_ý cản_trở cuộc tranh_luận ."
+        },
+        {
+            "id": "00407",
+            "eng": " A delicate balancing act is needed in order to satisfy the two sides .",
+            "vie": " Cần có một_cách đạt thỏa_thuận khéo_léo và tế_nhị để thỏa_mãn cả đôi bên ."
+        },
+        {
+            "id": "00408",
+            "eng": " A delicate but well - handled subject .",
+            "vie": " Một đề_tài tế_nhị nhưng được xử_lý khéo ."
+        },
+        {
+            "id": "00409",
+            "eng": " A delivery van has brought the grocery order .",
+            "vie": " Một xe giao hàng đã chở hàng tạp_hóa đặt mua ."
+        },
+        {
+            "id": "00410",
+            "eng": " A delivery van making the rounds .",
+            "vie": " Một xe_tải giao hàng ghé nhiều địa_điểm ."
+        },
+        {
+            "id": "00411",
+            "eng": " A demonstration of a law of physics .",
+            "vie": " Một điều chứng_minh một định_luật vật_lý ."
+        },
+        {
+            "id": "00412",
+            "eng": " A demonstration of the computer ' s functions .",
+            "vie": " Sự trình_bày những chức_năng của máy_vi_tính ."
+        },
+        {
+            "id": "00413",
+            "eng": " A demonstration of the projected road improvement scheme .",
+            "vie": " Sự trình_bày một chương_trình nâng_cấp đường_sá đã được lên kế_hoạch ."
+        },
+        {
+            "id": "00414",
+            "eng": " A demonstration was planned to protest the mistreatment of prisoners .",
+            "vie": " Một cuộc biểu_tình đã được tổ_chức để phản_đối sự ngược_đãi đối_với tù_nhân ."
+        },
+        {
+            "id": "00415",
+            "eng": " A dense mass of black hair framed his face .",
+            "vie": " Một mớ tóc râu quai_nón đen rậm_rạp viền quanh khuôn_mặt của anh ta ."
+        },
+        {
+            "id": "00416",
+            "eng": " A dentist often has to fill teeth .",
+            "vie": " Một nha_sĩ thường phải trám răng ."
+        },
+        {
+            "id": "00417",
+            "eng": " A departure tax levied on all travellers .",
+            "vie": " Thuế khởi_hành thu ở mọi khách du_lịch ."
+        },
+        {
+            "id": "00418",
+            "eng": " A deposed king shorn of his former power .",
+            "vie": " Một ông vua bị phế_truất mất hết quyền hành trước_đây của ông ta ."
+        },
+        {
+            "id": "00419",
+            "eng": " A descriptive passage in a novel .",
+            "vie": " Một đoạn văn miêu_tả trong cuốn tiểu_thuyết ."
+        },
+        {
+            "id": "00420",
+            "eng": " A desert spreading for hundreds of miles .",
+            "vie": " Một sa_mạc trải rộng hàng trăm dặm ."
+        },
+        {
+            "id": "00421",
+            "eng": " A design may be pressed into the soft clay before the first firing .",
+            "vie": " Một mẫu vẽ có_thể được trang_trí lên trên đất_sét mềm trước lần nung đầu_tiên ."
+        },
+        {
+            "id": "00422",
+            "eng": " A design of pink roses on a white ground .",
+            "vie": " Một bản_vẽ hoa_hồng trên nền trắng ."
+        },
+        {
+            "id": "00423",
+            "eng": " A design which is inherently weak .",
+            "vie": " Một bản_thiết_kế vốn đã có nhược_điểm ."
+        },
+        {
+            "id": "00424",
+            "eng": " A desirable country , family , Georgian , etc residence for sale .",
+            "vie": " Bán một căn nhà hấp_dẫn ở vùng quê , cho gia_đình , kiểu Georgian ."
+        },
+        {
+            "id": "00425",
+            "eng": " A destroyer cruising about in the Baltic sea .",
+            "vie": " Một chiếc tàu khu_trục tuần_tiễu trên biển Ban - tích ."
+        },
+        {
+            "id": "00426",
+            "eng": " A detailed miniature of the Titanic .",
+            "vie": " Một mô_hình chi_tiết của chiếc tàu Titanic ."
+        },
+        {
+            "id": "00427",
+            "eng": " A determinative factor in his psychological development .",
+            "vie": " Một nhân_tố quyết_định trong sự phát_triển tâm_lý của anh ta ."
+        },
+        {
+            "id": "00428",
+            "eng": " A development wholly in keeping with what we expected .",
+            "vie": " Một sự phát_triển hoàn_toàn phù_hợp với điều chúng_tôi mong_đợi ."
+        },
+        {
+            "id": "00429",
+            "eng": " A diagnosis of advanced cancer indicating an emergency operation .",
+            "vie": " Việc chẩn_đoán bệnh ung_thư đã trở_nên trầm_trọng cho thấy cần phải giải_phẫu gấp ."
+        },
+        {
+            "id": "00430",
+            "eng": " A diagram that schematises the creation and consumption of wealth .",
+            "vie": " Một sơ_đồ trình_bày có kế_hoạch việc tạo ra và tiêu_thụ của_cải ."
+        },
+        {
+            "id": "00431",
+            "eng": " A diagram that schematizes the creation and consumption of wealth .",
+            "vie": " Một sơ_đồ trình_bày có kế_hoạch việc tạo ra và tiêu_thụ của_cải ."
+        },
+        {
+            "id": "00432",
+            "eng": " A diary containing gobbets of useful information .",
+            "vie": " Một cuốn nhật_ký chứa_đựng những mẩu thông_tin hữu_ích ."
+        },
+        {
+            "id": "00433",
+            "eng": " A diatribe against the police state .",
+            "vie": " Một bài công_kích nhà_nước cảnh quyền độc_tài ."
+        },
+        {
+            "id": "00434",
+            "eng": " A dictator who controlled the country for over 50 years .",
+            "vie": " Một nhà độc_tài đã nắm quyền cai_trị đất_nước hơn 50 năm ."
+        },
+        {
+            "id": "00435",
+            "eng": " A dictator who ranted his vitriol onto a captive audience .",
+            "vie": " Một kẻ độc_tài hùng_hổ tuôn ra những lời sỉ_nhục của hắn_ta trên đầu cổ đám người chịu_trận ngồi nghe ."
+        },
+        {
+            "id": "00436",
+            "eng": " A dictator with much blood on his hands .",
+            "vie": " Một nhà độc_tài với bàn_tay đẫm máu của hắn_ta ."
+        },
+        {
+            "id": "00437",
+            "eng": " A dictionary expressly compiled for Vietnamese students of English .",
+            "vie": " Một cuốn từ_điển được soạn riêng cho các sinh_viên Việt_Nam học tiếng Anh ."
+        },
+        {
+            "id": "00438",
+            "eng": " A dictionary help one to distinguish correct and incorrect usage .",
+            "vie": " Từ_điển giúp ta phân_biệt được cách dùng đúng và sai ."
+        },
+        {
+            "id": "00439",
+            "eng": " A dictionary tells you what words mean .",
+            "vie": " Từ_điển cho bạn biết các từ có nghĩa gì ."
+        },
+        {
+            "id": "00440",
+            "eng": " A dictionary with poor coverage of American words .",
+            "vie": " Một cuốn từ_điển ít có các từ Mỹ ."
+        },
+        {
+            "id": "00441",
+            "eng": " A difference of opinion about Britain 's role vis - à - vis Europe .",
+            "vie": " Một sự khác_biệt quan_điểm về vai_trò của Anh đối_với châu_Âu ."
+        },
+        {
+            "id": "00442",
+            "eng": " A different wording might make the meaning clearer .",
+            "vie": " Một cách diễn khác có_thể làm cho nghĩa đó rõ hơn ."
+        },
+        {
+            "id": "00443",
+            "eng": " A difficult , not to say impossible , task .",
+            "vie": " Một công_việc khó_khăn , nếu không nói là không_thể làm được ."
+        },
+        {
+            "id": "00444",
+            "eng": " A difficult piano piece full of sharps and flats .",
+            "vie": " Một khúc nhạc đàn_dương_cầm khó chơi toàn những dấu_thăng và dấu_giáng ."
+        },
+        {
+            "id": "00445",
+            "eng": " A difficult word that needs to be glossed .",
+            "vie": " Một từ khó cần phải được giải_nghĩa ngắn_gọn ."
+        },
+        {
+            "id": "00446",
+            "eng": " A digest of a week 's news .",
+            "vie": " Một bản tóm_tắt những tin_tức trong tuần ."
+        },
+        {
+            "id": "00447",
+            "eng": " A dilettantish follower of the arts .",
+            "vie": " Một tay tập tò , học_đòi theo nghệ_thuật ."
+        },
+        {
+            "id": "00448",
+            "eng": " A dinner was given for the ambassador .",
+            "vie": " Một bữa tiệc chiêu_đãi vị đại_sứ ."
+        },
+        {
+            "id": "00449",
+            "eng": " A diplomat subverted by foreign power .",
+            "vie": " Một nhà ngoại_giao bị thế_lực ngoại_bang làm biến_chất ."
+        },
+        {
+            "id": "00450",
+            "eng": " A directive from headquarters calling for increased output .",
+            "vie": " Một chỉ_thị từ trụ_sở văn_phòng trung_ương yêu_cầu gia_tăng năng_suất ."
+        },
+        {
+            "id": "00451",
+            "eng": " A dirty cut may become septic .",
+            "vie": " Một vết cắt bẩn có_thể thành nhiễm_trùng ."
+        },
+        {
+            "id": "00452",
+            "eng": " A disabled child in a wheelchair .",
+            "vie": " Một đứa trẻ tàn_tật trong một chiếc xe_lăn ."
+        },
+        {
+            "id": "00453",
+            "eng": " A disagreement over the best way to proceed .",
+            "vie": " Sự bất_đồng_ý_kiến về cách tốt nhất để tiến_hành công_việc ."
+        },
+        {
+            "id": "00454",
+            "eng": " A discontented section of the army .",
+            "vie": " Một nhóm bất_mãn trong quân_đội ."
+        },
+        {
+            "id": "00455",
+            "eng": " A discovery of the first magnitude .",
+            "vie": " Một khám_phá có tầm quan_trọng bậc nhất ."
+        },
+        {
+            "id": "00456",
+            "eng": " A discovery that made medical history .",
+            "vie": " Một khám_phá được ghi vào lịch_sử y_học ."
+        },
+        {
+            "id": "00457",
+            "eng": " A discussion with input from all members of the group .",
+            "vie": " Một cuộc thảo_luận với sự đóng_góp ý_kiến của tất_cả các thành_viên trong nhóm đó ."
+        },
+        {
+            "id": "00458",
+            "eng": " A disease that attacks the brain .",
+            "vie": " Một căn_bệnh làm_hư tổn bộ_óc ."
+        },
+        {
+            "id": "00459",
+            "eng": " A disequilibrium in the military forces of the two countries .",
+            "vie": " Một sự thiếu cân_bằng về lực_lượng quân_sự giữa hai nước ."
+        },
+        {
+            "id": "00460",
+            "eng": " A dish of meat topped with mashed potato .",
+            "vie": " Dĩa thịt có phủ khoai_tây nghiền lên trên ."
+        },
+        {
+            "id": "00461",
+            "eng": " A dismal performance in the elections .",
+            "vie": " Các cuộc bầu_cử diễn ra không được như mong_muốn ."
+        },
+        {
+            "id": "00462",
+            "eng": " A dismissive shrug of the shoulders .",
+            "vie": " Một cái nhún_vai xua_đuổi ."
+        },
+        {
+            "id": "00463",
+            "eng": " A dispute about the differential between men and women workers .",
+            "vie": " Một cuộc bàn_cãi về mức lương giữa nam và nữ_công_nhân ."
+        },
+        {
+            "id": "00464",
+            "eng": " A disquietingly large number of accidents .",
+            "vie": " Một con_số lớn đáng lo_ngại về tai_nạn ."
+        },
+        {
+            "id": "00465",
+            "eng": " A diver whose mental and physical states were at concert pitch before executing the dive .",
+            "vie": " Một người thợ lặn với tình_trạng tinh_thần lẫn thể_xác ở tư_thế sẵn_sàng khi thực_hiện vụ lặn ."
+        },
+        {
+            "id": "00466",
+            "eng": " A doctor cannot turn away a dying man .",
+            "vie": " Một thầy_thuốc không_thể từ_chối chữa một người đang hấp_hối ."
+        },
+        {
+            "id": "00467",
+            "eng": " A doctor who gives away confidential information about patients is not behaving professionally .",
+            "vie": " Một bác_sĩ mà tiết_lộ những tin_tức kín về bệnh_nhân là có thái_độ không đúng với nghề_nghiệp ."
+        },
+        {
+            "id": "00468",
+            "eng": " A doctor who is gentle with his hands .",
+            "vie": " Một bác_sĩ với đôi bàn_tay dịu_dàng của ông ta ."
+        },
+        {
+            "id": "00469",
+            "eng": " A doctor with five years seniority over his colleague .",
+            "vie": " Một vị bác_sĩ có mức thâm_niên cao hơn đồng_nghiệp của ông ta năm năm ."
+        },
+        {
+            "id": "00470",
+            "eng": " A doctor working in general practice .",
+            "vie": " Một bác_sĩ hành_nghề đa_khoa ."
+        },
+        {
+            "id": "00471",
+            "eng": " A document attached to a letter with a pin .",
+            "vie": " Một tài_liệu đính kèm với lá thư bằng một cái ghim ."
+        },
+        {
+            "id": "00472",
+            "eng": " A document certifying somebody 's birth .",
+            "vie": " Một tờ giấy chứng_thực khai_sinh của ai ."
+        },
+        {
+            "id": "00473",
+            "eng": " A document with two signatures on it .",
+            "vie": " Một văn_kiện với hai chữ_ký trên đó ."
+        },
+        {
+            "id": "00474",
+            "eng": " A documentary account of the Vietnam war .",
+            "vie": " Một bản báo_cáo gồm những tài_liệu về cuộc chiến_tranh Việt_Nam ."
+        },
+        {
+            "id": "00475",
+            "eng": " A dog lying at his master 's feet .",
+            "vie": " Con chó nằm dưới chân chủ của nó ."
+        },
+        {
+            "id": "00476",
+            "eng": " A dog needs to be taken out for a walk every day .",
+            "vie": " Cần phải đưa chó ra ngoài đi dạo mỗi ngày ."
+        },
+        {
+            "id": "00477",
+            "eng": " A dog salivates when it sees a bone .",
+            "vie": " Một con chó chảy nước_dãi khi nó nhìn thấy một cái xương ."
+        },
+        {
+            "id": "00478",
+            "eng": " A dog smelling at a lamp - post .",
+            "vie": " Con chó đánh_hơi ở một cái cột_đèn ."
+        },
+        {
+            "id": "00479",
+            "eng": " A dog that moults all over the house .",
+            "vie": " Một con chó rụng lông khắp nhà ."
+        },
+        {
+            "id": "00480",
+            "eng": " A dog with white markings on its chest .",
+            "vie": " Một con chó có lông trắng ở ngực của nó ."
+        },
+        {
+            "id": "00481",
+            "eng": " A doll that squeaks when you squeeze it .",
+            "vie": " Con búp_bê kêu chít_chít khi bạn bóp nó ."
+        },
+        {
+            "id": "00482",
+            "eng": " A dose of this stuff will purge you !",
+            "vie": " Một liều của thứ thuốc này sẽ xổ ruột mày đấy !"
+        },
+        {
+            "id": "00483",
+            "eng": " A double - cross that costs six lives .",
+            "vie": " Cái_trò lừa_gạt hai mặt ấy làm mất sáu sinh_mạng ."
+        },
+        {
+            "id": "00484",
+            "eng": " A double loop like a figure eight .",
+            "vie": " Một vòng đôi giống hình số tám ."
+        },
+        {
+            "id": "00485",
+            "eng": " A draft on an American bank .",
+            "vie": " Một hối_phiếu do một ngân_hàng Mỹ thanh_toán ."
+        },
+        {
+            "id": "00486",
+            "eng": " A draftee waiting to be inducted into the army .",
+            "vie": " Một người trúng_tuyển nghĩa_vụ quân_sự đang chờ được tiếp_nhận vào quân_đội ."
+        },
+        {
+            "id": "00487",
+            "eng": " A drain clogged up with dead leaves .",
+            "vie": " Một rãnh nước bị những chiếc lá úa làm nghẹt ."
+        },
+        {
+            "id": "00488",
+            "eng": " A dramatic representation of a real event .",
+            "vie": " Một vở_kịch thể_hiện một sự_kiện có thật ngoài đời ."
+        },
+        {
+            "id": "00489",
+            "eng": " A dramatic reversal of her earlier decision .",
+            "vie": " Một sự đảo_ngược bất_ngờ quyết_định trước_đây của bà ta ."
+        },
+        {
+            "id": "00490",
+            "eng": " A dream - like state between sleeping and waking .",
+            "vie": " Tình_trạng mơ_mơ_màng_màng giữa ngủ và thức ."
+        },
+        {
+            "id": "00491",
+            "eng": " A dreamy recollection of what happened .",
+            "vie": " Một ký_ức lờ_mờ những việc đã xảy ra ."
+        },
+        {
+            "id": "00492",
+            "eng": " A dreary forsaken beach in winter .",
+            "vie": " Một bãi biển hoang_vắng , đìu_hiu vào mùa đông ."
+        },
+        {
+            "id": "00493",
+            "eng": " A dress brocaded with floral designs .",
+            "vie": " Một bộ_đồ đầm được thêu hoa kim_tuyến ."
+        },
+        {
+            "id": "00494",
+            "eng": " A dress embellished with lace and ribbons .",
+            "vie": " Một chiếc áo đầm được trang_trí bằng ren và ruy - băng ."
+        },
+        {
+            "id": "00495",
+            "eng": " A dress strangled with tiny silver sequins .",
+            "vie": " Một cái áo đầm được đính trang_kim bạc lấm_tấm ."
+        },
+        {
+            "id": "00496",
+            "eng": " A dress that hasn't go much shape .",
+            "vie": " Một chiếc áo đầm không ra hình_dạng gì cả ."
+        },
+        {
+            "id": "00497",
+            "eng": " A dress that is generously cut .",
+            "vie": " Một cái áo đầm cắt tốn vải ."
+        },
+        {
+            "id": "00498",
+            "eng": " A dress that is hooked at the back .",
+            "vie": " Cái áo đầm gài móc sau lưng ."
+        },
+        {
+            "id": "00499",
+            "eng": " A dress that show off her figure well .",
+            "vie": " Một chiếc áo đầm làm nổi rõ thân_hình của cô ta ."
+        },
+        {
+            "id": "00500",
+            "eng": " A dress with a plunging neckline .",
+            "vie": " Một cái áo đầm có cổ xẻ ."
+        },
+        {
+            "id": "00501",
+            "eng": " A dress with a provocative slit at the side .",
+            "vie": " Một cái áo đầm có đường xẻ bên hông khêu_gợi ."
+        },
+        {
+            "id": "00502",
+            "eng": " A dress with an elasticated waist .",
+            "vie": " Một chiếc áo đầm có luồn dây_chun ở thắt_lưng ."
+        },
+        {
+            "id": "00503",
+            "eng": " A drop in prices , in temperatures .",
+            "vie": " Sự xuống giá , sự hạ nhiệt ."
+        },
+        {
+            "id": "00504",
+            "eng": " A drop of milk diffused in the water , and it became cloudy .",
+            "vie": " Một giọt sữa hòa_tan vào nước và nó trở_nên mờ_đục ."
+        },
+        {
+            "id": "00505",
+            "eng": " A drug that can be injected or taken by mouth .",
+            "vie": " Một loại thuốc có_thể được tiêm hoặc uống ."
+        },
+        {
+            "id": "00506",
+            "eng": " A drum roll preceded the most dangerous part of the performance .",
+            "vie": " Một hồi trống dồn_dập báo_hiệu phần nguy_hiểm nhất của buổi biểu_diễn ."
+        },
+        {
+            "id": "00507",
+            "eng": " A drunk man cannot be considered fully responsible for his actions .",
+            "vie": " Một người say_rượu không_thể được coi là có trách_nhiệm đầy_đủ về hành_vi của anh ta ."
+        },
+        {
+            "id": "00508",
+            "eng": " A drunk man cannot be held fully responsible for his actions .",
+            "vie": " Một người say_rượu không_thể bị buộc là có trách_nhiệm đầy_đủ về hành_vi của anh ta ."
+        },
+        {
+            "id": "00509",
+            "eng": " A drunken man lurching along the street .",
+            "vie": " Một gã say rượu bước_đi loạng_choạng dọc theo lề phố ."
+        },
+        {
+            "id": "00510",
+            "eng": " A duet for violin and piano .",
+            "vie": " Bản song_tấu cho vĩ_cầm và dương_cầm ."
+        },
+        {
+            "id": "00511",
+            "eng": " A dust - cloud swept across the plain .",
+            "vie": " Một đám bụi bay qua cánh đồng ."
+        },
+        {
+            "id": "00512",
+            "eng": " A dyke was built to retain the floods .",
+            "vie": " Một con đê được xây lên để ngăn lụt ."
+        },
+        {
+            "id": "00513",
+            "eng": " A face covered with grime and sweat .",
+            "vie": " Một khuôn_mặt dính đầy bụi và mồ_hôi ."
+        },
+        {
+            "id": "00514",
+            "eng": " A face etched with a patina of fine lines and tiny wrinkles .",
+            "vie": " Gương_mặt thay_đổi vì có những nét và nếp nhăn nho_nhỏ hằn lên ."
+        },
+        {
+            "id": "00515",
+            "eng": " A face marked by small pox .",
+            "vie": " Một khuôn_mặt có vết rỗ ."
+        },
+        {
+            "id": "00516",
+            "eng": " A face that expressed a gamut of emotions , from rage to peaceful contentment .",
+            "vie": " Một gương_mặt biểu_lộ cả loạt cảm_xúc từ giận_dữ tới hài_lòng thoải_mái ."
+        },
+        {
+            "id": "00517",
+            "eng": " A fact that cannot be controverted .",
+            "vie": " Một thực_tế không_thể chối_cãi được ."
+        },
+        {
+            "id": "00518",
+            "eng": " A factory sited next to a railway line .",
+            "vie": " Một nhà_máy được đặt cạnh tuyến đường_sắt ."
+        },
+        {
+            "id": "00519",
+            "eng": " A factory supplying components for the car industry .",
+            "vie": " Nhà_máy cung_cấp các bộ_phận cho công_nghiệp xe ôtô ."
+        },
+        {
+            "id": "00520",
+            "eng": " A fail in history and passes in everything else .",
+            "vie": " Trượt môn lịch_sử , đỗ tất_cả các môn khác ."
+        },
+        {
+            "id": "00521",
+            "eng": " A faint smile flickered across her face .",
+            "vie": " Một nụ cười yếu_ớt thoáng_qua khuôn_mặt của nàng ."
+        },
+        {
+            "id": "00522",
+            "eng": " A fairly simple system of classification .",
+            "vie": " Một hệ_thống phân_loại khá đơn_sơ ."
+        },
+        {
+            "id": "00523",
+            "eng": " A fall in demand for oil tankers has placed thousands of jobs in the ship - building industry in jeopardy .",
+            "vie": " Sự giảm_sút nhu_cầu tàu chở dầu đã làm cho hàng ngàn công_ăn_việc_làm trong ngành công_nghiệp đóng tàu lâm vào tình_trạng nguy_ngập ."
+        },
+        {
+            "id": "00524",
+            "eng": " A fall in demand for oil tankers has put thousands of jobs in the ship - building industry in jeopardy .",
+            "vie": " Sự giảm_sút nhu_cầu tàu chở dầu đã làm cho hàng ngàn công_ăn_việc_làm trong ngành công_nghiệp đóng tàu lâm vào tình_trạng nguy_ngập ."
+        },
+        {
+            "id": "00525",
+            "eng": " A fall in interest rates is a probability in the present economic climate .",
+            "vie": " Sự giảm mức lãi_suất là một điều có_thể xảy ra trong tình_hình kinh_tế hiện_nay ."
+        },
+        {
+            "id": "00526",
+            "eng": " A fall in the numbers attending .",
+            "vie": " Sự sút_giảm số_lượng người tham_dự ."
+        },
+        {
+            "id": "00527",
+            "eng": " A fallback position behind our lines .",
+            "vie": " Một vị_trí sau chiến_tuyến của chúng_ta có_thể rút_lui về được ."
+        },
+        {
+            "id": "00528",
+            "eng": " A falling - out among family members .",
+            "vie": " Một cuộc cãi_cọ , giữa những người trong gia_đình ."
+        },
+        {
+            "id": "00529",
+            "eng": " A false step could have cost the climbers their lives .",
+            "vie": " Một bước_hụt của những người leo núi có_thể đổi bằng tính_mạng của họ ."
+        },
+        {
+            "id": "00530",
+            "eng": " A familiar rush overtook him each time the store announced a half - price special on expensive stereo equipment .",
+            "vie": " Cứ mỗi lần cửa_hàng đó thông_báo bán nửa giá đặc_biệt về thiết_bị stêrêo đắt tiền thì anh ta lại có được một lúc hồ_hởi ."
+        },
+        {
+            "id": "00531",
+            "eng": " A family desolated by the loss of a child .",
+            "vie": " Một gia_đình buồn_phiền vì mất một đứa con ."
+        },
+        {
+            "id": "00532",
+            "eng": " A family living on supplementary benefit .",
+            "vie": " Một gia_đình sống bằng tiền trợ_cấp cho người nghèo ."
+        },
+        {
+            "id": "00533",
+            "eng": " A family noted for its longevity .",
+            "vie": " Một gia_đình nổi_tiếng về tuổi_thọ ."
+        },
+        {
+            "id": "00534",
+            "eng": " A family on a budget can't afford meat every day .",
+            "vie": " Một gia_đình chỉ có ít tiền không_thể mua thịt hàng ngày được ."
+        },
+        {
+            "id": "00535",
+            "eng": " A family party at which all three generations were present .",
+            "vie": " Một bữa tiệc gia_đình với sự có_mặt của cả ba đời ."
+        },
+        {
+            "id": "00536",
+            "eng": " A family that bore an ancient and honoured name .",
+            "vie": " Một gia_đình mang tên một dòng_họ danh_giá và lâu_đời ."
+        },
+        {
+            "id": "00537",
+            "eng": " A family that has always been well situated .",
+            "vie": " Một gia_đình luôn_luôn ở trong hoàn_cảnh sung_túc ."
+        },
+        {
+            "id": "00538",
+            "eng": " A family that has spawned a monster .",
+            "vie": " Một gia_đình đã sinh ra một quái_thai ."
+        },
+        {
+            "id": "00539",
+            "eng": " A family that ranks high on the social scale .",
+            "vie": " Một gia_đình ở địa_vị cao trong xã_hội ."
+        },
+        {
+            "id": "00540",
+            "eng": " A famous Chinese saying goes like this You cannot be called a true man unless you have got on the Great Wall .",
+            "vie": " Một câu nói nổi_tiếng của Trung_Quốc_đại_ý như thế_này ” bạn không_thể được gọi_là một người đàn_ông thực_sự nếu bạn chưa đến Vạn Lý Trường_Thành ” ."
+        },
+        {
+            "id": "00541",
+            "eng": " A fan in the kitchen for expelling cooking smells .",
+            "vie": " Một cái quạt đặt trong bếp để thổi đi những mùi nấu_nướng ."
+        },
+        {
+            "id": "00542",
+            "eng": " A fanfare was played as the queen entered .",
+            "vie": " Một khúc nhạc kèn trổi lên khi Nữ_hoàng bước vào ."
+        },
+        {
+            "id": "00543",
+            "eng": " A far - flung network of contacts .",
+            "vie": " Một mạng_lưới liên_lạc rộng_rãi ."
+        },
+        {
+            "id": "00544",
+            "eng": " A farmer spraying his crop with pesticide .",
+            "vie": " Một nông_dân phun thuốc_trừ_sâu lên ruộng lúa của anh ta ."
+        },
+        {
+            "id": "00545",
+            "eng": " A farrago of useless bits of knowledge .",
+            "vie": " Một mớ kiến_thức lộn_xộn vô_dụng ."
+        },
+        {
+            "id": "00546",
+            "eng": " A fashionable affair attended by all the great and the good .",
+            "vie": " Một buổi trình_diễn thời_trang với sự có_mặt của tất_cả những nhân_vật lỗi_lạc và đạo_đức tham_dự ."
+        },
+        {
+            "id": "00547",
+            "eng": " A fast bowler with a fine action .",
+            "vie": " Một người chơi bóng lăn nhanh_nhẹn với động_tác khéo_léo ."
+        },
+        {
+            "id": "00548",
+            "eng": " A fat man 's ponderous movements .",
+            "vie": " Những cử_động ì_ạch , nặng_nề của một người béo ."
+        },
+        {
+            "id": "00549",
+            "eng": " A faulty light switch sending out sparks .",
+            "vie": " Một công_tắc đèn bị hỏng phát ra những tia_lửa_điện ."
+        },
+        {
+            "id": "00550",
+            "eng": " A feasibility study is being carried out before we invest in the joint venture company .",
+            "vie": " Một luận_chứng khả_thi đang được thực_hiện trước khi chúng_tôi đầu_tư vào công_ty liên_doanh này ."
+        },
+        {
+            "id": "00551",
+            "eng": " A feel instant relief after treatment .",
+            "vie": " Cảm_thấy bớt đau_tức_khắc sau khi điều_trị ."
+        },
+        {
+            "id": "00552",
+            "eng": " A feeling of drowsiness crept over him .",
+            "vie": " Một cảm_giác buồn_ngủ dần_dần xâm_chiếm anh ta ."
+        },
+        {
+            "id": "00553",
+            "eng": " A fence divides the two properties .",
+            "vie": " Một hàng_rào chia_cắt hai khu nhà_đất ."
+        },
+        {
+            "id": "00554",
+            "eng": " A fence runs round the whole field .",
+            "vie": " Một hàng_rào chạy bao quanh cả cánh đồng ."
+        },
+        {
+            "id": "00555",
+            "eng": " A ferocious campaign against us in the press .",
+            "vie": " Một chiến_dịch ác_liệt chống lại chúng_ta qua báo_chí ."
+        },
+        {
+            "id": "00556",
+            "eng": " A ferry that was converted to carry troops during the war .",
+            "vie": " Một cái phà đã được chuyển_đổi để chở quân_lính trong chiến_tranh ."
+        },
+        {
+            "id": "00557",
+            "eng": " A few daffodils were already poking up .",
+            "vie": " Một_vài mầm cây hoa thủy_tiên đã nhú lên ."
+        },
+        {
+            "id": "00558",
+            "eng": " A few die - hards are trying to stop the reforms .",
+            "vie": " Một_vài kẻ ngoan_cố đang cố_gắng ngăn_trở các cuộc cải_tổ ."
+        },
+        {
+            "id": "00559",
+            "eng": " A few disruptive students can easily ruin a class .",
+            "vie": " Một_số học_sinh quậy_phá có_thể dễ_dàng làm hư một buổi học ."
+        },
+        {
+            "id": "00560",
+            "eng": " A few drinks broke through his reserve .",
+            "vie": " Một_vài cốc rượu đã làm mất đi tính dè_dặt của anh ta ."
+        },
+        {
+            "id": "00561",
+            "eng": " A few faint gleams of sunshine lit up the gloomy afternoon .",
+            "vie": " Vài tia nắng yếu_ớt le_lói trong buổi chiều ảm_đạm ."
+        },
+        {
+            "id": "00562",
+            "eng": " A few hardy people swam in the icy water .",
+            "vie": " Một_vài người chịu được rét bơi trong nước băng_giá ."
+        },
+        {
+            "id": "00563",
+            "eng": " A few kinds of fishes - those that have swim bladders - even turn inside out .",
+            "vie": " Thậm_chí một_số loài cá - những con cá bong_bóng bơi - bị nổ tung ra ."
+        },
+        {
+            "id": "00564",
+            "eng": " A few late nights never did anyone any harm .",
+            "vie": " Thức khuya một_vài đêm thì chẳng hề hại cho ai cả ."
+        },
+        {
+            "id": "00565",
+            "eng": " A few lines of rhyming doggerel don't count as poetry .",
+            "vie": " Một_vài dòng thơ con cóc có nhịp_điệu đâu được coi là thơ ."
+        },
+        {
+            "id": "00566",
+            "eng": " A few of the seats were empty .",
+            "vie": " Có một_số ghế còn trống ."
+        },
+        {
+            "id": "00567",
+            "eng": " A few people say that capitalism is going to become out of date in the 21st century .",
+            "vie": " Một_vài người nói rằng chủ_nghĩa_tư_bản sẽ không còn phù_hợp trong thế_kỉ 21 nữa ."
+        },
+        {
+            "id": "00568",
+            "eng": " A few persevering climbers finally reached the top .",
+            "vie": " Một ít người leo núi bền_bỉ cuối_cùng đến được đỉnh ."
+        },
+        {
+            "id": "00569",
+            "eng": " A few quiet minutes in the middle of the day to sit and contemplate .",
+            "vie": " Một_vài phút yên_lặng giữa trưa để ngồi suy_tư ."
+        },
+        {
+            "id": "00570",
+            "eng": " A few rather plain bits of furniture .",
+            "vie": " Một ít đồ_đạc khá thô_sơ ."
+        },
+        {
+            "id": "00571",
+            "eng": " A few residual faults in the computer program .",
+            "vie": " Một_vài lỗi_lầm còn sót lại trong chương_trình của máy_vi_tính ."
+        },
+        {
+            "id": "00572",
+            "eng": " A few survivors were pulled from the wreckage .",
+            "vie": " Một_số người sống_sót được kéo ra khỏi đống đổ_nát ."
+        },
+        {
+            "id": "00573",
+            "eng": " A few words of praise from her would have completed his happiness .",
+            "vie": " Một_vài lời khen_ngợi của cô ấy có_lẽ đã làm cho hạnh_phúc của anh ta trọn_vẹn ."
+        },
+        {
+            "id": "00574",
+            "eng": " A few young children straggling along behind their parents .",
+            "vie": " Một_vài đứa trẻ lẽo_đẽo theo sau bố_mẹ mình ."
+        },
+        {
+            "id": "00575",
+            "eng": " A fictional account of life on a farm .",
+            "vie": " Một bài tường_thuật hư_cấu về đời_sống nông_trại ."
+        },
+        {
+            "id": "00576",
+            "eng": " A field of wheat flattened by storms .",
+            "vie": " Một đồng lúa_mì bị bão thổi rạp xuống ."
+        },
+        {
+            "id": "00577",
+            "eng": " A field of wheat undulating in the breeze .",
+            "vie": " Một cánh đồng lúa_mì gợn_sóng trong làn gió nhẹ ."
+        },
+        {
+            "id": "00578",
+            "eng": " A field profuse with wild flowers .",
+            "vie": " Một cánh đồng đầy hoa dại ."
+        },
+        {
+            "id": "00579",
+            "eng": " A field rank with nettles and thistles .",
+            "vie": " Một cánh đồng tràn_lan cây tầm_ma và cây gai ."
+        },
+        {
+            "id": "00580",
+            "eng": " A field that had been treed with oak saplings .",
+            "vie": " Một cánh đồng được trồng những cây sồi non ."
+        },
+        {
+            "id": "00581",
+            "eng": " A fielder standing square on the off side .",
+            "vie": " Một cầu_thủ chặn bóng đứng thẳng_góc với cầu_thủ đánh gậy ở phần sân đối_diện ."
+        },
+        {
+            "id": "00582",
+            "eng": " A fierce opponent of nuclear arms .",
+            "vie": " Một người chống_đối kịch_liệt vũ_khí hạt_nhân ."
+        },
+        {
+            "id": "00583",
+            "eng": " A fierce struggle between two wrestlers .",
+            "vie": " Trận đấu dữ_dội giữa hai võ_sĩ đô_vật ."
+        },
+        {
+            "id": "00584",
+            "eng": " A fifty - fifty chance of winning .",
+            "vie": " Cơ_hội thắng thua ngang nhau ."
+        },
+        {
+            "id": "00585",
+            "eng": " A fifty percent increase in price .",
+            "vie": " Một vụ tăng_giá năm mươi phần_trăm ."
+        },
+        {
+            "id": "00586",
+            "eng": " A figure standing in the shadows .",
+            "vie": " Một bóng người đứng trong cảnh tranh tối tranh sáng ."
+        },
+        {
+            "id": "00587",
+            "eng": " A file of top secret information .",
+            "vie": " Một hồ_sơ thông_tin tối_mật ."
+        },
+        {
+            "id": "00588",
+            "eng": " A filly sired by a famous racehorse .",
+            "vie": " Con ngựa cái nhỏ lấy giống từ một con ngựa đua nổi_tiếng ."
+        },
+        {
+            "id": "00589",
+            "eng": " A film completes this evening 's TV line - up .",
+            "vie": " Bộ phim kết_thúc chương_trình TV buổi chiều này ."
+        },
+        {
+            "id": "00590",
+            "eng": " A film full of tricksy camera work that fails to disguise a weak story .",
+            "vie": " Một cuốn phim đầy xảo_thuật quay_phim khiến cho không che_đậy nổi một cốt_truyện yếu_kém ."
+        },
+        {
+            "id": "00591",
+            "eng": " A film full of tricky camera work that fails to disguise a weak story .",
+            "vie": " Một cuốn phim đầy xảo_thuật quay_phim khiến cho không che_đậy nổi một cốt_truyện yếu_kém ."
+        },
+        {
+            "id": "00592",
+            "eng": " A film scripted by a famous novelist .",
+            "vie": " Một phim do một tiểu_thuyết gia nổi_tiếng viết kịch_bản ."
+        },
+        {
+            "id": "00593",
+            "eng": " A film shown to a select audience .",
+            "vie": " Cuốn phim được chiếu cho số khán_giả chọn_lọc ."
+        },
+        {
+            "id": "00594",
+            "eng": " A film that appeals specially to the young .",
+            "vie": " Một cuốn phim hấp_dẫn đặc_biệt giới trẻ ."
+        },
+        {
+            "id": "00595",
+            "eng": " A film that creates an atmosphere of menace .",
+            "vie": " Một bộ phim tạo ra một bầu_không_khí đe_dọa ."
+        },
+        {
+            "id": "00596",
+            "eng": " A film that features a new French actress .",
+            "vie": " Một cuốn phim do một nữ diễn_viên mới người Pháp đóng vai chính ."
+        },
+        {
+            "id": "00597",
+            "eng": " A film that really plumbs that depths of bad taste .",
+            "vie": " Một cuốn phim thật_sự dở hết cỡ ."
+        },
+        {
+            "id": "00598",
+            "eng": " A film that was subtitled for English - speaking audiences .",
+            "vie": " Một cuốn phim được phụ_đề cho các khán_giả nói tiếng Anh ."
+        },
+        {
+            "id": "00599",
+            "eng": " A film to make you thrill with excitement .",
+            "vie": " Một bộ phim mà sẽ làm_bạn thích_thú vì hào_hứng ."
+        },
+        {
+            "id": "00600",
+            "eng": " A film with a distinguished cast .",
+            "vie": " Một phim có nhiều diễn_viên nổi_tiếng ."
+        },
+        {
+            "id": "00601",
+            "eng": " A film with witty and intelligent dialogue .",
+            "vie": " Một cuốn phim với lời đối_thoại dí_dỏm và tài_trí ."
+        },
+        {
+            "id": "00602",
+            "eng": " A filter traps dust from the air .",
+            "vie": " Một bộ_phận lọc giữ lại bụi từ trên không rơi xuống ."
+        },
+        {
+            "id": "00603",
+            "eng": " A final between the first and second seeds .",
+            "vie": " Một trận chung_kết giữa đấu_thủ hạt_giống số 1 và số 2 ."
+        },
+        {
+            "id": "00604",
+            "eng": " A final score of two hits and six misses .",
+            "vie": " Tỷ_số cuối_cùng là hai phát trúng , sáu phát trượt ."
+        },
+        {
+            "id": "00605",
+            "eng": " A find of plastic stuff is used to make the plates .",
+            "vie": " Một loại chất nhựa được dùng làm đĩa ."
+        },
+        {
+            "id": "00606",
+            "eng": " A fine clearance by the full - back .",
+            "vie": " Một cú phát_bóng đẹp của hậu_vệ ."
+        },
+        {
+            "id": "00607",
+            "eng": " A fine edition of Shakespeare 's plays .",
+            "vie": " Một ấn_bản tốt những vở_kịch của Shakespeare ."
+        },
+        {
+            "id": "00608",
+            "eng": " A fine for this offence is automatic .",
+            "vie": " Phạt_vạ đối_với sự sai_lầm này là đương_nhiên ."
+        },
+        {
+            "id": "00609",
+            "eng": " A fine mess you 've made of that !",
+            "vie": " Đống bừa_bộn mày làm ra đẹp đấy !"
+        },
+        {
+            "id": "00610",
+            "eng": " A fine show of blossom on the apple trees .",
+            "vie": " Sự phô_trương đẹp_mắt của những bông hoa trên các cây táo ."
+        },
+        {
+            "id": "00611",
+            "eng": " A fine solo performance on the flute .",
+            "vie": " Một buổi độc_tấu sáo hay ."
+        },
+        {
+            "id": "00612",
+            "eng": " A fire - engine racing along with its sirens wailing .",
+            "vie": " Một xe chữa_cháy chạy qua hú còi ầm_ĩ ."
+        },
+        {
+            "id": "00613",
+            "eng": " A fire drill is much longer .",
+            "vie": " Bài_tập báo_động cháy lâu hơn nhiều ."
+        },
+        {
+            "id": "00614",
+            "eng": " A fire hisses if water is thrown on it .",
+            "vie": " Một ngọn lửa sẽ kêu xèo_xèo nếu rẩy nước lên ."
+        },
+        {
+            "id": "00615",
+            "eng": " A fire in the gallery caused the premature closing of the exhibition .",
+            "vie": " Vụ cháy ở phòng trưng_bày tranh đã gây ra việc kết_thúc sớm cuộc triển_lãm ."
+        },
+        {
+            "id": "00616",
+            "eng": " A fire was burning merrily in the grate .",
+            "vie": " Một ngọn lửa cháy lách_tách trong lò_sưởi ."
+        },
+        {
+            "id": "00617",
+            "eng": " A fireplace with a tiled surround .",
+            "vie": " Một lò_sưởi có đường_viền xung_quanh bằng gạch ."
+        },
+        {
+            "id": "00618",
+            "eng": " A firm known for its high - quality products .",
+            "vie": " Một hãng nổi_tiếng nhờ những sản_phẩm có chất_lượng cao ."
+        },
+        {
+            "id": "00619",
+            "eng": " A firm supporter of Catholic orthodoxies .",
+            "vie": " Một người kiên_quyết ủng_hộ giáo_lý Công_giáo chính_thống ."
+        },
+        {
+            "id": "00620",
+            "eng": " A firm which concentrates on the European market .",
+            "vie": " Một công_ty tập_trung vào thị_trường Châu_Âu ."
+        },
+        {
+            "id": "00621",
+            "eng": " A firm which trades in arms , textiles , grain .",
+            "vie": " Một hãng buôn_bán vũ_khí , hàng dệt , ngũ_cốc ."
+        },
+        {
+            "id": "00622",
+            "eng": " A firm with 500 employees on the payroll .",
+            "vie": " Một xí_nghiệp có 500 công_nhân_viên trên bảng lương ."
+        },
+        {
+            "id": "00623",
+            "eng": " A first - class letter should arrive the following day .",
+            "vie": " Thư gửi phát chuyển nhanh sẽ đến vào ngày hôm sau ."
+        },
+        {
+            "id": "00624",
+            "eng": " A first class skier with a lot of nerve .",
+            "vie": " Một người trượt tuyết loại cao_thủ đầy can_đảm ."
+        },
+        {
+            "id": "00625",
+            "eng": " A first stepping - stone on the path to success .",
+            "vie": " Chặng đầu_tiên trên con đường đến thành_công ."
+        },
+        {
+            "id": "00626",
+            "eng": " A fish bone has stuck in my throat .",
+            "vie": " Một miếng xương_cá mắc_kẹt trong họng tôi ."
+        },
+        {
+            "id": "00627",
+            "eng": " A fish tangled in the meshes of the net .",
+            "vie": " Một con cá bị vướng vào lưới ."
+        },
+        {
+            "id": "00628",
+            "eng": " A fish transfixed with a harpoon .",
+            "vie": " Một con cá bị cái chĩa đâm xuyên qua ."
+        },
+        {
+            "id": "00629",
+            "eng": " A fishing line entangled among the weeds .",
+            "vie": " Một dây câu bị mắc trong đám cỏ dại ."
+        },
+        {
+            "id": "00630",
+            "eng": " A fixed proportion of the fund is invested in British firms .",
+            "vie": " Một tỉ_lệ cố_định của ngân_quỹ được đầu_tư vào các xí_nghiệp Anh ."
+        },
+        {
+            "id": "00631",
+            "eng": " A flag fluttering from the mast - head .",
+            "vie": " Một lá cờ phấp_phới trên đỉnh cột ."
+        },
+        {
+            "id": "00632",
+            "eng": " A flag with a design of two crossed keys .",
+            "vie": " Một lá cờ có hai hình cái chìa_khoá chéo nhau ."
+        },
+        {
+            "id": "00633",
+            "eng": " A flaming torch was a very good weapon against an animal .",
+            "vie": " Đuốc là thứ vũ_khí lợi_hại chống lại thú_vật ."
+        },
+        {
+            "id": "00634",
+            "eng": " A flashy expensive car with all sorts of gimmicks like self - winding windows .",
+            "vie": " Một chiếc xe ôtô hào_nhoáng đắt_giá có những đồ thêm_thắt hấp_dẫn như cửa_kính tự quay ."
+        },
+        {
+            "id": "00635",
+            "eng": " A flat tyre today of all days - what bad luck !",
+            "vie": " Cái lốp xe nhè cái ngày này mà xẹp - Đen_đủi thật !"
+        },
+        {
+            "id": "00636",
+            "eng": " A flavour peculiar to food cooked on an open fire .",
+            "vie": " Một hương_vị đặc_trưng của thức_ăn nướng trực_tiếp trên ngọn lửa ."
+        },
+        {
+            "id": "00637",
+            "eng": " A flawless diamond is invisible under water .",
+            "vie": " Một viên kim_cương hoàn_hảo thì vô_hình khi ở dưới nước ."
+        },
+        {
+            "id": "00638",
+            "eng": " A flicker of interest soon turned into the burning flames of desire .",
+            "vie": " Một_chút thích_thú chẳng_mấy_chốc biến thành một nỗi khát_khao nồng_cháy ."
+        },
+        {
+            "id": "00639",
+            "eng": " A flourish of trumpets marked the Queen 's arrival .",
+            "vie": " Một hồi kèn hùng_tráng báo_hiệu Nữ_hoàng đến ."
+        },
+        {
+            "id": "00640",
+            "eng": " A flu epidemic raged through the school for weeks .",
+            "vie": " Một dịch cúm_lan rộng khắp trường trong nhiều tuần_lễ ."
+        },
+        {
+            "id": "00641",
+            "eng": " A flu virus that is not responsive to treatment .",
+            "vie": " Một vi_khuẩn bệnh cúm không phản_ứng gì với sự chữa_trị ."
+        },
+        {
+            "id": "00642",
+            "eng": " A fly - blown bar on the edge of town .",
+            "vie": " Một quán_rượu tồi_tàn ở ngoại_ô thị_xã ."
+        },
+        {
+            "id": "00643",
+            "eng": " A food processor that is the last word in kitchen equipment .",
+            "vie": " Máy xử_lý thức_ăn là dụng_cụ mới_mẻ nhất trong các thiết_bị của nhà_bếp ."
+        },
+        {
+            "id": "00644",
+            "eng": " A foolish consistency is the hobgoblin of the little minds .",
+            "vie": " Sự ngu_xuẩn trường_kỳ của những khối_óc nhỏ_bé là một điều đáng sợ ."
+        },
+        {
+            "id": "00645",
+            "eng": " A football match between the juniors and the seniors .",
+            "vie": " Một trận bóng_đá giữa học_sinh tiểu_học và trung_học ."
+        },
+        {
+            "id": "00646",
+            "eng": " A football pitch illuminated with floodlights .",
+            "vie": " Sân_bóng_đá được chiếu_sáng bằng đèn_pha ."
+        },
+        {
+            "id": "00647",
+            "eng": " A force , fact , person to be reckoned with .",
+            "vie": " Một lực_lượng , sự_kiện , con_người cần được coi_trọng ."
+        },
+        {
+            "id": "00648",
+            "eng": " A force of 300,000 already under arms .",
+            "vie": " 300.000 quân đã được trang_bị vũ_khí và sẵn_sàng chiến_đấu ."
+        },
+        {
+            "id": "00649",
+            "eng": " A force swelled by increments from allied armies .",
+            "vie": " Một lực_lượng tăng lên do được bổ_sung quân_nhân từ các đạo_quân đồng_minh ."
+        },
+        {
+            "id": "00650",
+            "eng": " A forehead furrowed by old age and anxiety .",
+            "vie": " Một vầng trán nhăn vì tuổi_tác và lo_âu ."
+        },
+        {
+            "id": "00651",
+            "eng": " A foreign policy that comports with the government regulations .",
+            "vie": " Một chính_sách đối_ngoại phù_hợp với các qui_định của chính_phủ ."
+        },
+        {
+            "id": "00652",
+            "eng": " A foretaste of the fierce conflict to come .",
+            "vie": " Một ấn_tượng sơ_khởi về cuộc xung_đột ác_liệt sắp diễn ra ."
+        },
+        {
+            "id": "00653",
+            "eng": " A forlorn child sitting on the street corner .",
+            "vie": " Một đứa trẻ cầu bơ cầu bất ngồi ở góc_phố ."
+        },
+        {
+            "id": "00654",
+            "eng": " A fortification that is invulnerable to attack .",
+            "vie": " Một pháo_đài không_thể bị tấn_công ."
+        },
+        {
+            "id": "00655",
+            "eng": " A fortnight 's stay with my uncle .",
+            "vie": " Một nửa tháng ở lại chơi với chú tôi ."
+        },
+        {
+            "id": "00656",
+            "eng": " A fountain of water gushed from the broken fire hydrant .",
+            "vie": " Một dòng nước phun lên từ vòi_nước cứu_hoả bị vỡ ."
+        },
+        {
+            "id": "00657",
+            "eng": " A fountain threw high its silvery water .",
+            "vie": " Một vòi_nước phun nước óng_ánh lên cao ."
+        },
+        {
+            "id": "00658",
+            "eng": " A four - cycle internal - combustion engine .",
+            "vie": " Động_cơ đốt trong bốn thì ."
+        },
+        {
+            "id": "00659",
+            "eng": " A four - square approach to the problem .",
+            "vie": " Một_cách giải_quyết vững_vàng cho vấn_đề đó ."
+        },
+        {
+            "id": "00660",
+            "eng": " A fox darted out of the midst of the thicket .",
+            "vie": " Một con cáo phóng ra từ giữa bụi rậm ."
+        },
+        {
+            "id": "00661",
+            "eng": " A fox with the hounds in hot pursuit .",
+            "vie": " Một con chồn bị lũ chó săn đuổi theo sát_nút ."
+        },
+        {
+            "id": "00662",
+            "eng": " A framework for the evaluation process .",
+            "vie": " Những nguyên_tắc cơ_bản về phương_pháp đánh_giá ."
+        },
+        {
+            "id": "00663",
+            "eng": " A frank discussion can help to clear the air .",
+            "vie": " Một cuộc bàn_cãi thẳng_thắn có_thể giúp đánh_tan mọi nghi_ngờ ."
+        },
+        {
+            "id": "00664",
+            "eng": " A free flow of water came from the pipe .",
+            "vie": " Một dòng nước từ ống tuôn ra tràn_lan ."
+        },
+        {
+            "id": "00665",
+            "eng": " A French adjective in the masculine .",
+            "vie": " Một tính từ tiếng Pháp ở giống đực ."
+        },
+        {
+            "id": "00666",
+            "eng": " A fresh approach to the difficulty .",
+            "vie": " Một phương_pháp mới để giải_quyết khó_khăn ."
+        },
+        {
+            "id": "00667",
+            "eng": " A fresh coat of paint can transform a room .",
+            "vie": " Một lớp_sơn mới có_thể làm biến_đổi hẳn bề_ngoài một căn phòng ."
+        },
+        {
+            "id": "00668",
+            "eng": " A fresh examination of the witness .",
+            "vie": " Một cuộc thẩm_vấn nhân_chứng mới_đây ."
+        },
+        {
+            "id": "00669",
+            "eng": " A fried egg and a couple of rashers of bacon for breakfast .",
+            "vie": " Một quả trứng rán và vài lát mỏng giăm - bông cho bữa ăn sáng ."
+        },
+        {
+            "id": "00670",
+            "eng": " A friend in need is a friend indeed .",
+            "vie": " Người bạn giúp mình trong lúc khó_khăn mới thực là bạn ."
+        },
+        {
+            "id": "00671",
+            "eng": " A friend of justice , peace , etc .",
+            "vie": " Một người ủng_hộ công_lý , hòa_bình , v . v ."
+        },
+        {
+            "id": "00672",
+            "eng": " A friend who knew about Darwin ' s interested in nature invited him take the trip on the Beagle .",
+            "vie": " Một người bạn biết sự quan_tâm của Darwin về thiên_nhiên đã mời ông du_hành trên con tàu Beagle ."
+        },
+        {
+            "id": "00673",
+            "eng": " A frothy mixture of eggs and milk .",
+            "vie": " Hỗn_hợp trứng sữa đánh cho nổi lên ."
+        },
+        {
+            "id": "00674",
+            "eng": " A frozen chicken should be allowed to defrost completely before cooking .",
+            "vie": " Gà đông_lạnh phải để cho tan hết đá rồi mới nấu ."
+        },
+        {
+            "id": "00675",
+            "eng": " A fruit stall in the market .",
+            "vie": " Một quầy bán trái_cây trong chợ ."
+        },
+        {
+            "id": "00676",
+            "eng": " A fruity quality is common to all wine made from this grape .",
+            "vie": " Cùng một chất_lượng trái_cây chung cho tất_cả rượu làm từ loại nho này ."
+        },
+        {
+            "id": "00677",
+            "eng": " A full - blooded and passionate person .",
+            "vie": " Một người nhiệt_tình và hăng_say ."
+        },
+        {
+            "id": "00678",
+            "eng": " A full - scale nuclear war could lead to the annihilation of the human race .",
+            "vie": " Cuộc chiến_tranh hạt_nhân trên quy_mô toàn_diện có_thể dẫn đến việc hủy_hoại hoàn_toàn loài_người ."
+        },
+        {
+            "id": "00679",
+            "eng": " A full - scale reorganization of the department .",
+            "vie": " Sự chỉnh_đốn lại toàn_bộ tổ_chức của cơ_quan , phòng ban ."
+        },
+        {
+            "id": "00680",
+            "eng": " A fully - loaded tanker with its hull low in the water .",
+            "vie": " Một chiếc tàu chở đầy dầu với thân tàu chìm sâu dưới nước ."
+        },
+        {
+            "id": "00681",
+            "eng": " A fundamental trade off between capitalist prosperity and economic security .",
+            "vie": " Một sự dung_hòa căn_bản giữa nền thịnh_vượng tư_bản và sự an_toàn kinh_tế ."
+        },
+        {
+            "id": "00682",
+            "eng": " A funeral is a melancholy occasion .",
+            "vie": " Một đám_tang là một nghi_lễ sầu_thảm ."
+        },
+        {
+            "id": "00683",
+            "eng": " A funny thing happened to me today .",
+            "vie": " Một chuyện kỳ_quặc đã xảy ra với tôi hôm_nay ."
+        },
+        {
+            "id": "00684",
+            "eng": " A fur coat draped round her shoulders .",
+            "vie": " Một chiếc áo_khoác lông thú choàng quanh vai cô ta ."
+        },
+        {
+            "id": "00685",
+            "eng": " A further complication was Fred ' s refusal to travel by air .",
+            "vie": " Một việc rắc_rối nữa là Fred không chịu đi bằng máy_bay ."
+        },
+        {
+            "id": "00686",
+            "eng": " A further revaluation of the Yen .",
+            "vie": " Một vụ tăng_giá đồng_Yên thêm nữa ."
+        },
+        {
+            "id": "00687",
+            "eng": " A fuzzy recollection of past events .",
+            "vie": " Sự nhớ lại lờ_mờ các biến_cố đã qua ."
+        },
+        {
+            "id": "00688",
+            "eng": " A gaggle of photographers huddled on the sidewalk beside a swelling crowd of onlookers .",
+            "vie": " Một nhóm nhiếp_ảnh viên tụ_tập trên vỉa_hè bên cạnh một đám đông người xem tăng dần ."
+        },
+        {
+            "id": "00689",
+            "eng": " A gallery stored with fine paintings .",
+            "vie": " Một phòng trưng_bày nghệ_thuật chứa đầy những bức tranh đẹp ."
+        },
+        {
+            "id": "00690",
+            "eng": " A gamy little mare that loved to run .",
+            "vie": " Một con ngựa cái nhỏ lì_lợm cứ thích chạy ."
+        },
+        {
+            "id": "00691",
+            "eng": " A gang of criminals counterfeiting ten - pound notes .",
+            "vie": " Một băng tội_phạm làm giả giấy_bạc mười bảng Anh ."
+        },
+        {
+            "id": "00692",
+            "eng": " A gangster protected by his heavies .",
+            "vie": " Một tên găngx - tơ được những tay vệ_sĩ to_lớn của hắn bảo_vệ ."
+        },
+        {
+            "id": "00693",
+            "eng": " A garage is useful but dispensable .",
+            "vie": " Ga - ra xe thì hữu_ích nhưng không thiết_yếu lắm ."
+        },
+        {
+            "id": "00694",
+            "eng": " A gauze patch applied to his wound .",
+            "vie": " Một miếng gạc đắp lên vết_thương của anh ta ."
+        },
+        {
+            "id": "00695",
+            "eng": " A general principle to which there may be several exceptions .",
+            "vie": " Một nguyên_tắc thông_thường có_thể có một_vài ngoại_lệ ."
+        },
+        {
+            "id": "00696",
+            "eng": " A generous miser is a contradiction in terms .",
+            "vie": " Một kẻ hà_tiện hào_hiệp là lời mâu_thuẫn ."
+        },
+        {
+            "id": "00697",
+            "eng": " A generous portion of roast duck .",
+            "vie": " Một khẩu_phần vịt quay hậu_hĩ ."
+        },
+        {
+            "id": "00698",
+            "eng": " A generous scholarship that lets recipients write their own ticket .",
+            "vie": " Một học_bổng dồi_dào để cho những người thụ_hưởng được tự_do hành_động ."
+        },
+        {
+            "id": "00699",
+            "eng": " A genitor who does not parent the child is not its parent .",
+            "vie": " Người cha , mẹ không nuôi_dưỡng đứa trẻ đó thì không phải là cha , mẹ nó ."
+        },
+        {
+            "id": "00700",
+            "eng": " A gentle , quiet and unassuming manner .",
+            "vie": " Một phong_cách nhã_nhặn , trầm_tĩnh và khiêm_tốn ."
+        },
+        {
+            "id": "00701",
+            "eng": " A gentle breeze stirred the leaves .",
+            "vie": " Một làn gió nhẹ làm rung_rinh những chiếc lá ."
+        },
+        {
+            "id": "00702",
+            "eng": " A gentle man with a rough exterior .",
+            "vie": " Một người hiền_lành có_vẻ_ngoài cộc_cằn ."
+        },
+        {
+            "id": "00703",
+            "eng": " A geocentric view of the universe .",
+            "vie": " Quan_điểm xem trái_đất là trung_tâm vũ_trụ ."
+        },
+        {
+            "id": "00704",
+            "eng": " A German film dubbed into English .",
+            "vie": " Một bộ phim Đức lồng_tiếng Anh ."
+        },
+        {
+            "id": "00705",
+            "eng": " A ghostly voice whispering in somebody 's ear .",
+            "vie": " Giọng nói như ma_quỷ thì_thầm bên tai của ai ."
+        },
+        {
+            "id": "00706",
+            "eng": " A giant - sized packet of detergent .",
+            "vie": " Một hộp bột_giặt cỡ lớn ."
+        },
+        {
+            "id": "00707",
+            "eng": " A giddy girl , who will never settle down to anything serious .",
+            "vie": " Một cô gái cợt_nhả thì không bao_giờ làm được việc gì cho nghiêm_túc ."
+        },
+        {
+            "id": "00708",
+            "eng": " A gift for saying the wrong thing .",
+            "vie": " Có_tài nói_chuyện tầm_bậy ."
+        },
+        {
+            "id": "00709",
+            "eng": " A gigantic person , with a gigantic appetite .",
+            "vie": " Một người to_lớn , với miệng thèm ăn kinh_khủng ."
+        },
+        {
+            "id": "00710",
+            "eng": " A gipsy dance played on the violin .",
+            "vie": " Một điệu nhạc khiêu_vũ của dân di - gan chơi bằng vĩ_cầm ."
+        },
+        {
+            "id": "00711",
+            "eng": " A girdle of greenfields round a town .",
+            "vie": " Vành_đai xung_quanh thành_phố ."
+        },
+        {
+            "id": "00712",
+            "eng": " A girl in her teens or early twenties .",
+            "vie": " Một thiếu_nữ đang độ xuân thì , tuổi hai mươi ."
+        },
+        {
+            "id": "00713",
+            "eng": " A girl standing at the mouth of the cave beckoned him in .",
+            "vie": " Cô gái đứng ở miệng hang ra_hiệu cho anh ta vào ."
+        },
+        {
+            "id": "00714",
+            "eng": " A girl sticking her tongue out at her brother .",
+            "vie": " Một cô bé thè lưỡi ra với anh mình ."
+        },
+        {
+            "id": "00715",
+            "eng": " A girl with lots of glamour .",
+            "vie": " Một thiếu_nữ có nhiều nét đẹp hấp_dẫn ."
+        },
+        {
+            "id": "00716",
+            "eng": " A glade that was transfused with sunlight .",
+            "vie": " Một khoảng trống trong rừng có ánh_sáng mặt_trời xuyên qua ."
+        },
+        {
+            "id": "00717",
+            "eng": " A glance in the mirror reassured him that his tie wasn ' t crooked .",
+            "vie": " Một cái liếc vào gương làm anh ta yên_tâm là chiếc cà_vạt của mình không bị lệch ."
+        },
+        {
+            "id": "00718",
+            "eng": " A glass of water would be nice , thank you .",
+            "vie": " Một ly nước là được rồi , cám_ơn ."
+        },
+        {
+            "id": "00719",
+            "eng": " A glass of wine would go down very nicely .",
+            "vie": " Có một cốc rượu mà uống thì hết_ý ."
+        },
+        {
+            "id": "00720",
+            "eng": " A glaze is a substance that hardens into a thin layer of glass .",
+            "vie": " Chất_men tráng là chất có khả_năng cứng lại thành một lớp thủy_tinh mỏng ."
+        },
+        {
+            "id": "00721",
+            "eng": " A gleam of hope in an apparently hopeless situation .",
+            "vie": " Một tia hi_vọng loé lên trong một tình_cảnh dường_như tuyệt_vọng ."
+        },
+        {
+            "id": "00722",
+            "eng": " A glimmer of light through the mist .",
+            "vie": " Tia_sáng le_lói xuyên màn sương ."
+        },
+        {
+            "id": "00723",
+            "eng": " A glittering career had been predicted for her in the Civil Service .",
+            "vie": " Người_ta đã đoán trước nàng sẽ rất thành_công trong ngành Dân_Chính ."
+        },
+        {
+            "id": "00724",
+            "eng": " A glittering occasion attended by the whole of high - society .",
+            "vie": " Một dịp hấp_dẫn được toàn_thể giới thượng_lưu tham_dự ."
+        },
+        {
+            "id": "00725",
+            "eng": " A gloomy , overcast expression on his face .",
+            "vie": " Một vẻ u_buồn , ủ_rũ trên gương_mặt của anh ta ."
+        },
+        {
+            "id": "00726",
+            "eng": " A glorious page of English history .",
+            "vie": " Trang sử vẻ_vang của nước Anh ."
+        },
+        {
+            "id": "00727",
+            "eng": " A glut of fruit , of American films , of talent .",
+            "vie": " Tình_trạng dư_thừa trái_cây , phim Mỹ , tài_năng ."
+        },
+        {
+            "id": "00728",
+            "eng": " A gold crown encrusted with diamonds .",
+            "vie": " Một vương_miện bằng vàng nạm kim_cương ."
+        },
+        {
+            "id": "00729",
+            "eng": " A gold medal that was against all expectations .",
+            "vie": " Một huy_chương vàng hoàn_toàn ngoài sự mong_đợi ."
+        },
+        {
+            "id": "00730",
+            "eng": " A gonzo version of Graham Greene .",
+            "vie": " Một lối tường_thuật kỳ_quặc của Graham_Greene ."
+        },
+        {
+            "id": "00731",
+            "eng": " A good actor must learn the art of timing .",
+            "vie": " Một diễn_viên giỏi phải biết nghệ_thuật nói lời thoại cho đúng lúc ."
+        },
+        {
+            "id": "00732",
+            "eng": " A good ballet dancer must begin to learn dancing when he is very young .",
+            "vie": " Một diễn_viên múa ba - lê tài_năng phải bắt_đầu tập múa khi con rất trẻ ."
+        },
+        {
+            "id": "00733",
+            "eng": " A good case in point is the site of the Herald of Spring Pavilion on the bank of Kunming lake in the Summer Palace .",
+            "vie": " Một ví_dụ rõ_ràng về điểm này là vị_trí của Sảnh_Đường Sứ_giả Mùa_Xuân trên bờ hồ Côn_Minh ở Cung_Điện Mùa_Hè ."
+        },
+        {
+            "id": "00734",
+            "eng": " A good clean will really freshen up the house .",
+            "vie": " Lau_chùi sạch_sẽ làm cho căn nhà sáng_sủa lên ."
+        },
+        {
+            "id": "00735",
+            "eng": " A good cyclist can cover distances of over a hundred miles a day .",
+            "vie": " Một người đi xe_đạp cừ_khôi có_thể vượt qua một quãng đường hơn trăm dặm một ngày ."
+        },
+        {
+            "id": "00736",
+            "eng": " A good deal of rethinking is needed on this question .",
+            "vie": " Cần phải xem_xét lại kỹ vấn_đề này ."
+        },
+        {
+            "id": "00737",
+            "eng": " A good deal of work is still outstanding .",
+            "vie": " Một_số lớn công_việc vẫn chưa được giải_quyết xong ."
+        },
+        {
+            "id": "00738",
+            "eng": " A good dictionary is indispensable for learning a foreign language .",
+            "vie": " Một cuốn từ_điển tốt là rất cần_thiết cho việc học một ngoại_ngữ ."
+        },
+        {
+            "id": "00739",
+            "eng": " A good diet conduces to good health .",
+            "vie": " Một chế_độ ăn_uống thích_hợp mang lại sức_khoẻ tốt ."
+        },
+        {
+            "id": "00740",
+            "eng": " A good education can be the gateway to success .",
+            "vie": " Học_vấn cao có_thể là con đường dẫn đến thành_công ."
+        },
+        {
+            "id": "00741",
+            "eng": " A good education should equip you for life .",
+            "vie": " Một nền giáo_dục tốt có_thể trang_bị cho bạn suốt đời ."
+        },
+        {
+            "id": "00742",
+            "eng": " A good education should not be the monopoly of the rich .",
+            "vie": " Một nền giáo_dục tốt không nên là độc_quyền của giới nhà giàu ."
+        },
+        {
+            "id": "00743",
+            "eng": " A good fire was blazing in the grate .",
+            "vie": " Một đống lửa đang cháy bừng_bừng trong lò ."
+        },
+        {
+            "id": "00744",
+            "eng": " A good general can anticipate what the enemy will do .",
+            "vie": " Một vị tướng tài_ba có_thể tính được đường đi nước bước của quân_địch ."
+        },
+        {
+            "id": "00745",
+            "eng": " A good hostess is always attentive to the needs of her guests .",
+            "vie": " Một bà chủ khéo_léo luôn để_ý tới những nhu_cầu của khách_khứa ."
+        },
+        {
+            "id": "00746",
+            "eng": " A good judge of art , wine , character .",
+            "vie": " Một người sành_sỏi về nghệ_thuật , rượu , cá_tính ."
+        },
+        {
+            "id": "00747",
+            "eng": " A good lawyer can always find a loophole .",
+            "vie": " Một luật_sư giỏi có_thể luôn tìm ra được một_cách né_tránh pháp_luật ."
+        },
+        {
+            "id": "00748",
+            "eng": " A good lawyer might be able to get you off .",
+            "vie": " Một luật_sư giỏi có_thể giúp anh thoát khỏi bản_án ."
+        },
+        {
+            "id": "00749",
+            "eng": " A good looking but insipid young man .",
+            "vie": " Một thanh_niên trông đẹp_trai nhưng vô_duyên ."
+        },
+        {
+            "id": "00750",
+            "eng": " A good marriage is based on trust .",
+            "vie": " Một cuộc hôn_nhân tốt_đẹp dựa vào lòng tin_cậy ."
+        },
+        {
+            "id": "00751",
+            "eng": " A good meal should never be hurried .",
+            "vie": " Một bữa cơm ngon thì đừng bao_giờ nên ăn vội_vàng ."
+        },
+        {
+            "id": "00752",
+            "eng": " A good organizer pays attention to detail .",
+            "vie": " Một tay tổ_chức giỏi chú_tâm tới chi_tiết ."
+        },
+        {
+            "id": "00753",
+            "eng": " A good recording of the opera on video .",
+            "vie": " Một băng thu_hình rõ về nhạc_kịch ."
+        },
+        {
+            "id": "00754",
+            "eng": " A good road between London and Brighton .",
+            "vie": " Con đường tốt từ London đến Brighton ."
+        },
+        {
+            "id": "00755",
+            "eng": " A good salesman must be aggressive if he wants to succeed .",
+            "vie": " Một người chào_hàng giỏi phải mạnh_dạn , xông_xáo nếu muốn thành_công ."
+        },
+        {
+            "id": "00756",
+            "eng": " A good system of teaching languages .",
+            "vie": " Một phương_pháp dạy ngôn_ngữ tốt ."
+        },
+        {
+            "id": "00757",
+            "eng": " A good teacher must be able to hold her pupils ' attention .",
+            "vie": " Một giáo_viên giỏi phải có khả_năng lôi_cuốn sự chú_ý của học_trò ."
+        },
+        {
+            "id": "00758",
+            "eng": " A good tool - box is a handy thing to have in the house .",
+            "vie": " Một hộp đồ_nghề tốt là vật hữu_ích cần có trong nhà ."
+        },
+        {
+            "id": "00759",
+            "eng": " A good weep would probably make you feel better .",
+            "vie": " Cứ khóc cho thỏa đi có_lẽ bạn sẽ cảm_thấy dễ_chịu hơn ."
+        },
+        {
+            "id": "00760",
+            "eng": " A good wine can make a meal .",
+            "vie": " Rượu ngon có_thể làm cho bữa ăn ngon_miệng ."
+        },
+        {
+            "id": "00761",
+            "eng": " A goods train passed .",
+            "vie": " Một chiếc tàu chở hàng chạy qua ."
+        },
+        {
+            "id": "00762",
+            "eng": " A gossip column put together with a few gleanings from cocktail - party conversations .",
+            "vie": " Mục tin_vặt gần_xa trên báo được viết với những mẫu tin lượm_lặt từ các cuộc nói_chuyện trong tiệc_rượu ."
+        },
+        {
+            "id": "00763",
+            "eng": " A government - sponsored cheap textbooks scheme .",
+            "vie": " Một kế_hoạch in sách_giáo_khoa rẻ được nhà_nước bảo_trợ ."
+        },
+        {
+            "id": "00764",
+            "eng": " A government adviser dethroned by a young expert .",
+            "vie": " Một vị cố_vấn của chính_phủ đã bị một chuyên_gia trẻ hơn hạ_bệ ."
+        },
+        {
+            "id": "00765",
+            "eng": " A government body is investigating the problem .",
+            "vie": " Một đoàn chính_phủ đang điều_tra vấn_đề này ."
+        },
+        {
+            "id": "00766",
+            "eng": " A government department run by little grey men .",
+            "vie": " Một bộ trong chính_phủ do những người vô_danh tiểu_tốt , điều_hành ."
+        },
+        {
+            "id": "00767",
+            "eng": " A government minister commands the services of many officials .",
+            "vie": " Một bộ_trưởng có sẵn sự phục_vụ của nhiều viên_chức ."
+        },
+        {
+            "id": "00768",
+            "eng": " A government plan slashed by the press .",
+            "vie": " Một kế_hoạch của chính_phủ bị báo_chí đả_kích gay_gắt ."
+        },
+        {
+            "id": "00769",
+            "eng": " A government promise to slash taxes .",
+            "vie": " Lời hứa của chính_phủ cắt_giảm mạnh các loại thuế ."
+        },
+        {
+            "id": "00770",
+            "eng": " A government 's stop - go economic policy .",
+            "vie": " Một chính_sách kinh_tế lúc hạn_chế lúc thả_lỏng của chính_phủ ."
+        },
+        {
+            "id": "00771",
+            "eng": " A government should permit the free expression of political opinion .",
+            "vie": " Chính_phủ nên cho_phép tự_do phát_biểu ý_kiến chính_trị ."
+        },
+        {
+            "id": "00772",
+            "eng": " A government that routinized mass murder while carrying out its militaristic policies .",
+            "vie": " Một chính_phủ trong khi thi_hành các chính_sách quân_phiệt đã khiến cho việc giết người hàng_loạt phải trở_thành chuyện thường_xuyên ."
+        },
+        {
+            "id": "00773",
+            "eng": " A government which improves conditions for the many .",
+            "vie": " Một chính_phủ cải_thiện điều_kiện sống của quần_chúng ."
+        },
+        {
+            "id": "00774",
+            "eng": " A government which refuses to tolerate opposition .",
+            "vie": " Một chính_phủ không cho_phép sự đối_lập ."
+        },
+        {
+            "id": "00775",
+            "eng": " A governmental policy lacking relevance .",
+            "vie": " Một chính_sách của chính_phủ không phù_hợp với các vấn_đề xã_hội ."
+        },
+        {
+            "id": "00776",
+            "eng": " A governor who impounded monies designated for the use of cities and towns .",
+            "vie": " Một thống_đốc đã tạm giữ lại những món tiền được dành cho các thành_phố và thị_trấn sử_dụng ."
+        },
+        {
+            "id": "00777",
+            "eng": " A graceful stroke with the bat .",
+            "vie": " Một cú đập bóng ngoạn_mục ."
+        },
+        {
+            "id": "00778",
+            "eng": " A gradual shift of people from the country to the town .",
+            "vie": " Sự di_chuyển dần của dân từ nông_thôn ra thành_thị ."
+        },
+        {
+            "id": "00779",
+            "eng": " A grand master of foreign diplomacy .",
+            "vie": " Một nhà lão_luyện về tài ngoại_giao ."
+        },
+        {
+            "id": "00780",
+            "eng": " A great book collector who lived 500 years ago boasted that every book he had was written with the pen .",
+            "vie": " Một người sưu_tầm sách vĩ_đại sống cách đây 500 năm lấy làm kiêu_hãnh vì tất_cả sách của ông đều được viết bằng tay ."
+        },
+        {
+            "id": "00781",
+            "eng": " A great brute of a man attacked her .",
+            "vie": " Tên cụ súc vũ_phu đã đánh cô ấy ."
+        },
+        {
+            "id": "00782",
+            "eng": " A great crowded had turned up .",
+            "vie": " Một đám rất đông người đã đến ."
+        },
+        {
+            "id": "00783",
+            "eng": " A great deal hangs on this decision .",
+            "vie": " Rất nhiều chuyện phụ_thuộc vào quyết_định này ."
+        },
+        {
+            "id": "00784",
+            "eng": " A great deal of money is due to you .",
+            "vie": " Anh được hưởng rất nhiều tiền ."
+        },
+        {
+            "id": "00785",
+            "eng": " A great deal of money is due you .",
+            "vie": " Cậu còn nợ một khoản tiền lớn ."
+        },
+        {
+            "id": "00786",
+            "eng": " A great flash of lightning lit the night sky .",
+            "vie": " Một tia chớp mạnh lóe lên làm sáng bầu_trời ban_đêm ."
+        },
+        {
+            "id": "00787",
+            "eng": " A great mass of water overwhelmed the village .",
+            "vie": " Một khối nước_lớn đã làm ngập làng ."
+        },
+        {
+            "id": "00788",
+            "eng": " A great sense of relief flooded over him .",
+            "vie": " Một cảm_giác vô_cùng nhẹ_nhõm tràn_ngập tâm_hồn anh ta ."
+        },
+        {
+            "id": "00789",
+            "eng": " A great weariness settled over him when he considered what must be done .",
+            "vie": " Khi tính tới việc sẽ phải làm , cậu ấy thấy chắc phải mệt lắm ."
+        },
+        {
+            "id": "00790",
+            "eng": " A greedy smack of the slips as he cut into the steak .",
+            "vie": " Tiếng chép môi háu ăn khi hắn cắt miếng bít tết ."
+        },
+        {
+            "id": "00791",
+            "eng": " A grim little tale of torture and murder .",
+            "vie": " Một câu_chuyện kinh_khủng về tra_tấn và giết người ."
+        },
+        {
+            "id": "00792",
+            "eng": " A gripping narrative about the war .",
+            "vie": " Một bản tường_thuật hấp_dẫn về chiến_tranh ."
+        },
+        {
+            "id": "00793",
+            "eng": " A gross misrepresentation of the facts .",
+            "vie": " Một sự miêu_tả những sự_kiện sai một_cách trắng_trợn ."
+        },
+        {
+            "id": "00794",
+            "eng": " A grotesque distortion of the truth .",
+            "vie": " Sự xuyên_tạc lố_bịch sự_thật ."
+        },
+        {
+            "id": "00795",
+            "eng": " A grotty little man living in a grotty little room in a grotty part of town .",
+            "vie": " Một người đàn_ông bé_nhỏ khốn_khổ sống trong một căn phòng nhỏ tồi_tàn tại một khu ổ_chuột của thành_phố ."
+        },
+        {
+            "id": "00796",
+            "eng": " A group of boys were playing football in the street .",
+            "vie": " Đám thiếu_niên đang đá bóng ngoài đường_phố ."
+        },
+        {
+            "id": "00797",
+            "eng": " A group of men gathered outside the pub .",
+            "vie": " Một nhóm người tụ_tập bên ngoài quán_rượu ."
+        },
+        {
+            "id": "00798",
+            "eng": " A group of my friends are getting together to have some drinks and listen to some music .",
+            "vie": " Một nhóm bạn của tôi sẽ họp_mặt nhau để uống rượu và nghe nhạc ."
+        },
+        {
+            "id": "00799",
+            "eng": " A group of protesters gathered outside the firm 's office .",
+            "vie": " Một nhóm người phản_đối đã tụ_tập bên ngoài văn_phòng hãng ."
+        },
+        {
+            "id": "00800",
+            "eng": " A group of stars is called a constellation .",
+            "vie": " Một nhóm sao được gọi_là một chòm_sao ."
+        },
+        {
+            "id": "00801",
+            "eng": " A group of us are going up to London for the day .",
+            "vie": " Một nhóm trong chúng_tôi sẽ đến Luân_Đôn dự ngày_lễ đó ."
+        },
+        {
+            "id": "00802",
+            "eng": " A group of writers who confected a television series .",
+            "vie": " Một nhóm nhà_văn đã phối_hợp tạo ra một loạt chương_trình tivi ."
+        },
+        {
+            "id": "00803",
+            "eng": " A group that ramroded the bill through congress .",
+            "vie": " Một nhóm đã ép Quốc_hội thông_qua dự_luật đó ."
+        },
+        {
+            "id": "00804",
+            "eng": " A growing child needs plenty of sleep .",
+            "vie": " Một đứa trẻ đang lớn cần được ngủ nhiều ."
+        },
+        {
+            "id": "00805",
+            "eng": " A growing rift between the two factions .",
+            "vie": " Một mối bất_hòa gia_tăng giữa hai phái ."
+        },
+        {
+            "id": "00806",
+            "eng": " A growing trend towards smaller families .",
+            "vie": " Một khuynh_hướng ngày_càng tăng nghiêng về những gia_đình có ít con hơn ."
+        },
+        {
+            "id": "00807",
+            "eng": " A grown - up attitude toward work .",
+            "vie": " Một thái_độ người_lớn đối_với công_việc ."
+        },
+        {
+            "id": "00808",
+            "eng": " A gubernatorial candidate whose popularity haemorrhaged after a disastrous debate .",
+            "vie": " Một ứng_cử_viên thống_đốc tiểu_bang bị mất lòng dân nhanh_chóng sau một cuộc tranh_luận tai_hại ."
+        },
+        {
+            "id": "00809",
+            "eng": " A guerrilla hide - out in the mountains .",
+            "vie": " Một chỗ ẩn_núp của quân du_kích trong núi ."
+        },
+        {
+            "id": "00810",
+            "eng": " A guess that 's just not in the right ballpark .",
+            "vie": " Một sự dự_đoán hoàn_toàn không chính_xác ."
+        },
+        {
+            "id": "00811",
+            "eng": " A guest asks for his room to be cleaned .",
+            "vie": " Một khách trọ yêu_cầu dọn_dẹp phòng của ông ấy ."
+        },
+        {
+            "id": "00812",
+            "eng": " A guest asks for something which is unavailable .",
+            "vie": " Một vị khách yêu_cầu thứ không có sẵn ở quán_rượu ."
+        },
+        {
+            "id": "00813",
+            "eng": " A guest asks for the bill .",
+            "vie": " Một vị khách yêu_cầu hóa_đơn thanh_toán ."
+        },
+        {
+            "id": "00814",
+            "eng": " A guest burnt a hole in the bed sheet with a cigarette .",
+            "vie": " Một khách trọ đã hút thuốc làm cháy thủng một lỗ trên tấm trải giường ."
+        },
+        {
+            "id": "00815",
+            "eng": " A guest enters an Indian restaurant .",
+            "vie": " Một người khách đi vào một nhà_hàng Ấn_Độ ."
+        },
+        {
+            "id": "00816",
+            "eng": " A guest enters the bar and a barman comes up to him .",
+            "vie": " Một người khách đi vào quán_rượu , một nhân_viên quán_rượu tiến đến chỗ ông ấy ."
+        },
+        {
+            "id": "00817",
+            "eng": " A guest feels a little hungry and he asks for something to eat .",
+            "vie": " Một vị khách cảm_thấy hơi đói nên ông ấy muốn ăn chút gì đó ."
+        },
+        {
+            "id": "00818",
+            "eng": " A guest has been given the wrong drink .",
+            "vie": " Một vị khách bị đưa nhầm rượu ."
+        },
+        {
+            "id": "00819",
+            "eng": " A guest has come down with the flu .",
+            "vie": " Một khách trọ bị bệnh cúm ."
+        },
+        {
+            "id": "00820",
+            "eng": " A guest has come to see Mr . Brown from the United States .",
+            "vie": " Một người khách đến thăm ông Brown đến từ Mỹ ."
+        },
+        {
+            "id": "00821",
+            "eng": " A guest is asking to arrange a welcome banquet .",
+            "vie": " Một người khách yêu_cầu thu_xếp một bữa tiệc chào_mừng ."
+        },
+        {
+            "id": "00822",
+            "eng": " A guest is calling Lido Holiday Inn for booking a table .",
+            "vie": " Một người khách đang gọi điện cho quán ăn Lệ_Đô để đặt bàn ."
+        },
+        {
+            "id": "00823",
+            "eng": " A guest likes to drink tea .",
+            "vie": " Một vị khách thích uống trà ."
+        },
+        {
+            "id": "00824",
+            "eng": " A guest pays by credit card .",
+            "vie": " Một vị khách thanh_toán bằng thẻ tín_dụng ."
+        },
+        {
+            "id": "00825",
+            "eng": " A guest pays with a personal cheque .",
+            "vie": " Một vị khách thanh_toán bằng chi_phiếu cá_nhân ."
+        },
+        {
+            "id": "00826",
+            "eng": " A guest slipped in some water in the bathroom .",
+            "vie": " Một khách trọ đã trượt chân ngã trên nước trong phòng tắm ."
+        },
+        {
+            "id": "00827",
+            "eng": " A guest wants to borrow a transformer .",
+            "vie": " Một người khách trọ muốn mượn cái biến_thế ."
+        },
+        {
+            "id": "00828",
+            "eng": " A guest wants to have her jacket and a silk blouse cleaned .",
+            "vie": " Một khách trọ muốn nhờ giặt cái áo_vét và cái áo kiểu bằng lụa của bà ấy ."
+        },
+        {
+            "id": "00829",
+            "eng": " A guest wants to have his shoes shined .",
+            "vie": " Một khách trọ muốn đi đánh bóng giày ."
+        },
+        {
+            "id": "00830",
+            "eng": " A guest wishes to pay in cash .",
+            "vie": " Một vị khách muốn trả bằng tiền_mặt ."
+        },
+        {
+            "id": "00831",
+            "eng": " A guest would like some coffee .",
+            "vie": " Một vị khách muốn uống một_chút cà_phê ."
+        },
+        {
+            "id": "00832",
+            "eng": " A guide conducted the visitors round the museum .",
+            "vie": " Hướng_dẫn_viên đưa khách đi tham_quan khắp viện bào tàng ."
+        },
+        {
+            "id": "00833",
+            "eng": " A guide shepherded the tourists into the coach .",
+            "vie": " Một hướng_dẫn_viên đưa khách du_lịch lên xe_ca ."
+        },
+        {
+            "id": "00834",
+            "eng": " A guidebook compiled from a variety of sources .",
+            "vie": " Một cuốn sách hướng_dẫn được biên_soạn từ nhiều nguồn khác nhau ."
+        },
+        {
+            "id": "00835",
+            "eng": " A gun with a good field for fire .",
+            "vie": " Khẩu súng có tầm bắn hiệu_quả ."
+        },
+        {
+            "id": "00836",
+            "eng": " A gust of wind blew the door shut .",
+            "vie": " Một luồng gió mạnh thổi cánh cửa ra vào đóng sầm lại ."
+        },
+        {
+            "id": "00837",
+            "eng": " A gymnast on the trampoline was turning somersaults .",
+            "vie": " Một vận_động_viên thể_dục đang nhào_lộn trên khung vải nhún ."
+        },
+        {
+            "id": "00838",
+            "eng": " A habit that grows on you if you are not careful .",
+            "vie": " Một thói_quen ăn sâu vào cậu nếu cậu không thận_trọng ."
+        },
+        {
+            "id": "00839",
+            "eng": " A habitué of the Café Royal .",
+            "vie": " Một khách quen của tiệm cà_phê Royal ."
+        },
+        {
+            "id": "00840",
+            "eng": " A haemophiliac 's blood will not clot properly .",
+            "vie": " Máu của người có hội_chứng xuất_huyết không đông lại bình_thường ."
+        },
+        {
+            "id": "00841",
+            "eng": " A hairbrush with a tortoiseshell back .",
+            "vie": " Một cái bàn_chải tóc có gáy bằng đồi_mồi ."
+        },
+        {
+            "id": "00842",
+            "eng": " A half of bitter , please .",
+            "vie": " Cho nữa pint bia đắng ."
+        },
+        {
+            "id": "00843",
+            "eng": " A halfcocked plan to buy out the company .",
+            "vie": " Một kế_hoạch nửa_vời về việc mua đứt công_ty đó ."
+        },
+        {
+            "id": "00844",
+            "eng": " A halfhearted attempt at writing a novel .",
+            "vie": " Một nỗ_lực thiếu hứng_khởi để viết một cuốn tiểu_thuyết ."
+        },
+        {
+            "id": "00845",
+            "eng": " A hall with a seating capacity of 500 .",
+            "vie": " Một hội_trường chứa được 500 chỗ ngồi ."
+        },
+        {
+            "id": "00846",
+            "eng": " A ham sandwich and a glass of orange juice .",
+            "vie": " Một phần bánh săn - uýt kẹp giăm_bông và một ly nước_cam ."
+        },
+        {
+            "id": "00847",
+            "eng": " A hamburger and French fries , please .",
+            "vie": " Xin cho một hăm - bơ - gơ và khoai_tây chiên ."
+        },
+        {
+            "id": "00848",
+            "eng": " A hammer is used for driving in nails .",
+            "vie": " Búa được dùng để đóng_đinh ."
+        },
+        {
+            "id": "00849",
+            "eng": " A handle had been wired on to the box .",
+            "vie": " Một tay cầm đã được buộc vào cái hộp ."
+        },
+        {
+            "id": "00850",
+            "eng": " A handoff of the aircraft from one control tower to another .",
+            "vie": " Một cuộc chuyển_giao việc theo_dõi chiếc máy_bay từ đài kiểm_soát này qua đài khác ."
+        },
+        {
+            "id": "00851",
+            "eng": " A handsome location for the new school .",
+            "vie": " Một địa_điểm thích_hợp cho trường_học mới ."
+        },
+        {
+            "id": "00852",
+            "eng": " A handsome man with a strong square jaw .",
+            "vie": " Một người đàn_ông bảnh_trai có hàm vuông rắn_rỏi ."
+        },
+        {
+            "id": "00853",
+            "eng": " A happy union , blessed with six children .",
+            "vie": " Một cuộc hôn_nhân hạnh_phúc , trời cho sáu đứa con ."
+        },
+        {
+            "id": "00854",
+            "eng": " A harbour blockaded by the enemy ships .",
+            "vie": " Một hải_cảng bị các tàu địch phong_tỏa ."
+        },
+        {
+            "id": "00855",
+            "eng": " A hat set at a rakish angle .",
+            "vie": " Một cái mũ đội lệch trông ngông_nghênh ."
+        },
+        {
+            "id": "00856",
+            "eng": " A headland that juts out into the sea .",
+            "vie": " Một mũi_đất nhô ra biển ."
+        },
+        {
+            "id": "00857",
+            "eng": " A headless man haunts the castle .",
+            "vie": " Một người đàn_ông không có đầu hiện ra ở lâu_đài ấy ."
+        },
+        {
+            "id": "00858",
+            "eng": " A healthy balance of payments position .",
+            "vie": " Một tình_trạng cân_đối thanh_toán khả_quan ."
+        },
+        {
+            "id": "00859",
+            "eng": " A healthy body temperature is 98.4 degrees Fahrenheit in Britain , and 98.6 degrees Fahrenheit in the USA .",
+            "vie": " Nhiệt_độ một cơ_thể khoẻ_mạnh là 98,4 độ Fahrenheit ở Anh và 98,6 độ Fahrenheit ở Mỹ ."
+        },
+        {
+            "id": "00860",
+            "eng": " A healthy shoot should form a strong graft .",
+            "vie": " Một cành non tốt sẽ tạo nên một cành ghép chắc ."
+        },
+        {
+            "id": "00861",
+            "eng": " A heater that runs on a very low wattage .",
+            "vie": " Một lò_sưởi chạy tốn rất ít điện ."
+        },
+        {
+            "id": "00862",
+            "eng": " A heavy lorry has jackknifed on the motorway , causing long delays .",
+            "vie": " Một chiếc xe_tải nặng đã gãy gập trên xa_lộ , làm tắc_nghẽn giao_thông lâu ."
+        },
+        {
+            "id": "00863",
+            "eng": " A heavy rain began to fall .",
+            "vie": " Một cơn mưa lớn đã bắt_đầu ."
+        },
+        {
+            "id": "00864",
+            "eng": " A heavyweight boxer known as The Greatest .",
+            "vie": " Một võ_sĩ quyền_Anh hạng nặng được gọi_là người vĩ_đại nhất ."
+        },
+        {
+            "id": "00865",
+            "eng": " A hedge forms the division between her land and mine .",
+            "vie": " Một bờ rào ngăn chia giữa đất của cô ta và của tôi ."
+        },
+        {
+            "id": "00866",
+            "eng": " A hedge of spectators along the pavement .",
+            "vie": " Một hàng_rào khán_giả dọc theo lề_đường hè phố ."
+        },
+        {
+            "id": "00867",
+            "eng": " A hedgehog 's spines point backwards .",
+            "vie": " Lông con nhím chĩa ra phía sau ."
+        },
+        {
+            "id": "00868",
+            "eng": " A heiress living in the lap of luxury .",
+            "vie": " Một người thừa_kế nữ sống cực_kỳ xa_hoa ."
+        },
+        {
+            "id": "00869",
+            "eng": " A help comes in twice a week to clean the house .",
+            "vie": " Người giúp_việc đến hai tuần mỗi lần để lau_chùi nhà_cửa ."
+        },
+        {
+            "id": "00870",
+            "eng": " A hermit used to live in that cave .",
+            "vie": " Trước_đây có một nhà_tu_hành khổ_hạnh sống trong hang đó ."
+        },
+        {
+            "id": "00871",
+            "eng": " A hero much loved by his countrymen .",
+            "vie": " Một vị anh_hùng rất được đồng_bào của anh ta yêu_mến ."
+        },
+        {
+            "id": "00872",
+            "eng": " A hideous monster attacked the helpless villagers .",
+            "vie": " Một con quái_vật khủng_khiếp đã tấn_công dân làng cô_thế ."
+        },
+        {
+            "id": "00873",
+            "eng": " A high - ranking defector seeking political asylum .",
+            "vie": " Một tên phản_bội cao_cấp đang tìm chỗ tị_nạn chính_trị ."
+        },
+        {
+            "id": "00874",
+            "eng": " A high cholesterol level in the blood can cause heart disease .",
+            "vie": " Hàm_lượng cholesteron cao trong máu có_thể gây ra bệnh tim ."
+        },
+        {
+            "id": "00875",
+            "eng": " A high degree of accuracy is needed .",
+            "vie": " Cần có độ chính_xác cao ."
+        },
+        {
+            "id": "00876",
+            "eng": " A high fence ringed the prison camp .",
+            "vie": " Một hàng_rào cao bao quanh trại tù ."
+        },
+        {
+            "id": "00877",
+            "eng": " A high fence that safeguard against intruders .",
+            "vie": " Một hàng_rào cao bảo_vệ khỏi những kẻ xâm_nhập ."
+        },
+        {
+            "id": "00878",
+            "eng": " A high fence that safeguard the house against intruders .",
+            "vie": " Một hàng_rào cao bảo_vệ ngôi nhà khỏi những kẻ xâm_nhập ."
+        },
+        {
+            "id": "00879",
+            "eng": " A high fever is an early manifestation of the disease .",
+            "vie": " Một cơn_sốt cao là một dấu_hiệu báo trước căn_bệnh ."
+        },
+        {
+            "id": "00880",
+            "eng": " A high inflation rate importing hard times for the consumer .",
+            "vie": " Một mức lạm_phát cao có nghĩa là giai_đoạn khó_khăn cho người tiêu_thụ ."
+        },
+        {
+            "id": "00881",
+            "eng": " A high level of redundancy among unskilled workers .",
+            "vie": " Mức_độ dư_thừa cao ở các công_nhân không có tay_nghề ."
+        },
+        {
+            "id": "00882",
+            "eng": " A high mountain rises between the two valleys .",
+            "vie": " Một ngọn núi cao nhô lên giữa hai thung_lũng ."
+        },
+        {
+            "id": "00883",
+            "eng": " A high over southern Europe is bringing fine sunny weather to all parts .",
+            "vie": " Vùng áp cao khắp nam châu_Âu đã tạo thời_tiết đẹp ấm_áp cho mọi miền ."
+        },
+        {
+            "id": "00884",
+            "eng": " A high temperature and a fit of the shakes .",
+            "vie": " Một cơn_sốt cao và một cơn run_rẩy ."
+        },
+        {
+            "id": "00885",
+            "eng": " A high wall made the street a cul - de - sac .",
+            "vie": " Bức tường cao làm con phố đó thành một phố cụt ."
+        },
+        {
+            "id": "00886",
+            "eng": " A high wall round the estate protected their privacy .",
+            "vie": " Một bức tường cao xung_quanh khu đất bảo_vệ sự sống cách_biệt của họ ."
+        },
+        {
+            "id": "00887",
+            "eng": " A highly affected style of writing .",
+            "vie": " Một bút_pháp rất gượng_gạo ."
+        },
+        {
+            "id": "00888",
+            "eng": " A highly controversial view of modern art .",
+            "vie": " Một quan_niệm gây nhiều tranh_luận về nghệ_thuật hiện_đại ."
+        },
+        {
+            "id": "00889",
+            "eng": " A highly developed sense of touch .",
+            "vie": " Một xúc_giác phát_triển cao ."
+        },
+        {
+            "id": "00890",
+            "eng": " A highly developed system of agriculture .",
+            "vie": " Một hệ_thống nông_nghiệp phát_triển cao ."
+        },
+        {
+            "id": "00891",
+            "eng": " A highly exaggerated version of the incident .",
+            "vie": " Một lối tường_thuật hết_sức cường_điệu về sự_cố đó ."
+        },
+        {
+            "id": "00892",
+            "eng": " A hilarious account of their camping holiday .",
+            "vie": " Một câu_chuyện kể cực_kỳ lý_thú về kỳ nghỉ đi cắm_trại của họ ."
+        },
+        {
+            "id": "00893",
+            "eng": " A hill with a gradient of 1 in 4 or 25 % .",
+            "vie": " Một cái đồi có độ dốc 1 trong 4 hoặc là 25 % ."
+        },
+        {
+            "id": "00894",
+            "eng": " A history of the Left in Europe .",
+            "vie": " Lịch_sử phe cánh tả ở châu_Âu ."
+        },
+        {
+            "id": "00895",
+            "eng": " A hitherto unknown species of moth .",
+            "vie": " Một loài bướm_đêm cho đến bây_giờ vẫn chưa ai biết ."
+        },
+        {
+            "id": "00896",
+            "eng": " A hive cannot exist without a queen .",
+            "vie": " Không có ong_chúa thì không có tổ_ong ."
+        },
+        {
+            "id": "00897",
+            "eng": " A hold - up on the motorway .",
+            "vie": " Một vụ kẹt xe trên xa_lộ ."
+        },
+        {
+            "id": "00898",
+            "eng": " A hole in the seat of his trousers .",
+            "vie": " Một lỗ_thủng ở đũng quần của anh ta ."
+        },
+        {
+            "id": "00899",
+            "eng": " A holiday cottage which is only a glorified barn .",
+            "vie": " Ngôi nhà nghỉ_mát thật_ra chỉ là một kho thóc được cường_điệu lên thôi ."
+        },
+        {
+            "id": "00900",
+            "eng": " A holiday free from all responsibilities .",
+            "vie": " Một kỳ nghỉ thảnh_thơi , không vướng trách_nhiệm nào hết ."
+        },
+        {
+            "id": "00901",
+            "eng": " A holiday need not mean inactivity .",
+            "vie": " Ngày nghỉ không hẳn có nghĩa là chẳng làm gì ."
+        },
+        {
+            "id": "00902",
+            "eng": " A holiday will be just the thing for you .",
+            "vie": " Một kỳ nghỉ sẽ thích_hợp với anh nhất ."
+        },
+        {
+            "id": "00903",
+            "eng": " A holiday will help you relax after your exams .",
+            "vie": " Một ngày nghỉ sẽ giúp bạn thư_giãn sau các kỳ thi của bạn ."
+        },
+        {
+            "id": "00904",
+            "eng": " A holiday would be wonderful but the fact of the matter is that we can ' t afford one .",
+            "vie": " Một kỳ nghỉ có_thể sẽ tuyệt_vời nhưng thực_tế là chúng_ta không có đủ điều_kiện để thực_hiện ."
+        },
+        {
+            "id": "00905",
+            "eng": " A holiday would help to take her out of herself .",
+            "vie": " Một kỳ nghỉ có_thể làm nàng nguôi_ngoai nỗi_niềm tâm_sự của chính cô ta ."
+        },
+        {
+            "id": "00906",
+            "eng": " A home for waifs and strays .",
+            "vie": " Một mái ấm cho những trẻ không nhà và trẻ lang_thang ."
+        },
+        {
+            "id": "00907",
+            "eng": " A horizontal transfer for an employee .",
+            "vie": " Một vụ thuyên_chuyển sang một vị_trí tương_đương đối_với một nhân_viên ."
+        },
+        {
+            "id": "00908",
+            "eng": " A horse enjoying a roll in the grass .",
+            "vie": " Một con ngựa thích_thú lăn mình trên cỏ ."
+        },
+        {
+            "id": "00909",
+            "eng": " A horse responsive to the needs of its rider .",
+            "vie": " Một con ngựa đáp_ứng nhanh theo nhu_cầu người cưỡi của nó ."
+        },
+        {
+            "id": "00910",
+            "eng": " A horse that has competed in the Grand National four times .",
+            "vie": " Một con ngựa đã dự thi giải Grand_National bốn lần ."
+        },
+        {
+            "id": "00911",
+            "eng": " A horse with a white mark on its head .",
+            "vie": " Một con ngựa có một đốm trắng ở đầu của nó ."
+        },
+        {
+            "id": "00912",
+            "eng": " A hospice for the terminally ill .",
+            "vie": " Một nhà tế_bần dành cho những người_bệnh hấp_hối ."
+        },
+        {
+            "id": "00913",
+            "eng": " A hospital should be planned as a functional building .",
+            "vie": " Một bệnh_viện cần được thiết_kế với tính_cách một công_trình xây_dựng có chức_năng riêng ."
+        },
+        {
+            "id": "00914",
+            "eng": " A hospital that was visitable by state officials .",
+            "vie": " Một bệnh_viện có_thể được các viên_chức nhà_nước thanh_tra ."
+        },
+        {
+            "id": "00915",
+            "eng": " A hot coal fell out of the fire and burnt the carpet .",
+            "vie": " Một cục than hồng rơi ra ngoài lò và làm cháy tấm thảm ."
+        },
+        {
+            "id": "00916",
+            "eng": " A hot drink warms on a cold day .",
+            "vie": " Một ly rượu làm ấm_bụng trong một ngày lạnh_lẽo ."
+        },
+        {
+            "id": "00917",
+            "eng": " A hot drink will soon set you up .",
+            "vie": " Một thức_uống nóng sẽ chẳng_mấy_chốc làm cho anh khỏe_ra ."
+        },
+        {
+            "id": "00918",
+            "eng": " A hotel out of the ordinary run .",
+            "vie": " Một khách_sạn loại khá hơn bình_thường ."
+        },
+        {
+            "id": "00919",
+            "eng": " A house built like an Indian palace .",
+            "vie": " Một ngôi nhà được xây_dựng như một lâu_đài Ấn_Độ ."
+        },
+        {
+            "id": "00920",
+            "eng": " A house built of grey stone .",
+            "vie": " Một ngôi nhà được xây bằng đá xám ."
+        },
+        {
+            "id": "00921",
+            "eng": " A house built on stable foundations .",
+            "vie": " Một ngôi nhà xây trên móng vững_chắc ."
+        },
+        {
+            "id": "00922",
+            "eng": " A house by the church , river , railway .",
+            "vie": " Một căn nhà gần nhà_thờ , sông , đường xe_lửa ."
+        },
+        {
+            "id": "00923",
+            "eng": " A house destroyed by bombs , fire , explosion .",
+            "vie": " Một ngôi nhà bị tàn_phá bởi bom , lửa , vụ nổ ."
+        },
+        {
+            "id": "00924",
+            "eng": " A house full of antique furniture and objects d ' art .",
+            "vie": " Một nhà đầy đồ_đạc cổ_xưa và những đồ trang_trí mỹ_thuật ."
+        },
+        {
+            "id": "00925",
+            "eng": " A house in a state of dereliction .",
+            "vie": " Một ngôi nhà trong tình_trạng hoang_phế ."
+        },
+        {
+            "id": "00926",
+            "eng": " A house in course of instruction .",
+            "vie": " Một ngôi nhà đang được xây_dựng ."
+        },
+        {
+            "id": "00927",
+            "eng": " A house in need of a major refit .",
+            "vie": " Một căn nhà cần được sửa_chữa lớn ."
+        },
+        {
+            "id": "00928",
+            "eng": " A house in the middle of a wood .",
+            "vie": " Một căn nhà ở giữa rừng ."
+        },
+        {
+            "id": "00929",
+            "eng": " A house man will soon be in your room .",
+            "vie": " Một nhân_viên sẽ đến phòng ông ngay ạ ."
+        },
+        {
+            "id": "00930",
+            "eng": " A house on the shore of Lake Geneva .",
+            "vie": " Một ngôi nhà bên bờ hồ Giơnevơ ."
+        },
+        {
+            "id": "00931",
+            "eng": " A house rated at £ 500 per annum .",
+            "vie": " Một căn nhà được định_giá thuế mỗi năm là 500 bảng Anh ."
+        },
+        {
+            "id": "00932",
+            "eng": " A house set on a wooded hillside .",
+            "vie": " Một ngôi nhà nằm trên một sườn đồi có cây_cối rậm_rạp ."
+        },
+        {
+            "id": "00933",
+            "eng": " A house that is convenient for the shops .",
+            "vie": " Một ngôi nhà ở gần các cửa_hàng ."
+        },
+        {
+            "id": "00934",
+            "eng": " A house that seemed out of scale with its surrounding .",
+            "vie": " Một căn nhà có vẻ không cân_xứng với khu_vực xung_quanh của nó ."
+        },
+        {
+            "id": "00935",
+            "eng": " A house which overlooks the park will cost more .",
+            "vie": " Một căn nhà nhìn về hướng công_viên sẽ đắt hơn ."
+        },
+        {
+            "id": "00936",
+            "eng": " A house with a built - in garage .",
+            "vie": " Căn nhà có gara được xây_dựng bên trong ."
+        },
+        {
+            "id": "00937",
+            "eng": " A house with a classical exterior and a modern interior .",
+            "vie": " Một ngôi nhà bên ngoài cổ_điển và bên trong hiện_đại ."
+        },
+        {
+            "id": "00938",
+            "eng": " A house with a garden at the back .",
+            "vie": " Một ngôi nhà có vườn ở phía sau ."
+        },
+        {
+            "id": "00939",
+            "eng": " A house with a hundred acres of land adjoining it .",
+            "vie": " Một ngôi nhà với một_trăm mẫu đất tiếp_giáp nó ."
+        },
+        {
+            "id": "00940",
+            "eng": " A house with only two outside walls .",
+            "vie": " Một căn nhà chỉ có hai mặt tường hướng ra ngoài ."
+        },
+        {
+            "id": "00941",
+            "eng": " A house with some scope for improvement .",
+            "vie": " Một căn nhà có_thể có khả_năng cải_tiến được ."
+        },
+        {
+            "id": "00942",
+            "eng": " A house within a mile of the station .",
+            "vie": " Một ngôi nhà cách ga không quá một dặm ."
+        },
+        {
+            "id": "00943",
+            "eng": " A hovercraft rides on a cushion of air .",
+            "vie": " Một chiếc tầu lướt chạy trên đệm không_khí ."
+        },
+        {
+            "id": "00944",
+            "eng": " A huge garden in which different flowers rioted during spring and summer .",
+            "vie": " Một khu vườn rộng trong đó các loại hoa khác nhau nở_rộ vào mùa xuân và mùa hạ ."
+        },
+        {
+            "id": "00945",
+            "eng": " A huge investigative and prosecutorial effort .",
+            "vie": " Một nỗ_lực lớn_lao về việc điều_tra và truy_tố ."
+        },
+        {
+            "id": "00946",
+            "eng": " A huge migration of people into Europe .",
+            "vie": " Một số_lượng đông người di_trú vào châu_Âu ."
+        },
+        {
+            "id": "00947",
+            "eng": " A huge shape loomed up out of the fog .",
+            "vie": " Một hình_bóng to_lớn lù_lù hiện ra khỏi màn sương ."
+        },
+        {
+            "id": "00948",
+            "eng": " A huge wave swamped the boat .",
+            "vie": " Một ngọn sóng lớn đã làm ngập chiếc xuồng ."
+        },
+        {
+            "id": "00949",
+            "eng": " A huge wave swept over the deck .",
+            "vie": " Một ngọn sóng lớn tràn nhanh qua boong tàu ."
+        },
+        {
+            "id": "00950",
+            "eng": " A hundred pence make one pound .",
+            "vie": " Một trăm xu bằng một bảng Anh ."
+        },
+        {
+            "id": "00951",
+            "eng": " A hundred soldiers were garrisoned in the town .",
+            "vie": " Một trăm binh_lính được bố_trí bảo_vệ thị_trấn ."
+        },
+        {
+            "id": "00952",
+            "eng": " A hundred years later the English had learned to make a very good drink of chocolate by using milk instead of water .",
+            "vie": " Một trăm năm sau đó người Anh biết cách làm ra một thức_uống sô - cô - la rất ngon bằng cách dùng với sữa thay nước ."
+        },
+        {
+            "id": "00953",
+            "eng": " A hunk of bread , cheese , meat .",
+            "vie": " Một miếng bánh_mì , phó_mát , thịt to ."
+        },
+        {
+            "id": "00954",
+            "eng": " A hut constructed out of branches .",
+            "vie": " Một túp_lều được dựng lên bằng những cành cây ."
+        },
+        {
+            "id": "00955",
+            "eng": " A hut crudely roofed with strips of bark .",
+            "vie": " Một túp_lều được lợp mái sơ_sài bằng mảnh vỏ cây ."
+        },
+        {
+            "id": "00956",
+            "eng": " A hut perched at the edge of the cliff .",
+            "vie": " Một túp_lều nằm chênh_vênh ở rìa vách đá ."
+        },
+        {
+            "id": "00957",
+            "eng": " A is going to change some US dollars into RMB .",
+            "vie": " A sắp đổi một_vài đô_la Mỹ sang nhân_dân_tệ ."
+        },
+        {
+            "id": "00958",
+            "eng": " A jacket patched at the elbows .",
+            "vie": " Một cái áo_khoác được vá ở ngay khuỷu tay_áo ."
+        },
+        {
+            "id": "00959",
+            "eng": " A jacket with leather patches on the elbows .",
+            "vie": " Một chiếc áo_vét - tông có những miếng đắp bằng da trên hai khuỷu tay_áo ."
+        },
+        {
+            "id": "00960",
+            "eng": " A jam in the dispatch department .",
+            "vie": " Một sự ách_tắc ở bộ_phận phân_phối ."
+        },
+        {
+            "id": "00961",
+            "eng": " A jazzed up version of an old tune .",
+            "vie": " Một bản_nhạc jazz cải_biên từ một điệu nhạc cũ ."
+        },
+        {
+            "id": "00962",
+            "eng": " A jeep is ideal for driving over rough terrain .",
+            "vie": " Xe_jeep là lý_tưởng để chạy trên vùng_đất gồ_ghề ."
+        },
+        {
+            "id": "00963",
+            "eng": " A jelly mould in the shape of a racing car .",
+            "vie": " Một khuôn đúc thạch có hình_dáng chiếc xe đua ."
+        },
+        {
+            "id": "00964",
+            "eng": " A jig saw with 1,000 pieces .",
+            "vie": " Bức tranh đó ghép với 1.000 mảnh ."
+        },
+        {
+            "id": "00965",
+            "eng": " A jittery ride over rough terrain .",
+            "vie": " Một cuộc đi chơi bằng xe_gắn_máy lắc_lư trên đường gồ_ghề ."
+        },
+        {
+            "id": "00966",
+            "eng": " A jittery vigil in the dark .",
+            "vie": " Một ca canh_gác sợ_hãi trong bóng_tối ."
+        },
+        {
+            "id": "00967",
+            "eng": " A job in which enterprise is rewarded .",
+            "vie": " Một công_việc nếu dám làm thì được trả lương hậu ."
+        },
+        {
+            "id": "00968",
+            "eng": " A job needing brains rather than brawn .",
+            "vie": " Một công_việc cần khối_óc hơn chân_tay ."
+        },
+        {
+            "id": "00969",
+            "eng": " A job with a lot of scope for self - fulfillment .",
+            "vie": " Một công_việc có nhiều cơ_hội để phát_huy mọi khả_năng của mình ."
+        },
+        {
+            "id": "00970",
+            "eng": " A job with scope for self - fulfillment .",
+            "vie": " Một công_việc có cơ_hội để phát_huy mọi khả_năng của mình ."
+        },
+        {
+            "id": "00971",
+            "eng": " A jockey who has ridden six winners this season .",
+            "vie": " Một anh nài ngựa đã cưỡi sáu con đoạt giải mùa này ."
+        },
+        {
+            "id": "00972",
+            "eng": " A joint venture between the film companies to produce TV shows .",
+            "vie": " Một vụ liên_doanh giữa các hãng phim để sản_xuất các bộ phim_truyền_hình ."
+        },
+        {
+            "id": "00973",
+            "eng": " A joke , story , person that is a bit of a groan .",
+            "vie": " Một lời nói đùa , câu_chuyện , một người thực_sự khiến cho thiên_hạ phải kêu_ca ."
+        },
+        {
+            "id": "00974",
+            "eng": " A joke that was incongruous with polite conversation .",
+            "vie": " Một lời bông_đùa không phù_hợp với cuộc nói_chuyện lịch_sự ."
+        },
+        {
+            "id": "00975",
+            "eng": " A journalist much admired for her wit .",
+            "vie": " Một nhà_báo được nhiều người ngưỡng_mộ vì tài dí_dỏm của bà ta ."
+        },
+        {
+            "id": "00976",
+            "eng": " A journalist with an infallible nose for a story .",
+            "vie": " Một nhà_báo có tài săn_tin rất chính_xác ."
+        },
+        {
+            "id": "00977",
+            "eng": " A journey to the South Pole .",
+            "vie": " Một cuộc hành_trình đến Nam_cực ."
+        },
+        {
+            "id": "00978",
+            "eng": " A judge must be free from prejudice .",
+            "vie": " Một quan_tòa phải không được có thành_kiến ."
+        },
+        {
+            "id": "00979",
+            "eng": " A judge should be impartial and should study every matter objectively .",
+            "vie": " Một quan_tòa phải công_bằng và phải xem_xét mọi việc một_cách khách_quan ."
+        },
+        {
+            "id": "00980",
+            "eng": " A jumble - sized of washing powder .",
+            "vie": " Một gói bột_giặt loại lớn ."
+        },
+        {
+            "id": "00981",
+            "eng": " A jumble of books and papers on the table .",
+            "vie": " Một mớ sách_báo lộn_xộn trên bàn ."
+        },
+        {
+            "id": "00982",
+            "eng": " A jumper of pure new virgin wool .",
+            "vie": " Áo chui cổ toàn len mới_nguyên ."
+        },
+        {
+            "id": "00983",
+            "eng": " A junior clerk in an office .",
+            "vie": " Một thư_ký cấp thấp ở một cơ_quan ."
+        },
+        {
+            "id": "00984",
+            "eng": " A junkyard full of spavined vehicle .",
+            "vie": " Một bãi đồ phế_thải đầy những xe_cộ hỏng ."
+        },
+        {
+            "id": "00985",
+            "eng": " A jury 's decision in a court case must be absolutely objective .",
+            "vie": " Quyết_định của ban bồi_thẩm trong một vụ xử án ở tòa phải tuyệt_đối công_bình ."
+        },
+        {
+            "id": "00986",
+            "eng": " A kettle that is scaly inside .",
+            "vie": " Một cái ấm bị đóng cáu bên trong ."
+        },
+        {
+            "id": "00987",
+            "eng": " A key ring is for carrying keys on .",
+            "vie": " Cái vòng đeo khóa dùng để mắc các chìa_khóa vào ."
+        },
+        {
+            "id": "00988",
+            "eng": " A kill - or - cure approach to the problem .",
+            "vie": " Một giải_pháp sinh_tử đối_với vấn_đề đó ."
+        },
+        {
+            "id": "00989",
+            "eng": " A kilowatt is a thousand watts .",
+            "vie": " Một kilô oát là một ngàn oát ."
+        },
+        {
+            "id": "00990",
+            "eng": " A king infamous for his cruelty .",
+            "vie": " Một ông vua khét_tiếng tàn_bạo ."
+        },
+        {
+            "id": "00991",
+            "eng": " A kit to build a model railway locomotive .",
+            "vie": " Bộ_đồ lắp_ráp một đầu_máy xe_lửa mẫu ."
+        },
+        {
+            "id": "00992",
+            "eng": " A kitchen and dining - room combined .",
+            "vie": " Bếp và phòng ăn_kết_hợp ."
+        },
+        {
+            "id": "00993",
+            "eng": " A kitchen full of electrical appliances .",
+            "vie": " Một nhà_bếp đầy_đủ dụng_cụ điện ."
+        },
+        {
+            "id": "00994",
+            "eng": " A kitchen to the rear of the house .",
+            "vie": " Một căn bếp ở phía sau nhà ."
+        },
+        {
+            "id": "00995",
+            "eng": " A knee - jerk reaction to the mention of prostitution .",
+            "vie": " Một phản_ứng máy_móc khi đề_cập đến vấn_đề mãi_dâm ."
+        },
+        {
+            "id": "00996",
+            "eng": " A knife blunted by years of use .",
+            "vie": " Một con dao đã cùn qua nhiều năm sử_dụng ."
+        },
+        {
+            "id": "00997",
+            "eng": " A knife with a curved blade .",
+            "vie": " Một con dao có lưỡi cong ."
+        },
+        {
+            "id": "00998",
+            "eng": " A knot of people arguing outside the pub .",
+            "vie": " Một nhóm người cãi nhau ngoài quán_rượu ."
+        },
+        {
+            "id": "00999",
+            "eng": " A knowledge of French is an absolute essential .",
+            "vie": " Biết_tiếng Pháp là điều hết_sức cần_thiết ."
+        }
+    ]
+}

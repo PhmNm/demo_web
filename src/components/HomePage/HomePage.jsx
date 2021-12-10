@@ -4,7 +4,7 @@ import React, {
 } from 'react';
 import ReactPaginate from 'react-paginate';
 import './style.css';
-import fTest from './dat_short.json';
+import fTest from '../../../src/999dat.json';
 
 const data = fTest.collection;
 
@@ -51,49 +51,47 @@ function HomePage() {
     };
 
     return (
-        <>
-            <div className="main_table">
-                <div id="root" /><table className="table">
-                    <thead>
-                        <tr>
-                            <th className="col-id">ID</th>
-                            <th className="col-sentence">Sentence</th>
-                        </tr>
-                    </thead>
-                    <tbody className="table-cont">
+        <div className="main_table">
+            <div id="root" /><table className="table">
+                <thead>
+                    <tr>
+                        <th className="col-id">ID</th>
+                        <th className="col-sentence">Sentence</th>
+                    </tr>
+                </thead>
+                <tbody className="table-cont">
 
-                        <Items currentItems={currentItems} />
-                        {/* <tr>
+                    <Items currentItems={currentItems} />
+                    {/* <tr>
                                 <td rowSpan="2" className="col-id">1</td>
                                 <td className="col-sentence">Lorem ipsum dolor sit amet, consectetur.</td>
                             </tr> */}
 
-                    </tbody>
-                    <div className="pagination">
-                        <ReactPaginate
-                            nextLabel=">>"
-                            onPageChange={handlePageClick}
-                            pageRangeDisplayed={0}
-                            marginPagesDisplayed={0}
-                            pageCount={pageCount}
-                            previousLabel="<<"
-                            pageClassName="page-item"
-                            pageLinkClassName="page-link"
-                            previousClassName="page-item"
-                            previousLinkClassName="page-link"
-                            nextClassName="page-item"
-                            nextLinkClassName="page-link"
-                            breakLabel=""
-                            // breakClassName="page-item"
-                            // breakLinkClassName="page-link"
-                            containerClassName="pagination"
-                            activeClassName="active"
-                            renderOnZeroPageCount={null}
-                        />
-                    </div>
-                </table>
-            </div>
-        </>
+                </tbody>
+                <div className="pagination">
+                    <ReactPaginate
+                        nextLabel=">>"
+                        onPageChange={handlePageClick}
+                        pageRangeDisplayed={0}
+                        marginPagesDisplayed={0}
+                        pageCount={pageCount}
+                        previousLabel="<<"
+                        pageClassName="page-item"
+                        pageLinkClassName="page-link"
+                        previousClassName="page-item"
+                        previousLinkClassName="page-link"
+                        nextClassName="page-item"
+                        nextLinkClassName="page-link"
+                        breakLabel=""
+                        // breakClassName="page-item"
+                        // breakLinkClassName="page-link"
+                        containerClassName="pagination"
+                        activeClassName="active"
+                        renderOnZeroPageCount={null}
+                    />
+                </div>
+            </table>
+        </div>
     );
 }
 
