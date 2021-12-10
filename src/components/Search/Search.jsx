@@ -17,6 +17,7 @@ function Matching({ searchTerm }) {
             else if (val.vie.toLowerCase().includes(searchTerm.toLowerCase())) {
                 return val;
             }
+            return "";
         }).map((val) => {
             if (searchTerm !== "") {
                 return (
@@ -33,6 +34,7 @@ function Matching({ searchTerm }) {
 
                 )
             }
+            return "";
         })
 
     )
