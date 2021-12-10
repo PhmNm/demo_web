@@ -9,7 +9,7 @@ function Matching({ searchTerm }) {
     return (
         fTest.collection.filter((val) => {
             if (searchTerm === "") {
-                return val
+                return val;
             }
             else if (val.eng.toLowerCase().includes(searchTerm.toLowerCase())) {
                 return val;
