@@ -31,7 +31,7 @@ function About(props) {
                         <div className="container">
                             <h2>Search by word</h2>
                             <p>This provide search by word feature</p>
-                            <a href="seach.html" className="button">Go to seach page</a>
+                            <Link to="/search" className="button">Go to search page</Link>
                         </div>
                     </div>
                 </div>
