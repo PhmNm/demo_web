@@ -49,6 +49,5 @@ function About(props) {
         </>
     );
 }
-{/* <Link to="/statistics" className="About-button">Go to statistic page</Link> */ }
 
 export default About;
