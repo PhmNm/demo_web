@@ -19,8 +19,7 @@ html {
 
 .column {
   float: left;
-  /* width: 33.3%; */
-  width: 50%;
+  width: 33%;
   margin-bottom: 16px;
   padding: 0 8px;
 }
@@ -47,24 +46,21 @@ html {
     text-align: center;
 }
 
-.button {
-  border: none;
-  outline: 0;
-  display: inline-block;
-  padding: 8px;
-  margin: 0px 30%;
-  color: #DEF2F1;
-  background-color: #2b7a78;
-  text-align: center;
-  cursor: pointer;
+
+.About-button{
+  display: block;
+  background-color: #4CAF50;
+  border-radius: 9px;
   width: 40%;
+  color: white;
+  padding: 10px 3px;
+  font-size: 15px;
+  font-weight: bold;
+  margin: auto;
 }
 
-.button:hover {
-  background-color: #17252a;
-  color: #DEF2F1;
-}
 
-a{
-    text-decoration: none;
+.About-button:hover {
+  background-color: rgb(164, 235, 158);
+  color: #4CAF50;
 }

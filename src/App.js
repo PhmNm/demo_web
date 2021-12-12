@@ -1,33 +1,33 @@
-// import logo from './logo.svg';
 import './App.css';
 import HomePage from './components/HomePage/HomePage';
 import About from './components/About/About';
 import Search from './components/Search/Search';
-// import { Link } from 'react-router-dom';
-// import { Redirect, Route, Switch } from 'react-router';
+import Statistic from './components/Statistics/Statistics';
 import {
   Switch,
   Route,
-  Link
+  NavLink
 } from "react-router-dom";
 function App() {
   return (
     <div className="App">
-      <div>
-        <header className="header">
-          <h2>English-VietNamese Parallel Corpus</h2>
-        </header>
-        <div className="nav-menu">
-          <Link to="/about">ABOUT </Link>
-          <Link to='/search'>SEARCH</Link>
-          {/* <a href="statistic.html">STATISTICS</a> */}
-          <Link to="/">HOME </Link>
-        </div>
+      <div class="nav-menu">
+        <h1>ENGLISH - VIETNAMESE PARALLEL CORPUS</h1>
+        <nav>
+          <ul>
+            <li><NavLink to="/home" activeClassName="active">HOME</NavLink></li>
+            <li><NavLink to="/statistics">STATISTICS</NavLink></li>
+            <li><NavLink to="/search">SEARCH</NavLink></li>
+            <li><NavLink to="/about">ABOUT  </NavLink></li>
+          </ul>
+        </nav>
       </div>
       <Switch>
         <Route path="/" component={HomePage} exact />
+        <Route path="/home" component={HomePage} />
         <Route path="/about" component={About} />
         <Route path="/search" component={Search} />
+        <Route path="/statistics" component={Statistic} />
       </Switch>
     </div>
   );

@@ -1,11 +1,13 @@
 import { React, useState } from 'react';
-import fTest from '../../../src/999dat.json';
-import './style.css';
+import fTest from '../../data/999dat.json';
+import './Search.css';
 
 // const data = fTest.collection;
 // function
 
 function Matching({ searchTerm }) {
+    if (searchTerm !== "")
+        searchTerm = " " + searchTerm + " ";
     return (
         fTest.collection.filter((val) => {
             if (searchTerm === "") {
@@ -36,7 +38,6 @@ function Matching({ searchTerm }) {
             }
             return "";
         })
-
     )
 }
 
@@ -44,13 +45,13 @@ function Search(props) {
     const [searchTerm, setSearchTerm] = useState('');
     return (
         <div className="Search">
-            <input type="text" placeholder="Search..." onChange={e => setSearchTerm(e.target.value)} />
-            <div className="main_table">
-                <div id="root" /><table className="table">
+            <input type="text" placeholder="Search by word..." onChange={e => setSearchTerm(e.target.value)} />
+            <div>
+                <table className="search-table">
                     <thead>
                         <tr>
-                            <th className="col-id">ID</th>
-                            <th className="col-sentence">Sentence</th>
+                            <th className="col-id-head">ID</th>
+                            <th className="col-sentence-head">SENTENCE</th>
                         </tr>
                     </thead>
                     <tbody className="table-cont">

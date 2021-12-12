@@ -51,15 +51,16 @@ h1{
     background-color: #fefffe;
     color: #17252a;
 }
+a.current:link{
+    padding: 5px;
+    border: 3px solid white;
+}
 
 table{
     width: 100%;
 }
 
-a.current:link{
-    padding: 5px;
-    border: 3px solid white;
-}
+
 
 .main_table thead th{
     padding: 6px;

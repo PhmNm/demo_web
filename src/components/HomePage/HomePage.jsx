@@ -3,11 +3,10 @@ import React, {
     useState
 } from 'react';
 import ReactPaginate from 'react-paginate';
-import './style.css';
-import fTest from '../../../src/999dat.json';
+import './Home.css';
+import fTest from '../../data/999dat.json';
 
 const data = fTest.collection;
-
 
 function Items({ currentItems }) {
     return (
@@ -51,43 +50,39 @@ function HomePage() {
     };
 
     return (
-        <div className="main_table">
-            <div id="root" /><table className="table">
+        <div>
+            <table className="home-table">
                 <thead>
                     <tr>
-                        <th className="col-id">ID</th>
-                        <th className="col-sentence">Sentence</th>
+                        <th className="col-id-head">ID</th>
+                        <th className="col-sentence-head">SENTENCE</th>
                     </tr>
                 </thead>
-                <tbody className="table-cont">
-
+                <tbody className="home-table-cont">
                     <Items currentItems={currentItems} />
-                    {/* <tr>
-                                <td rowSpan="2" className="col-id">1</td>
-                                <td className="col-sentence">Lorem ipsum dolor sit amet, consectetur.</td>
-                            </tr> */}
-
                 </tbody>
                 <div className="pagination">
                     <ReactPaginate
-                        nextLabel=">>"
                         onPageChange={handlePageClick}
                         pageRangeDisplayed={0}
                         marginPagesDisplayed={0}
                         pageCount={pageCount}
                         previousLabel="<<"
+                        breakLabel=""
+                        nextLabel=">>"
                         pageClassName="page-item"
                         pageLinkClassName="page-link"
                         previousClassName="page-item"
                         previousLinkClassName="page-link"
                         nextClassName="page-item"
                         nextLinkClassName="page-link"
-                        breakLabel=""
-                        // breakClassName="page-item"
-                        // breakLinkClassName="page-link"
+                        breakClassName="page-item"
+                        breakLinkClassName="page-link"
+                        subContainerClassName="pages pagination"
                         containerClassName="pagination"
                         activeClassName="active"
                         renderOnZeroPageCount={null}
+
                     />
                 </div>
             </table>

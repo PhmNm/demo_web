@@ -1,0 +1,102 @@
+.stat-table{
+    width: 80%;
+    border-right:  1px solid black;
+    border-left:  1px solid black;
+}
+
+.stat-table thead th{
+    padding: 6px;
+    background-color: #17252a;
+    color: white;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.stat-table tbody{
+    overflow-y: auto;
+    width: 100%;
+}
+
+.stat-table td{
+    padding: 6px;
+}
+
+.stat-table-cont td{
+    text-align: center;
+    font-size: 16px;
+    border-right:  1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.col-0{
+    width: 30%;
+}
+.col-w{
+    width: 35%;
+}
+.col-c{
+    width: 35%;
+}
+
+form{
+    padding: 3px;
+    border: 3px solid black;
+    margin: 30px;
+    margin-right: 35px;
+    background-color: white;
+    float: right;
+    width: 15%;
+    display: block;
+}
+
+.button{
+    display: block;
+    background-color: #4CAF50;
+    border-radius: 9px;
+    width: 40%;
+    color: white;
+    padding: 10px 3px;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.button1{
+    display: block;
+    background-color: #ffffff;
+    border-radius: 9px;
+    width: 40%;
+    border-color: #4CAF50;
+    color: #4CAF50;
+    padding: 10px 3px;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.button1:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.button:hover {
+    background-color: rgb(164, 235, 158);
+    color: #4CAF50;
+}
+
+form p{
+    padding: 5px;
+    font-weight: bold;
+    font-size: large;
+    margin-left: 10px;
+
+}
+.option-lan input{
+    margin-left: 15px;
+}
+
+.option-numbers input{
+    margin-left: 15px;
+}
+

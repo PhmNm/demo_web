@@ -1,0 +1,40 @@
+.search-table{
+    width: 100%;
+    border-right:  1px solid black;
+    border-left:  1px solid black;
+}
+
+.search-table thead th{
+    padding: 6px;
+    background-color: #17252a;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.search-table tbody{
+    overflow-y: auto;
+    width: 100%;
+}
+
+.search-table td{
+    padding: 5px;
+}
+
+.table-cont td{
+    border-right:  1px solid black;
+    border-bottom: 1px solid black;
+}
+
+
+input[type=text] {
+    width: 100%;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  /* background-image: url('searchicon.png'); */
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+  }
