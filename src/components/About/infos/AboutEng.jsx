@@ -37,7 +37,7 @@ function AboutEng(props) {
                         <div className="container">
                             <h2>Statistics</h2>
                             <p>This give you a list of word and its count
-                                <ul>
+                                <ul className="about-list">
                                     <li>Select "Top" to show top 50 words.</li>
                                     <li>Select "All" to show all 500 words </li>
                                 </ul>
