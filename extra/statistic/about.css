@@ -3,15 +3,6 @@ margin: 0;
 padding: 0;
 box-sizing: border-box;
 }
-
-body{
-  font-family: 'Times New Roman', Times, serif;
-  font-size: 16px;
-  font-weight: 100;
-  color: black;
-  background-color: #DEF2F1;
-}
-
 .nav-menu {
   padding: 20px;
   display: flex;
@@ -33,11 +24,6 @@ nav ul li{
   display: inline-block;
   margin-right: 20px;
 }
-h1{
-  padding: 5px;
-  color: white;
-}
-
 .nav-menu a 
 {
   float: right;
@@ -51,6 +37,21 @@ h1{
   text-decoration: none;
   font-family: Arial, Helvetica, sans-serif;
 }
+body{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 16px;
+  font-weight: 100;
+  color: black;
+  background-color: #DEF2F1;
+}
+
+
+h1{
+  padding: 5px;
+  color: white;
+}
+
+
 a.current:link{
   padding: 5px;
   border: 3px solid white;
