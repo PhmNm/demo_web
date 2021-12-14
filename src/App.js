@@ -1,5 +1,5 @@
 import './App.css';
-import logo from './logo_khtn_remake.png';
+import logo from './clc_logo.png';
 import HomePage from './components/HomePage/HomePage';
 import About from './components/About/About';
 import Search from './components/Search/Search';
@@ -41,26 +41,25 @@ function App() {
                 <li>Ngô Nguyễn Nhật Hạ (19120...@student.hcmus.edu.vn)</li>
                 <li>Phạm Văn Nam (19120...@student.hcmus.edu.vn)</li>
                 <li>Bùi Nguyên Nghĩa (19120...@student.hcmus.edu.vn)</li>
-              </ul>
-            </div>
-            <div className="footer-col">
-              <ul className="list-info">
-                <h2>Contact</h2>
-                <li>Ho Chi Minh University of Science</li>
-                <li>227 Nguyen Van Cu, District 5, Ho Chi Minh City, Vietnam.</li>
-                <li>(Tel): (84) 286 2884-499 - (84) 287 3089 899</li>
-
-              </ul>
-            </div>
-            <div className="footer-col">
-              <ul className="list-info">
-                <h2>Contributer & Supervisor </h2>
+                <h2>Contributers & Supervisors </h2>
                 <li>Thầy Đinh Điền</li>
                 <li>Thầy Lương An Vinh</li>
                 <li>Thầy Nguyễn Hồng Bửu Long</li>
               </ul>
             </div>
-            <img src={logo} alt="logo" width="150" height="150" className='logo-col' />
+            <div className="footer-col">
+              <ul className="list-info">
+                <h2>Contact</h2>
+                <li>TRUNG TÂM NGÔN NGỮ HỌC TÍNH TOÁN</li>
+                <li>Phòng C44, tòa nhà C,
+                  227 Nguyễn Văn Cừ, Quận 5,
+                  Tp Hồ Chí Minh, Việt Nam.</li>
+                <li>Website: www.clc.hcmus.edu.vn</li>
+                <li>Email: clc@hcmus.edu.vn</li>
+                <li>Điện thoại: (028) 66 849 856</li>
+              </ul>
+            </div>
+            <img src={logo} alt="logo" width="190" height="100" className='logo-col' />
           </div>
         </footer>
       </div>

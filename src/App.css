@@ -69,29 +69,31 @@ h1 {
 }
 
 .group-info {
-  padding-top: 5px;
+  /* padding-top: 5px; */
   position: relative;
   width: 100%;
   bottom: 0;
   align-items: center;
   overflow: auto; 
-  padding: 0px 20px;
+  padding: 10px 30px;
   background-color: #2b7a78;
 
 }
 .footer-col{
   display: inline-flex;
-  margin-top: 5px;
-  width: 33%;
+  width: 40%;
 }
 
 .list-info{
+  margin-top: 10px;
+  margin-bottom: 20px;
   padding-top: 20px;
   list-style: none;
 }
 
 .logo-col {
-  height: 10%;
+  margin-top: 30px;
+  margin-right: 60px;
   float: right;
 }
 
