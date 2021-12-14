@@ -1,4 +1,5 @@
 import './App.css';
+import logo from './logo_khtn_remake.png';
 import HomePage from './components/HomePage/HomePage';
 import About from './components/About/About';
 import Search from './components/Search/Search';
@@ -36,8 +37,7 @@ function App() {
           <div className="footer-row">
             <div className="footer-col">
               <ul className="list-info">
-                <h2>About us</h2>
-                <li>Developers</li>
+                <h2>Developers</h2>
                 <li>Ngô Nguyễn Nhật Hạ (19120...@student.hcmus.edu.vn)</li>
                 <li>Phạm Văn Nam (19120...@student.hcmus.edu.vn)</li>
                 <li>Bùi Nguyên Nghĩa (19120...@student.hcmus.edu.vn)</li>
@@ -60,6 +60,7 @@ function App() {
                 <li>Thầy Nguyễn Hồng Bửu Long</li>
               </ul>
             </div>
+            <img src={logo} alt="logo" width="150" height="150" className='logo-col' />
           </div>
         </footer>
       </div>
