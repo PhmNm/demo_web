@@ -59,7 +59,10 @@ function App() {
                 <li>Điện thoại: (028) 66 849 856</li>
               </ul>
             </div>
-            <img src={logo} alt="logo" width="190" height="100" className='logo-col' />
+
+            <a href="http://www.clc.hcmus.edu.vn/">
+              <img src={logo} alt="logo" width="190" height="100" className='logo-col' />
+            </a>
           </div>
         </footer>
       </div>
