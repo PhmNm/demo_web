@@ -32,12 +32,8 @@ function HomePage() {
     const itemsPerPage = 10;
     const [currentItems, setCurrentItems] = useState(null);
     const [pageCount, setPageCount] = useState(0);
-    // Here we use item offsets; we could also use page offsets
-    // following the API or data you're working with.
     const [itemOffset, setItemOffset] = useState(0);
-
     useEffect(() => {
-        // Fetch items from another resources.
         const endOffset = itemOffset + itemsPerPage;
         console.log(`Loading items from ${itemOffset} to ${endOffset}`);
         setCurrentItems(data.slice(itemOffset, endOffset));
@@ -48,7 +44,6 @@ function HomePage() {
         console.log(`User requested page number ${event.selected}, which is offset ${newOffset}`);
         setItemOffset(newOffset);
     };
-
     return (
         <div>
             <table className="home-table">
@@ -82,7 +77,6 @@ function HomePage() {
                         containerClassName="pagination"
                         activeClassName="active"
                         renderOnZeroPageCount={null}
-
                     />
                 </div>
             </table>

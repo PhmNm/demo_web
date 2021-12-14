@@ -108,7 +108,6 @@ function Statistic(props) {
 
                     <tbody className="stat-table-cont">
                         <MatchFilter values={FilterTerm} />
-
                     </tbody>
                 </table>
             </div>

@@ -3,7 +3,6 @@ import AboutEng from './infos/AboutEng';
 import AboutVie from './infos/AboutVie';
 import './About.css';
 
-
 function Showlang({ lang }) {
     console.log(lang)
     if (lang === 'eng') {
@@ -13,7 +12,6 @@ function Showlang({ lang }) {
         return <AboutVie />
     }
 }
-
 
 function About(props) {
     const [curLang, setLang] = useState('eng');

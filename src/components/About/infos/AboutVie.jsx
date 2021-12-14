@@ -1,9 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-// About.propTypes = {
-
-// };
 
 function AboutVie(props) {
     return (
