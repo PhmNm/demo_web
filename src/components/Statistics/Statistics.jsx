@@ -66,7 +66,7 @@ const defaultValues = {
 }
 
 function Statistic(props) {
-    const [FilterTerm, setFitlerTerm] = useState('');
+    const [FilterTerm, setFitlerTerm] = useState(defaultValues);
     const { register, handleSubmit, reset } = useForm();
     const onSubmit = (data) => {
         console.log(data);
@@ -77,19 +77,26 @@ function Statistic(props) {
             <form onSubmit={handleSubmit(onSubmit)}>
                 <div className="option-lan">
                     <p>Language</p>
-                    <input type="radio" defaultValue="eng" defaultChecked {...register("lang")} />
-                    <label >English</label> <br />
-
-                    <input type="radio" defaultValue="vie"  {...register("lang")} />
-                    <label >Vietnamese</label>
+                    <label class="container-radio">English
+                        <input type="radio" defaultValue="eng" defaultChecked {...register("lang")} />
+                        <span class="checkmark"></span>
+                    </label>
+                    <label class="container-radio">Vietnamese
+                        <input type="radio" defaultValue="vie"  {...register("lang")} />
+                        <span class="checkmark"></span>
+                    </label>
                 </div>
                 <br />
                 <div className="option-numbers">
                     <p>Numbers</p>
-                    <input type="radio" defaultValue="top" defaultChecked {...register("type")} />
-                    <label>Top</label> <br />
-                    <input type="radio" defaultValue="all"  {...register("type")} />
-                    <label>All</label>
+                    <label class="container-radio">Top
+                        <input type="radio" defaultValue="top" defaultChecked {...register("type")} />
+                        <span class="checkmark"></span>
+                    </label>
+                    <label class="container-radio">All
+                        <input type="radio" defaultValue="all"  {...register("type")} />
+                        <span class="checkmark"></span>
+                    </label>
                 </div>
                 <input type="submit" className="button1" value="Filter" />
                 <input type="submit" className="button" value="Reset" onClick={() => {

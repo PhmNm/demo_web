@@ -2,8 +2,6 @@ import { React, useState } from 'react';
 import fTest from '../../data/999dat.json';
 import './Search.css';
 
-// const data = fTest.collection;
-// function
 
 function Matching({ searchTerm }) {
     if (searchTerm !== "")
@@ -33,7 +31,6 @@ function Matching({ searchTerm }) {
                             <td className="col-sentence">{val.vie}</td>
                         </tr>
                     </>
-
                 )
             }
             return "";
@@ -45,7 +42,7 @@ function Search(props) {
     const [searchTerm, setSearchTerm] = useState('');
     return (
         <div className="Search">
-            <input type="text" placeholder="Search by word..." onChange={e => setSearchTerm(e.target.value)} />
+            <input type="text" placeholder="Search by match word..." onChange={e => setSearchTerm(e.target.value)} />
             <div>
                 <table className="search-table">
                     <thead>

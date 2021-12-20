@@ -85,12 +85,13 @@ ul.pagination li.active a {
 }
 
 a.page-link {
-      padding: 0.5rem 1rem;
-      min-width: 3.5rem;
-      text-align: center;
-      border-color:#14cebe;
-      font-weight: bold;
-      font-size: 1rem;
+    padding: 0.5rem 1rem;
+    min-width: 3.5rem;
+    text-align: center;
+    border-color:#14cebe;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 1rem;
 }
 
 .disabled > a {

@@ -28,8 +28,8 @@ function About(props) {
     }
     return (
         <div>
-            <button className="Lang-button" onClick={handlePageClick}>{curLang}</button>
             <Showlang lang={curLang} />
+            <button className="Lang-button" onClick={handlePageClick}>{curLang}</button>
         </div>
     );
 }
