@@ -26,7 +26,7 @@ function AboutVie(props) {
                         <div className="container">
                             <h2>TÌM KIẾM TỪ</h2>
                             <p>Trong trang này, người dùng có thể tìm kiếm một từ trong thanh tìm kiếm.
-                                <br></br>Bấm nút "Search" để hiển thị kết quả ở dạng bảng chứa các câu tương ứng.
+                                <br></br>Bấm Enter hoặc nút "Search" để hiển thị kết quả ở dạng bảng chứa các câu tương ứng.
                             </p>
                         </div>
                         <Link to="/search" className="About-button">Đi đến trang tìm kiếm</Link>

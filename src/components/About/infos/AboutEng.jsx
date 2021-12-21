@@ -25,7 +25,7 @@ function AboutEng(props) {
                         <div className="container">
                             <h2>Search by word</h2>
                             <p>User can search a word in the search bar.
-                                <br></br>Press the button "Search" to display the result matched the case.</p>
+                                <br></br>Press Enter or button "Search" to display the result matched the case.</p>
                         </div>
                         <Link to="/search" className="About-button">Go to search page</Link>
                     </div>
