@@ -74,7 +74,7 @@ function Statistic(props) {
     }
     return (
         <>
-            <form onSubmit={handleSubmit(onSubmit)}>
+            <form className="stat-form" onSubmit={handleSubmit(onSubmit)}>
                 <div className="option-lan">
                     <p>Language</p>
                     <label class="container-radio">English

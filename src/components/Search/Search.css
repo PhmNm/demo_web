@@ -27,6 +27,29 @@
 }
 
 
+
+.form-search {
+    display: flex;
+    width: 100%;
+}
+
+.search-text{
+    width: 70%;
+    margin-top: 4px;
+    margin-left: 2px;
+    margin-bottom: 2px;
+}
+
+.option-case{
+    width: 17%;
+    margin-top: 15px;
+}
+
+.submit-search{
+    width: 10%;
+    margin-top: 7px;
+}
+
 input[type=text] {
     width: 100%;
     margin-left: 1px;
@@ -39,4 +62,86 @@ input[type=text] {
     background-position: 10px 10px; 
     background-repeat: no-repeat;
     padding: 12px 20px 12px 40px;
+}
+
+.search-radio {
+  display: inline-flex;
+  position: relative;
+  padding-left: 30px;
+  padding-bottom: 2px;
+  cursor: pointer;
+  font-size: 18px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  margin-left: 15px;
+}
+
+/* Hide the browser's default radio button */
+.search-radio input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+
+/* Create a custom radio button */
+.search-checkmark {
+  position: absolute;
+  margin-top: 4px;
+  top: 0;
+  left: 0;
+  height: 19px;
+  width: 19px;
+  background-color: white;
+  border-radius: 50%;
+}
+
+/* On mouse-over, add a grey background color */
+.search-radio:hover input ~ .search-checkmark {
+  background-color: #ccc;
+}
+
+/* When the radio button is checked, add a blue background */
+.search-radio input:checked ~ .search-checkmark {
+  background-color: #4CAF50;
+}
+
+/* Create the indicator (the dot/circle - hidden when not checked) */
+.search-checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the indicator (dot/circle) when checked */
+.search-radio input:checked ~ .search-checkmark:after {
+  display: block;
+}
+
+/* Style the indicator (dot/circle) */
+.search-radio .search-checkmark:after {
+ 	top: 6px;
+	left: 6px;
+	width: 7px;
+	height: 7px;
+	border-radius: 50%;
+	background: white;
+}
+
+.button-search{
+    display: block;
+    background-color: #ffffff;
+    border-radius: 9px;
+    width: 60%;
+    height: 40px;
+    border-color: #4CAF50;
+    color: #4CAF50;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.button-search:hover {
+    background-color: #4CAF50;
+    color: white;
 }

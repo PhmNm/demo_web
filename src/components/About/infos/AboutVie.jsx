@@ -18,7 +18,7 @@ function AboutVie(props) {
                             <p>Đây là trang chủ và dùng để hiển thị các ngữ liệu song ngữ Anh-Việt.
                                 Nhấn vào từng câu để xem rõ gióng hàng.</p>
                         </div>
-                        <Link to="/" className="About-button">Go to home page</Link>
+                        <Link to="/" className="About-button">Đi đến home page</Link>
                     </div>
                 </div>
                 <div className="about-column">
@@ -26,9 +26,10 @@ function AboutVie(props) {
                         <div className="container">
                             <h2>TÌM KIẾM TỪ</h2>
                             <p>Trong trang này, người dùng có thể tìm kiếm một từ trong thanh tìm kiếm.
-                                Kết quả trả về là câu (các câu) có chứa từ đó.</p>
+                                <br></br>Bấm nút "Search" để hiển thị kết quả ở dạng bảng chứa các câu tương ứng.
+                            </p>
                         </div>
-                        <Link to="/search" className="About-button">Go to search page</Link>
+                        <Link to="/search" className="About-button">Đi đến trang tìm kiếm</Link>
                     </div>
                 </div>
                 <div className="about-column">
@@ -42,7 +43,7 @@ function AboutVie(props) {
                                 </ul>
                             </p>
                         </div>
-                        <Link to="/statistics" className="About-button">Go to statistic page</Link>
+                        <Link to="/statistics" className="About-button">Đi đến trang thống kê</Link>
                     </div>
                 </div>
             </div>

@@ -1,11 +1,17 @@
 import { React, useState } from 'react';
+import { useForm } from 'react-hook-form';
+
 import fTest from '../../data/999dat.json';
 import './Search.css';
 
 
-function Matching({ searchTerm }) {
-    if (searchTerm !== "")
-        searchTerm = " " + searchTerm + " ";
+function Matching({ Filter }) {
+    console.log(Filter)
+    let searchTerm = Filter.text
+    if (Filter.case === "match") {
+        if (searchTerm !== "")
+            searchTerm = " " + searchTerm + " ";
+    }
     return (
         fTest.collection.filter((val) => {
             if (searchTerm === "") {
@@ -38,11 +44,39 @@ function Matching({ searchTerm }) {
     )
 }
 
+const defaultValues = {
+    text: "",
+    case: "match"
+}
 function Search(props) {
-    const [searchTerm, setSearchTerm] = useState('');
+    // const [searchTerm, setSearchTerm] = useState('');
+    const [FilterTerm, setFitlerTerm] = useState(defaultValues);
+    const { register, handleSubmit } = useForm();
+    const onSubmit = (data) => {
+        console.log(data);
+        setFitlerTerm(data);
+    }
     return (
         <div className="Search">
-            <input type="text" placeholder="Search by match word..." onChange={e => setSearchTerm(e.target.value)} />
+            <form className="form-search" onSubmit={handleSubmit(onSubmit)}>
+                <div className="search-text">
+                    <input type="text" placeholder="Search by word..." {...register("text")} />
+                </div>
+                <div className="option-case">
+                    <label class="search-radio">Match case
+                        <input type="radio" defaultValue="match" defaultChecked {...register("case")} />
+                        <span class="search-checkmark"></span>
+                    </label>
+                    <label class="search-radio">Included
+                        <input type="radio" defaultValue="incl"  {...register("case")} />
+                        <span class="search-checkmark"></span>
+                    </label>
+                </div>
+                <div className="submit-search">
+                    <input type="submit" className="button-search" value="Search" />
+
+                </div>
+            </form>
             <div>
                 <table className="search-table">
                     <thead>
@@ -52,7 +86,7 @@ function Search(props) {
                         </tr>
                     </thead>
                     <tbody className="table-cont">
-                        <Matching searchTerm={searchTerm} />
+                        <Matching Filter={FilterTerm} />
                     </tbody>
                 </table>
             </div>
