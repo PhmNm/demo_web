@@ -34,20 +34,21 @@
 }
 
 .search-text{
-    width: 70%;
+    width: 85%;
     margin-top: 4px;
     margin-left: 2px;
     margin-bottom: 2px;
 }
 
 .option-case{
-    width: 17%;
+    width: 20%;
     margin-top: 15px;
 }
 
 .submit-search{
-    width: 10%;
+    width: 7%;
     margin-top: 7px;
+    margin-right: 5px;
 }
 
 input[type=text] {
@@ -133,7 +134,7 @@ input[type=text] {
     display: block;
     background-color: #ffffff;
     border-radius: 9px;
-    width: 60%;
+    width: 100%;
     height: 40px;
     border-color: #4CAF50;
     color: #4CAF50;
