@@ -97,3 +97,9 @@ a.page-link {
 .disabled > a {
     color: #e6e6e6;
 }
+
+.col-sentence span:hover {
+    cursor: pointer;
+    color: #2b7a78;
+    font-weight: bold;
+}

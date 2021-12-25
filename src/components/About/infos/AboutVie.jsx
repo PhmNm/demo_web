@@ -10,7 +10,7 @@ function AboutVie(props) {
                     <h1>GIỚI THIỆU VỀ WEBSITE</h1>
                     <p>Website này được ra cho mục đích khai thác song ngữ Anh-Việt.</p>
                 </div>
-                <h2>Các Chức năng chính</h2>
+                <h2>Các chức năng chính</h2>
                 <div className="about-column">
                     <div className="card">
                         <div className="container">
