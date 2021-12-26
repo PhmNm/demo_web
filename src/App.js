@@ -38,13 +38,15 @@ function App() {
             <div className="footer-col">
               <ul className="list-info">
                 <h2>Developers</h2>
-                <li>Ngô Nguyễn Nhật Hạ (19120...@student.hcmus.edu.vn)</li>
-                <li>Phạm Văn Nam (19120...@student.hcmus.edu.vn)</li>
-                <li>Bùi Nguyên Nghĩa (19120...@student.hcmus.edu.vn)</li>
+                <li>Ngô Nguyễn Nhật Hạ (19120498@student.hcmus.edu.vn)</li>
+                <li>Phạm Văn Nam (19120597@student.hcmus.edu.vn)</li>
+                <li>Bùi Nguyên Nghĩa (19120600@student.hcmus.edu.vn)</li>
                 <h2>Contributers & Supervisors </h2>
                 <li>Thầy Đinh Điền</li>
                 <li>Thầy Lương An Vinh</li>
                 <li>Thầy Nguyễn Hồng Bửu Long</li>
+                <li>Thầy Đỗ Trần Anh Đức</li>
+
               </ul>
             </div>
             <div className="footer-col">
@@ -54,7 +56,7 @@ function App() {
                 <li>Phòng C44, tòa nhà C,
                   227 Nguyễn Văn Cừ, Quận 5,
                   Tp Hồ Chí Minh, Việt Nam.</li>
-                <li>Website: www.clc.hcmus.edu.vn</li>
+                <li>Website: <a href="http://www.clc.hcmus.edu.vn/">www.clc.hcmus.edu.vn</a></li>
                 <li>Email: clc@hcmus.edu.vn</li>
                 <li>Điện thoại: (028) 66 849 856</li>
               </ul>
