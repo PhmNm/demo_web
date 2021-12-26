@@ -38,8 +38,8 @@ function AboutVie(props) {
                             <h2>THỐNG KÊ</h2>
                             <p>Trong trang này, người dùng có thể nhìn thấy những từ phổ biến trong ngữ liệu.
                                 <ul className="about-list">
-                                    <li>Chọn "Top" để xem 50 từ phổ biến nhất.</li>
-                                    <li>Chọn "All" để xem tất cả 500 từ.</li>
+                                    <li>Chọn "Top" để xem 100 từ phổ biến nhất.</li>
+                                    <li>Chọn "All" để xem tất cả 1000 từ.</li>
                                 </ul>
                             </p>
                         </div>

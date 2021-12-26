@@ -31,13 +31,13 @@ const vie_sort_by_letter = [...viewords].sort(function (a, b) {
 function MatchFilter({ values }) {
     var dat = [];
     if (values.lang === "eng" && values.type === "top") {
-        dat = engwords.slice(0, 50);
+        dat = engwords.slice(0, 100);
     }
     if (values.lang === "eng" && values.type === "all") {
         dat = eng_sort_by_letter;
     }
     else if (values.lang === "vie" && values.type === "top") {
-        dat = viewords.slice(0, 50);
+        dat = viewords.slice(0, 100);
     }
     else if (values.lang === "vie" && values.type === "all") {
         dat = vie_sort_by_letter;
