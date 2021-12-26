@@ -63,7 +63,7 @@ function Search(props) {
                     <input type="text" placeholder="Search by word..." {...register("text")} />
                 </div>
                 <div className="option-case">
-                    <label class="search-radio">Match case
+                    <label class="search-radio">Match cases
                         <input type="radio" defaultValue="match" defaultChecked {...register("case")} />
                         <span class="search-checkmark"></span>
                     </label>
